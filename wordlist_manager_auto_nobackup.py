@@ -4,6 +4,8 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import subprocess
+from datetime import datetime
 from pathlib import Path
 
 ANNOTATION_RE = re.compile(r"\s*:\s*\S+\s*\(\d+\)")
@@ -72,9 +74,66 @@ def write_crlf(path: Path, words: list[str]) -> None:
     path.write_text(content, encoding="utf-8", newline="")
 
 
+def run_git(args: list[str], cwd: Path, check: bool = True) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        ["git", *args],
+        cwd=cwd,
+        text=True,
+        capture_output=True,
+        check=check,
+    )
+
+
+def push_to_github(master: Path, batch: Path, added: int, removed: int) -> None:
+    try:
+        repo_root_text = run_git(
+            ["rev-parse", "--show-toplevel"], master.parent
+        ).stdout.strip()
+    except FileNotFoundError as exc:
+        raise RuntimeError("Git tidak ditemukan. Pastikan Git sudah terinstal dan PowerShell sudah dibuka ulang.") from exc
+    except subprocess.CalledProcessError as exc:
+        detail = (exc.stderr or exc.stdout).strip()
+        raise RuntimeError(
+            f"Folder master.txt bukan repository Git yang valid. {detail}"
+        ) from exc
+
+    repo_root = Path(repo_root_text)
+
+    try:
+        master_rel = master.relative_to(repo_root)
+        batch_rel = batch.relative_to(repo_root)
+    except ValueError as exc:
+        raise RuntimeError("master.txt dan batch.txt harus berada di dalam repository Git yang sama.") from exc
+
+    try:
+        run_git(["add", "--", str(master_rel), str(batch_rel)], repo_root)
+
+        staged = run_git(["diff", "--cached", "--quiet"], repo_root, check=False)
+        if staged.returncode == 0:
+            print("GitHub                     : tidak ada perubahan untuk di-commit")
+            run_git(["push"], repo_root)
+            print("Git push                   : selesai")
+            return
+        if staged.returncode != 1:
+            raise RuntimeError("Gagal memeriksa perubahan Git yang sudah di-stage.")
+
+        stamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        message = f"Update word list: +{added} -{removed} ({stamp})"
+        run_git(["commit", "-m", message], repo_root)
+        push_result = run_git(["push"], repo_root)
+
+        print(f"Git commit                 : {message}")
+        print("Git push                   : berhasil ke GitHub")
+        if push_result.stdout.strip():
+            print(push_result.stdout.strip())
+    except subprocess.CalledProcessError as exc:
+        detail = (exc.stderr or exc.stdout).strip()
+        raise RuntimeError(f"Proses Git gagal: {detail}") from exc
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Perbarui master, kosongkan batch, dan hapus backup lama."
+        description="Perbarui master, kosongkan batch, lalu commit dan push otomatis ke GitHub."
     )
     parser.add_argument("master", type=Path)
     parser.add_argument("batch", type=Path)
@@ -133,6 +192,14 @@ def main() -> None:
     print(f"Master diperbarui          : {master}")
     print(f"Batch telah dikosongkan    : {batch}")
     print("Backup permanen            : tidak dibuat")
+
+    print("\nMENGIRIM KE GITHUB")
+    push_to_github(
+        master,
+        batch,
+        added=len(actually_added),
+        removed=len(actually_removed),
+    )
 
 
 if __name__ == "__main__":
