@@ -143,8 +143,8 @@ logConn = LogService.MessageOut:Connect(function(message, type)
 	end
 end)
 
-local url = "https://raw.githubusercontent.com/skrylor/english-words/refs/heads/main/merged_english.txt"
-local fileName = "ultimate_words_v4.txt"
+local url = "https://raw.githubusercontent.com/skrylor/english-words/refs/heads/main/master.txt"
+local fileName = "ultimate_words.txt"
 
 -- Temporary Loading UI
 local LoadingGui = Instance.new("ScreenGui")
