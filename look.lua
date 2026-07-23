@@ -143,7 +143,7 @@ logConn = LogService.MessageOut:Connect(function(message, type)
     end
 end)
 
-local url = "https://raw.githubusercontent.com/spectralon14-crypto/caustle/main/bleh.txt"
+local url = "https://raw.githubusercontent.com/spectralon14-crypto/caustle/main/master.txt"
 local fileName = "ultimate_words.txt"
 
 -- Temporary Loading UI
