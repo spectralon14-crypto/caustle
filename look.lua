@@ -56,7 +56,6 @@ local Config = {
         _4p = true,
         _8p = true
     },
-    PanicMode = true,
     ShowKeyboard = false,
     ErrorRate = 5,
     ThinkDelay = 0.8,
@@ -92,7 +91,6 @@ local suffixMode = Config.SuffixMode or ""
 local lengthMode = Config.LengthMode or 0
 local autoPlay = Config.AutoPlay
 local autoJoin = Config.AutoJoin
-local panicMode = Config.PanicMode
 local showKeyboard = Config.ShowKeyboard
 local errorRate = Config.ErrorRate
 local thinkDelayCurrent = Config.ThinkDelay
@@ -172,7 +170,7 @@ LoadingTitle.BackgroundTransparency = 1
 LoadingTitle.Text = "WordHelper V4"
 LoadingTitle.TextColor3 = THEME.Accent
 LoadingTitle.Font = Enum.Font.GothamBold
-LoadingTitle.TextSize = 18
+LoadingTitle.TextSize = 20
 
 local LoadingStatus = Instance.new("TextLabel", LoadingFrame)
 LoadingStatus.Size = UDim2.new(1, -20, 0, 30)
@@ -467,7 +465,7 @@ end
 
 local MainFrame = Instance.new("Frame")
 MainFrame.Name = "MainFrame"
-MainFrame.Size = UDim2.new(0, 300, 0, 500)
+MainFrame.Size = UDim2.new(0, 340, 0, 560)
 MainFrame.Position = UDim2.new(0.8, -50, 0.4, 0)
 MainFrame.BackgroundColor3 = THEME.Background
 MainFrame.BorderSizePixel = 0
@@ -526,7 +524,7 @@ local Title = Instance.new("TextLabel", Header)
 Title.Text = "Word<font color=\"rgb(114,100,255)\">Helper</font> V4"
 Title.RichText = true
 Title.Font = Enum.Font.GothamBold
-Title.TextSize = 18
+Title.TextSize = 20
 Title.TextColor3 = THEME.Text
 Title.Size = UDim2.new(1, -50, 1, 0)
 Title.Position = UDim2.new(0, 15, 0, 0)
@@ -578,7 +576,7 @@ local StatusText = Instance.new("TextLabel", StatusFrame)
 StatusText.Text = "Idle..."
 StatusText.RichText = true
 StatusText.Font = Enum.Font.Gotham
-StatusText.TextSize = 12
+StatusText.TextSize = 14
 StatusText.TextColor3 = THEME.SubText
 StatusText.Size = UDim2.new(1, -15, 1, 0)
 StatusText.Position = UDim2.new(0, 15, 0, 0)
@@ -586,7 +584,7 @@ StatusText.BackgroundTransparency = 1
 StatusText.TextXAlignment = Enum.TextXAlignment.Left
 
 local SearchFrame = Instance.new("Frame", MainFrame)
-SearchFrame.Size = UDim2.new(1, -10, 0, 26)
+SearchFrame.Size = UDim2.new(1, -10, 0, 30)
 SearchFrame.Position = UDim2.new(0, 5, 0, 82)
 SearchFrame.BackgroundColor3 = THEME.ItemBG
 Instance.new("UICorner", SearchFrame).CornerRadius = UDim.new(0, 6)
@@ -596,7 +594,7 @@ SearchBox.Size = UDim2.new(1, -20, 1, 0)
 SearchBox.Position = UDim2.new(0, 10, 0, 0)
 SearchBox.BackgroundTransparency = 1
 SearchBox.Font = Enum.Font.Gotham
-SearchBox.TextSize = 14
+SearchBox.TextSize = 16
 SearchBox.TextColor3 = THEME.Text
 SearchBox.PlaceholderText = "Search words..."
 SearchBox.PlaceholderColor3 = THEME.SubText
@@ -611,7 +609,7 @@ end)
 
 local ScrollList = Instance.new("ScrollingFrame", MainFrame)
 ScrollList.Size = UDim2.new(1, -10, 1, -220)
-ScrollList.Position = UDim2.new(0, 5, 0, 115)
+ScrollList.Position = UDim2.new(0, 5, 0, 121)
 ScrollList.BackgroundTransparency = 1
 ScrollList.ScrollBarThickness = 3
 ScrollList.ScrollBarImageColor3 = THEME.PlatformAccent
@@ -1825,21 +1823,25 @@ local function SimulateKey(input)
 end
 
 local function Backspace(count)
-    local focused = UserInputService:GetFocusedTextBox()
-    if focused and focused:IsDescendantOf(game) and focused.TextEditable then
-        local text = focused.Text
-        focused.Text = text:sub(1, -count - 1)
-        lastKey = nil
-        return
-    end
-
+    -- Delete one character at a time with relaxed, slightly irregular timing.
+    -- This avoids the old instant TextBox rewrite and looks less mechanical.
     local key = Enum.KeyCode.Backspace
-    for i = 1, count do
+    for i = 1, math.max(0, count) do
+        local hold = 0.018 + math.random() * 0.025
         pcall(function()
             VirtualInputManager:SendKeyEvent(true, key, false, game)
+            task.wait(hold)
             VirtualInputManager:SendKeyEvent(false, key, false, game)
         end)
-        if i % 20 == 0 then task.wait() end
+
+        local delay = 0.045 + math.random() * 0.075
+        if useHumanization then
+            delay = delay + math.random() * 0.055
+            if math.random() < 0.10 then
+                delay = delay + 0.10 + math.random() * 0.22
+            end
+        end
+        task.wait(delay)
     end
     lastKey = nil
 end
@@ -2215,7 +2217,7 @@ UpdateList = function(detectedText, requiredLetter)
         local fallbackExacts = {}
         local partials = {}
         local maxPartialLen = 0
-        local limit = 100
+        local limit = 500
         
         if bucket then
             local checkWord = function(w)
@@ -2262,11 +2264,14 @@ UpdateList = function(detectedText, requiredLetter)
                         checkWord(w)
                         
                         count = count + 1
-                        if count >= 3000 then break end
+                        -- Longest must inspect the complete matching range; otherwise
+                        -- an alphabetically later long word may never be considered.
+                        if sortMode ~= "Longest" and count >= 5000 then break end
                     end
                 end
             else
-                local searchLimit = (sortMode == "Random") and 1000 or limit
+                local searchLimit = (sortMode == "Longest") and math.huge
+                    or ((sortMode == "Random") and 2500 or limit)
                 for _, w in ipairs(bucket) do
                     checkWord(w)
                     if #exacts >= searchLimit then break end
@@ -2305,7 +2310,7 @@ UpdateList = function(detectedText, requiredLetter)
                          local mLen = GetMatchLength(w, requiredLetter)
                          if mLen == #requiredLetter then
                              table.insert(matches, w)
-                             if #matches >= 100 then break end
+                             if #matches >= 500 then break end
                          end
                     end
                 end
@@ -2336,7 +2341,7 @@ UpdateList = function(detectedText, requiredLetter)
     end
     
     local displayList = {}
-    local maxDisplay = 100
+    local maxDisplay = 500
     for i = 1, math.min(maxDisplay, #matches) do table.insert(displayList, matches[i]) end
     
     if showKeyboard and KeyboardFrame.Visible then
@@ -2395,7 +2400,7 @@ UpdateList = function(detectedText, requiredLetter)
             local lbl
             if not btn then
                 btn = Instance.new("TextButton")
-                btn.Size = UDim2.new(1, -6, 0, 30)
+                btn.Size = UDim2.new(1, -6, 0, 34)
                 btn.BackgroundColor3 = THEME.ItemBG
                 btn.Text = ""
                 btn.AutoButtonColor = false
@@ -2407,7 +2412,7 @@ UpdateList = function(detectedText, requiredLetter)
                 lbl.Position = UDim2.new(0, 10, 0, 0)
                 lbl.BackgroundTransparency = 1
                 lbl.Font = Enum.Font.GothamMedium
-                lbl.TextSize = 14
+                lbl.TextSize = 16
                 lbl.TextXAlignment = Enum.TextXAlignment.Left
                 lbl.RichText = true
                 
@@ -2482,13 +2487,13 @@ end)
 MinBtn.MouseButton1Click:Connect(function()
     local isMin = MainFrame.Size.Y.Offset < 100
     if not isMin then
-        Tween(MainFrame, {Size = UDim2.new(0, 300, 0, 45)})
+        Tween(MainFrame, {Size = UDim2.new(0, 340, 0, 45)})
         ScrollList.Visible = false
         SettingsFrame.Visible = false
         StatusFrame.Visible = false
         MinBtn.Text = "+"
     else
-        Tween(MainFrame, {Size = UDim2.new(0, 300, 0, 500)})
+        Tween(MainFrame, {Size = UDim2.new(0, 340, 0, 560)})
         task.wait(0.2)
         ScrollList.Visible = true
         SettingsFrame.Visible = true
@@ -2586,29 +2591,6 @@ runConn = RunService.RenderStepped:Connect(function()
             lastWordCheck = now
         end
         local detected, censored = cachedDetected, cachedCensored
-
-        if isVisible and isMyTurn and not isTyping and seconds and seconds < 1.5 then
-            local char = (requiredLetter or ""):lower()
-            local bucket = Buckets[char]
-            if bucket then
-                local bestWord = nil
-                local bestLen = 999
-                for _, w in ipairs(bucket) do
-                    if not Blacklist[w] and not UsedWords[w] and w:sub(1, #detected) == detected then
-                        if #w < bestLen then
-                            bestWord = w
-                            bestLen = #w
-                        end
-                    end
-                end
-                
-                if bestWord then
-                    StatusText.Text = "PANIC SAVE!"
-                    StatusText.TextColor3 = Color3.fromRGB(255, 50, 50)
-                    SmartType(bestWord, detected, false)
-                end
-            end
-        end
 
         if autoJoin and (now - lastAutoJoinCheck > AUTO_JOIN_RATE) then
             lastAutoJoinCheck = now
