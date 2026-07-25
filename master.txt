@@ -71,9 +71,7 @@ abacuses
 abada
 abadan
 abaddon
-abadejo
 abadengo
-abadia
 abadite
 abaff
 abaft
@@ -4102,6 +4100,7 @@ adamsite
 adamsites
 adamson
 adamstown
+adana
 adance
 adangle
 adansonia
@@ -8140,8 +8139,11 @@ aias
 aiawong
 aiawong-
 aiblins
+aichmophobe
+aichmophobes
 aichmophobia
 aichmophobias
+aichmophobic
 aid
 aida
 aidable
@@ -8792,7 +8794,6 @@ aktistete
 aktivismus
 aktivist
 aku
-akuammin
 akuammine
 akule
 akund
@@ -26687,6 +26688,7 @@ asswages
 asswaging
 asswipe
 asswipes
+Assyria
 assyria
 assyrian
 assyrians
@@ -32288,7 +32290,6 @@ badalona
 badamash
 badamashes
 badambura
-badan
 badarian
 badarrah
 badass
@@ -32297,7 +32298,6 @@ badassery
 badasses
 badaud
 badawi
-badaxe
 badchan
 baddeleyite
 baddeleyites
@@ -40792,7 +40792,6 @@ betell
 betelnut
 betelnuts
 betels
-beterschap
 betes
 beth
 bethabara
@@ -67106,6 +67105,8 @@ charnels
 charnockite
 charnockites
 charnu
+charoite
+charoites
 charolais
 charollais
 charon
@@ -98306,7 +98307,6 @@ dasiphora
 dasipodidae
 dasnt
 daspletosaurus
-dassent
 dassie
 dassies
 dassnt
@@ -98500,7 +98500,6 @@ daud
 dauded
 daudet
 dauding
-daudit
 dauds
 dauerlauf
 dauerschlaf
@@ -106866,7 +106865,7 @@ deum
 deunam
 deuniting
 deurbanize
-deurwaarder
+deurmekaar
 deus
 deusan
 deutencephalic
@@ -133307,6 +133306,7 @@ erbia
 erbias
 erbium
 erbiums
+erchen
 erd
 erda
 erdafitinib
@@ -154613,6 +154613,7 @@ fth
 fthm
 ftncmd
 ftnerr
+ftw
 fu
 fuage
 fub
@@ -156149,7 +156150,6 @@ gad
 gadaba
 gadabout
 gadabouts
-gadaea
 gadarene
 gadaria
 gadbee
@@ -166579,6 +166579,8 @@ grandfathership
 grandfer
 grandfilial
 grandgore
+grandidierite
+grandidierites
 grandiflora
 grandiflorae
 grandifloras
@@ -177426,7 +177428,6 @@ hendry
 hends
 hendy
 heneicosane
-henen
 henequen
 henequens
 henequin
@@ -189290,6 +189291,7 @@ ibsenite
 ibsenites
 ibuprofen
 ibuprofens
+ibutilide
 ibycter
 ibycus
 ic
@@ -190238,7 +190240,7 @@ igg
 igged
 igging
 iggs
-ighly
+ight
 igil
 igils
 igitur
@@ -205990,12 +205992,11 @@ jaga
 jagaed
 jagaing
 jagamohan
-jagannath
 jagannatha
 jagas
 jagat
 jagatai
-jagataic
+Jagath
 jagath
 jagdterrier
 jagdterriers
@@ -207506,8 +207507,6 @@ jibs
 jibstay
 jicama
 jicamas
-jicaque
-jicaquean
 jicara
 jicarilla
 jickajog
@@ -208016,7 +208015,6 @@ jocunoity
 jodel
 jodelled
 jodelling
-jodelr
 jodels
 jodhpur
 jodhpurs
@@ -210586,33 +210584,28 @@ kasubian
 kaszanka
 kat
 kata
-katabanian
 katabases
 katabasis
 katabatic
-katabella
 katabolic
 katabolically
 katabolism
 katabolisms
 katabolite
 katabolize
-katabothra
 katabothron
 katabothrons
-katachromasis
 katacrotic
 katacrotism
+katacrotisms
 katadromous
 katagelophobia
 katagenesis
 katagenetic
+katajjait
+katajjaq
 katakana
 katakanas
-katakinesis
-katakinetic
-katakinetomer
-katakinetomeric
 katakiribori
 katal
 katalase
@@ -210625,15 +210618,14 @@ katalyze
 katalyzed
 katalyzer
 katalyzing
-katamorphic
 katamorphism
+katamorphisms
 katana
 katanas
 katangese
 kataphoresis
 kataphoretic
 kataphoric
-kataphrenia
 kataplasia
 kataplectic
 kataplexy
@@ -214275,6 +214267,7 @@ kolinski
 kolinskies
 kolinsky
 kolis
+kolkata
 kolkhos
 kolkhoses
 kolkhosy
@@ -215064,6 +215057,7 @@ kulcha
 kuldip
 kuleana
 kulebyaka
+kulesh
 kulfi
 kulfis
 kuli
@@ -240260,6 +240254,7 @@ methylprednisolones
 methylpropane
 methyls
 methylsulfanol
+methyltestosterones
 methylthionine
 methylthionines
 methyltrinitrobenzene
@@ -256459,7 +256454,6 @@ natchnee
 nate
 nateglinide
 nates
-nathan
 nathanael
 nathaniel
 nathe
@@ -273938,7 +273932,6 @@ oeil
 oeil-de-boeuf
 oeillade
 oeillades
-oeillet
 oeils
 oeils-de-boeuf
 oekist
@@ -296844,7 +296837,6 @@ pegwood
 peh
 pehlevi
 pehlwani
-peho
 pehs
 pehuenche
 pei
@@ -336468,10 +336460,10 @@ ragabash
 ragabrash
 ragamuffin
 ragamuffinism
+ragamuffinisms
 ragamuffinly
 ragamuffins
 ragas
-ragazze
 ragbag
 ragbags
 ragbolt
@@ -464101,6 +464093,7 @@ vierkleur
 vierling
 viers
 viertel
+viertelein
 vies
 viet
 vietcong
@@ -467170,11 +467163,10 @@ waftures
 wafty
 wag
 wag-on-the-walls
-waganda
 wagang
-waganging
+wagashi
+wagashis
 wagati
-wagaun
 wagbeard
 wage
 waged
@@ -475170,11 +475162,8 @@ wortworm
 wos
 wosbird
 wosbirds
-wosith
-wosome
 wost
 wostgoat
-wostteth
 wot
 wotan
 wotcha
@@ -475686,7 +475675,8 @@ wryness
 wrynesses
 wrytail
 wrythen
-ws
+wsg
+wsp
 wsw
 wtaf
 wtf
@@ -478021,7 +478011,6 @@ yourt
 yourts
 yous
 youse
-youstir
 youth
 youthen
 youthened
@@ -479093,6 +479082,7 @@ ziconotide
 ziconotides
 ziczac
 zidebactam
+zidesamtinib
 zidovudine
 zidovudines
 ziega
@@ -480062,6 +480052,8 @@ zoundses
 zowee
 zowie
 zoysia
+zoysiagrass
+zoysiagrasses
 zoysias
 zs
 zubeneschamali
