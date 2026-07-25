@@ -16196,6 +16196,8 @@ anitinstitutionalism
 anitos
 anitrogenous
 anjan
+anjaneyasana
+anjaneyasanas
 anjou
 ankara
 ankaramite
@@ -20157,6 +20159,7 @@ anywhither
 anywhy
 anywise
 anywither
+Anzac
 anzac
 anzanian
 anziani
@@ -323500,7 +323503,6 @@ proagule
 proaireses
 proairesis
 proairplane
-proal
 proalcoholism
 proalien
 proalliance
