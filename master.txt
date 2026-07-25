@@ -8021,6 +8021,7 @@ aguized
 aguizes
 aguizing
 agujaceratops
+agujjim
 agujon
 aguna
 agunah
@@ -124499,6 +124500,7 @@ ekphrasis
 ekpwele
 ekpweles
 ekrixinatosaurus
+ekrixinatosauruses
 ekron
 ekronite
 ektachrome
@@ -156577,6 +156579,7 @@ galbanum
 galbanums
 galbe
 galbi
+galbi-jjim
 galbijjim
 galbraith
 galbraithian
@@ -170377,6 +170380,7 @@ gybing
 gye
 gyeld
 gyelds
+gyeran-jjim
 gyeranjjim
 gyges
 gygis
@@ -214655,12 +214659,11 @@ krobylos
 krocidolite
 krocket
 krohnkite
-krome
 kromeski
 kromeskies
 kromesky
+kromfohrlanders
 kromogram
-kromskop
 krona
 krone
 kronen
@@ -332496,11 +332499,12 @@ qi
 qiana
 qiang
 qianzhousaurus
+qianzhousauruses
 qiaowanlong
 qibla
+qiblah
 qiblahs
 qiblas
-qid
 qidreh
 qigong
 qigongs
@@ -332542,7 +332546,9 @@ qiviut
 qiviuts
 qixi
 qiyam
+qiyan
 qiyas
+qizilbash
 qjump
 ql
 qls
@@ -377769,6 +377775,8 @@ sjambokked
 sjambokking
 sjamboks
 sjoe
+sjogrenite
+sjogrenites
 sk
 ska
 skaalpund
@@ -430093,7 +430101,6 @@ tschermigite
 tschermigites
 tschernichite
 tschernichites
-tschernosem
 tschernosems
 tse'khene
 tsere
@@ -432953,6 +432960,9 @@ tything
 tyto
 tytonidae
 tyum
+tz'utujil
+tz'utujiles
+tz'utujils
 tzaddi
 tzaddik
 tzaddikim
@@ -432984,8 +432994,8 @@ tzatzikis
 tzedakah
 tzedakahs
 tzejangtze
-tzendal
-tzental
+tzeltal
+tzeltales
 tzetse
 tzetses
 tzetze
@@ -433000,9 +433010,15 @@ tzimtzumim
 tzitzis
 tzitzit
 tzitzith
+tzolk'in
+tzolk'ins
 tzolkin
-tzontle
+tzolkins
+tzompantli
+tzompantlis
 tzotzil
+tzourades
+tzouras
 tzu
 tzuris
 tzurises
