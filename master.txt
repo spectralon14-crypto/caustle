@@ -8798,6 +8798,7 @@ akule
 akund
 akvavit
 akvavits
+Akwapim
 akwapim
 al
 ala
@@ -23896,7 +23897,6 @@ arhat
 arhats
 arhatship
 arhatships
-arhauaco
 arhythmia
 arhythmias
 arhythmic
@@ -108549,6 +108549,7 @@ dibromide
 dibromides
 dibromoacetaldehyde
 dibromobenzene
+dibrugarh
 dibs
 dibstone
 dibstones
@@ -172333,7 +172334,6 @@ haltless
 halton
 halts
 haltwhistle
-halucket
 halukkah
 halurgist
 halurgy
@@ -215105,6 +215105,7 @@ kwaito
 kwaitos
 kwakiutl
 kwakiutls
+kwakwaka'wakw
 kwakwala
 kwamme
 kwan
@@ -279137,6 +279138,7 @@ otary
 otate
 otates
 otc
+otchipwe
 otectomy
 otelcosis
 otelixizumab
@@ -351062,8 +351064,6 @@ reynolds
 reyoke
 reyoked
 reyoking
-reyouth
-reyson
 rez
 rezafungin
 rezala
@@ -415975,6 +415975,7 @@ texturizing
 texturous
 textus
 tez
+tezacaftor
 tezcatlipoca
 tezcatzoncatl
 tezcucan
