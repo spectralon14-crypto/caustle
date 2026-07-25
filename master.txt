@@ -7,10 +7,9 @@ aah
 aahed
 aahing
 aahs
-aal
+aalenian
 aalii
 aaliis
-aals
 aam
 aandacht
 aani
@@ -30545,7 +30544,6 @@ awald
 awalim
 awalt
 awameh
-awan
 awane
 awanting
 awanyu
@@ -133818,6 +133816,7 @@ erth
 erthen
 erthling
 erthly
+ertugliflozin
 erubescence
 erubescences
 erubescencies
@@ -166237,8 +166236,6 @@ graithly
 graiths
 grakle
 grakles
-grallae
-grallatores
 grallatorial
 grallatory
 grallic
@@ -179745,7 +179742,8 @@ hilding
 hildings
 hile
 hili
-hiliferous
+hiligaynon
+hiligaynons
 hill
 hillary
 hillberry
@@ -225937,12 +225935,10 @@ loparite
 loparites
 lope
 loped
-lopeman
 loper
 loperamide
 lopers
 lopes
-lopeskonce
 lopezia
 lopgrass
 lopgrasses
@@ -274486,6 +274482,7 @@ oliban
 olibanum
 olibanums
 olibene
+oliceridine
 olicook
 olicooks
 olid
@@ -288637,7 +288634,6 @@ pakahi
 pakahis
 pakapoo
 pakapoos
-pakawa
 pakawan
 pakchoi
 pakeha
@@ -305611,6 +305607,7 @@ piert
 pierts
 pies
 pieshop
+piest
 piet
 pieta
 pietas
@@ -332402,11 +332399,15 @@ pyxing
 pyxis
 pzazz
 pzazzes
+q-bic
 q-flex
 q-learning
+q-learnings
 q-max
+q-pop
 q-slope
 q-slopes
+q-test
 q-tests
 qabala
 qabalah
@@ -333445,6 +333446,7 @@ quasi-concavities
 quasi-concavity
 quasi-conformal
 quasi-continua
+quasi-continuities
 quasi-continuity
 quasi-continuous
 quasi-continuous-wave
@@ -333456,10 +333458,13 @@ quasi-convexity
 quasi-cycle
 quasi-cycles
 quasi-degeneracies
+quasi-degeneracy
+quasi-degenerate
 quasi-delict
 quasi-delicts
 quasi-deuteron
 quasi-deuterons
+quasi-diabatic
 quasi-diagonal
 quasi-dimensional
 quasi-discrete
@@ -333467,10 +333472,13 @@ quasi-distribution
 quasi-distributions
 quasi-einstein
 quasi-elastic
+quasi-equilibria
 quasi-equilibrium
 quasi-experiment
 quasi-experimental
 quasi-experimentally
+quasi-experiments
+quasi-exponential
 quasi-exponentially
 quasi-extinction
 quasi-extinctions
@@ -333533,6 +333541,7 @@ quasi-momenta
 quasi-momentum
 quasi-monochromatic
 quasi-monoenergetic
+quasi-natural
 quasi-neutral
 quasi-neutralities
 quasi-neutrality
@@ -333546,7 +333555,9 @@ quasi-one-dimensionalities
 quasi-one-dimensionality
 quasi-optical
 quasi-optics
+quasi-order
 quasi-ordered
+quasi-ordering
 quasi-orders
 quasi-parallel
 quasi-polynomial
@@ -333766,6 +333777,7 @@ queechy
 queef
 queen
 queen-of-the-prairies
+queen-size
 queen-sized
 queencake
 queencakes
@@ -333956,6 +333968,7 @@ querists
 querken
 querl
 quern
+quern-stone
 quern-stones
 quernal
 quernales
@@ -334110,6 +334123,7 @@ quichuan
 quichuas
 quick
 quick-witted
+quick-wittedly
 quick-wittedness
 quick-wittednesses
 quickbeam
@@ -335405,7 +335419,6 @@ racqueting
 racquets
 ractopamine
 ractopamine+
-ractopamines
 racy
 rad
 rada
