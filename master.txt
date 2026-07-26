@@ -12622,10 +12622,8 @@ amerveil
 ames
 amesace
 amesaces
-amesbury
 amesite
 amesites
-ameslan
 amess
 ametabola
 ametabole
@@ -14564,25 +14562,18 @@ anasarca
 anasarcas
 anasarcous
 anasazi
-anaschistic
 anaseismic
-anasitch
-anaspadias
 anaspalin
 anaspid
 anaspida
 anaspidacea
 anaspides
-anasplasmata
 anastalsis
 anastaltic
 anastases
 anastasia
 anastasian
-anastasimon
-anastasimos
 anastasis
-anastasius
 anastate
 anastatic
 anastatica
@@ -14592,7 +14583,6 @@ anastigmatic
 anastigmatism
 anastigmatisms
 anastigmats
-anastomos
 anastomose
 anastomosed
 anastomoses
@@ -14602,10 +14592,7 @@ anastomotic
 anastomus
 anastrophe
 anastrophes
-anastrophia
-anastrophy
 anastrozole
-anastrozoles
 anat
 anata
 anatabine
@@ -41193,6 +41180,7 @@ bewry
 bewusstseinslage
 bewusstseinslagen
 bewwept
+bexarotene
 bexhill
 bexley
 bexleyheath
@@ -41883,6 +41871,7 @@ bids
 bidstand
 biduous
 bieberite
+Biedermeier
 biedermeier
 bieennia
 bielbrief
@@ -93991,6 +93980,8 @@ cujam
 cuke
 cukes
 cul
+culasses
+culatelli
 culation
 culavamsa
 culbert
@@ -125524,6 +125515,7 @@ elephants
 elephas
 elepidote
 elepidotes
+elesclomol
 elettaria
 eleuin
 eleusine
@@ -125984,6 +125976,7 @@ eluvies
 eluvium
 eluviums
 eluvivia
+eluxadoline
 eluxate
 elvan
 elvanite
@@ -127732,6 +127725,7 @@ enarthrodial
 enarthroses
 enarthrosis
 enascent
+enasidenib
 enasidenib+
 enatant
 enate
@@ -149272,6 +149266,7 @@ flywinch
 flywire
 flywort
 fm
+fml
 fmt
 fn
 fname
@@ -189264,6 +189259,7 @@ icacinaceous
 icaco
 icaria
 icarus
+icasm
 icatibant
 icbm
 icchantika
@@ -204208,6 +204204,7 @@ isentropically
 isepiptesial
 isepiptesis
 isere
+iserine
 iserines
 iserite
 isethionate
@@ -205383,6 +205380,7 @@ itonia
 itonidid
 itonididae
 itoubou
+itraconazole
 its
 itsekiri
 itsekiris
@@ -205390,6 +205388,7 @@ itself
 itsy
 ittria
 itty
+itty-bitty
 ituraean
 iturite
 ity
@@ -256850,11 +256849,25 @@ nbg
 ncas
 nco
 nd
+ndali
+ndamba
+ndau
+ndebele
+ndebeles
+ndembu
 nderpraised
 ndiwo
 ndjamena
+ndlambe
 ndoderm
+ndogo
+ndokwa
+ndole
+ndoles
 ndombolo
+ndonde
+ndongo
+ndorobo
 ndrangheta
 nduja
 ndujas
@@ -278893,6 +278906,7 @@ osetra
 osetras
 oshac
 oshacs
+oshawa
 oshea
 oshibana
 oshibori
@@ -287734,6 +287748,7 @@ oxhouse
 oxhuvud
 oxibendazole
 oxic
+oxiconazole
 oxid
 oxidability
 oxidable
@@ -305413,6 +305428,7 @@ piastre
 piastres
 piation
 piatnitzkysaurus
+piatnitzkysauruses
 piatti
 piazadora
 piazin
@@ -310206,6 +310222,7 @@ pliss
 plisse
 plisses
 plitch
+plitidepsin
 pljeskavica
 ploat
 ploated
@@ -469378,6 +469395,7 @@ wazzocks
 wb
 wc
 wd
+wdym
 we
 wea
 weaboos
@@ -478696,6 +478714,7 @@ zebrules
 zebu
 zebub
 zebubs
+Zebulun
 zebulun
 zebulunite
 zeburro
