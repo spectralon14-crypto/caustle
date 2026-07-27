@@ -10060,8 +10060,6 @@ alike
 alikeness
 alikenesses
 alikewise
-alikuluf
-alikulufan
 alilonghi
 alima
 alimenation
@@ -22499,6 +22497,7 @@ arase
 arati
 aratinga
 aration
+arational
 aratory
 araua
 arauan
@@ -288275,7 +288274,6 @@ ozalids
 ozanimod
 ozark
 ozarkite
-ozawa
 ozeki
 ozekis
 ozena
