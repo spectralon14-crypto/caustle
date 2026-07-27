@@ -56836,6 +56836,8 @@ caking
 cakings
 cakra
 cakravartin
+cakwe
+cakwe-cakwe
 caky
 cal
 calaba
@@ -124594,6 +124596,7 @@ ektexines
 ektodynamorphic
 ekuele
 ekueles
+ekwe
 ekwele
 ekweles
 el
@@ -210065,6 +210068,7 @@ kalasie
 kalathoi
 kalathos
 kaldani
+kaldereta
 kale
 kaleege
 kaleidescope
