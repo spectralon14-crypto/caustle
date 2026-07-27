@@ -4714,7 +4714,6 @@ adital
 aditio
 adits
 aditus
-aditus+
 adj
 adjacence
 adjacences
@@ -8141,7 +8140,6 @@ ai
 aia
 aias
 aiawong
-aiawong-
 aiblins
 aichmophobe
 aichmophobes
@@ -8870,6 +8868,7 @@ alaiment
 alaiments
 alain
 alaite
+alakazam
 alaki
 alala
 alalia
@@ -15868,7 +15867,6 @@ anhydroxime
 anhysteretic
 ani
 aniba
-aniba+
 anicca
 aniccas
 anice
@@ -27592,7 +27590,6 @@ atip
 atiptoe
 atis
 atishoo
-atishoo+
 atishoos
 ativan
 atka
@@ -33197,7 +33194,6 @@ ballads
 balladwise
 ballahoo
 ballahou
-ballahou+
 ballam
 ballan
 ballans
@@ -41871,7 +41867,6 @@ bids
 bidstand
 biduous
 bieberite
-Biedermeier
 biedermeier
 bieennia
 bielbrief
@@ -41919,7 +41914,6 @@ bierstuben
 bierstubes
 bierwurst
 bierwursts
-biesdeezdref
 biestings
 biethnic
 bietjie
@@ -47041,7 +47035,6 @@ boistous
 boistously
 boistousness
 boite
-boite+
 boites
 boithrin
 boito
@@ -53267,6 +53260,7 @@ bucolic
 bucolical
 bucolically
 bucolicism
+bucolicisms
 bucolics
 bucorvinae
 bucorvus
@@ -63223,6 +63217,7 @@ catonian
 catonic
 catonically
 catonism
+catonisms
 catoptric
 catoptrical
 catoptrically
@@ -63307,7 +63302,6 @@ cattyphoid
 catullian
 catullus
 catumaxomab
-catumaxomab+
 catur
 catvine
 catwalk
@@ -64365,6 +64359,7 @@ cenesthesias
 cenesthesis
 cenesthetic
 ceng
+cenicriviroc
 cenil
 cenizo
 cenobe
@@ -72696,21 +72691,13 @@ cinurous
 cinzano
 cion
 cionectomy
-cionectomy-
 cionitis
-cionitis-
 cionocranial
-cionocranial-
 cionocranian
-cionocranian-
 cionoptosis
-cionoptosis-
 cionorrhaphia
-cionorrhaphia-
 cionotome
-cionotome-
 cionotomy
-cionotomy-
 cions
 cioppino
 cioppinos
@@ -74728,7 +74715,6 @@ cleruchy
 clerum
 clerus
 clesrovimab
-clesrovimab+
 cletch
 clethra
 clethraceae
@@ -75425,6 +75411,7 @@ cloque
 cloques
 cloragen
 clorargyrite
+clorazepate+
 clorinator
 cloriodid
 clos
@@ -95472,7 +95459,7 @@ cuzes
 cuzzes
 cuzzie
 cuzzies
-cuzzo+
+cuzzo
 cuzzos
 cv
 cvos
@@ -109744,7 +109731,6 @@ dikey
 dikier
 dikiest
 diking
-diking+
 dikkop
 dikkops
 diks
@@ -115215,7 +115201,6 @@ diter
 diterpene
 ditertiary
 dites
-dites+
 ditetragonal
 ditetrahedral
 dithalous
@@ -115707,7 +115692,7 @@ dixit
 dixits
 dixon
 dixy
-diy+
+diy
 diya
 diyas
 dizain
@@ -122014,6 +121999,8 @@ dzong
 dzongkha
 dzos
 dzungar
+e-infrastructure
+e-liquid
 ea
 eably
 eaceworm
@@ -124460,7 +124447,6 @@ ekhimi
 ekiben
 ekibens
 eking
-eking+
 ekistic
 ekistical
 ekistician
@@ -125575,6 +125561,8 @@ eleventhly
 elevenths
 elevon
 elevons
+elexacaftor
+elexacaftor-tezacaftor-ivacaftor
 elf
 elfdom
 elfed
@@ -127726,7 +127714,6 @@ enarthroses
 enarthrosis
 enascent
 enasidenib
-enasidenib+
 enatant
 enate
 enates
@@ -131284,6 +131271,7 @@ enwrite
 enwrought
 enwwove
 enwwoven
+enzalutamide
 enzed
 enzedder
 enzedders
@@ -134307,6 +134295,7 @@ eskualdun
 eskuara
 esky
 eslabon
+eslicarbazepine
 eslisor
 esloign
 esloin
@@ -134931,7 +134920,8 @@ etamin
 etamine
 etamines
 etamins
-etang
+etanercept
+etanidazole
 etaoin
 etape
 etapes
@@ -140245,7 +140235,6 @@ ezhes
 ezhu
 ezidi
 ezillo
-ezillo+
 ezine
 ezines
 ezme
@@ -144444,7 +144433,6 @@ fewters
 fewtrils
 fexinidazole
 fexofenadine
-fexofenadine+
 fey
 feydeau
 feyed
@@ -154582,7 +154570,6 @@ fsr
 ft
 fth
 fthm
-ftncmd
 ftnerr
 ftw
 fu
@@ -155754,7 +155741,6 @@ fusking
 fusks
 fusobacteria
 fusobacterium
-fusobacterium+
 fusoid
 fuss
 fussball
@@ -184186,7 +184172,6 @@ houting
 houtings
 houtou
 houts
-houts+
 houttuynia
 houvari
 houve
@@ -197331,6 +197316,7 @@ inia
 inial
 inidoneity
 inidoneous
+iniencephaly
 inigo
 inimaginable
 inimicability
@@ -203214,6 +203200,7 @@ iotacisms
 iotacismus
 iotacist
 iotas
+iothalamate
 iotization
 iotize
 iotized
@@ -203291,6 +203278,7 @@ iracundulous
 irade
 irades
 irae
+iraimbilanja
 iraklion
 iran
 irani
@@ -206497,7 +206485,6 @@ jargoons
 jarhead
 jarheads
 jarina
-jarina-
 jarinas
 jark
 jarkman
@@ -208886,7 +208873,7 @@ jugum
 jugums
 jugurthine
 juha
-juhuri+
+juhuri
 juice
 juiced
 juiceful
@@ -209951,7 +209938,6 @@ kalpas
 kalpis
 kalpises
 kalsomine
-kalsomine+
 kalsomined
 kalsominer
 kalsomines
@@ -211135,7 +211121,6 @@ kelupis
 kelvin
 kelvins
 kelyphite
-kelyphite+
 kemal
 kemalism
 kemalist
@@ -213686,7 +213671,6 @@ knew
 knez
 knezi
 kniaz
-kniaz+
 kniazi
 knick
 knicker
@@ -214652,6 +214636,8 @@ kozo
 kozuka
 kpc
 kph
+kpop
+kpops
 kpuesi
 kr
 kra
@@ -215426,6 +215412,8 @@ kyurin
 kyurinish
 kyus
 kyushu
+l-asparagine
+l-asparagines
 la
 laager
 laagered
@@ -219713,7 +219701,7 @@ ledgment
 ledgy
 ledidae
 ledipasvir
-ledipasvir-sofosbuvir+
+ledipasvir-sofosbuvir
 ledol
 leds
 leduc
@@ -227708,6 +227696,7 @@ lur
 lura
 luracan
 lural
+lurbinectedin
 lurch
 lurched
 lurcher
@@ -228585,7 +228574,10 @@ lyttae
 lyttas
 lyttleton
 lytton
+lyxopyranose
+lyxopyranoses
 lyxose
+lyxoses
 ma
 maa
 maad
@@ -234148,7 +234140,6 @@ massymores
 mast
 mastaba
 mastabah
-mastabah+
 mastabahs
 mastabas
 mastadenitis
@@ -240541,7 +240532,7 @@ mexican
 mexicanize
 mexicans
 mexico
-mexiletine+
+mexiletine
 mexitl
 mexitli
 meyerbeer
@@ -254069,7 +254060,6 @@ muus
 muvule
 mux
 muxed
-muxed+
 muxes
 muxiang
 muxing
@@ -274355,6 +274345,8 @@ ogygian
 oh
 oh-oh
 oh-so
+ohagi
+ohagis
 ohare
 ohed
 ohelo
@@ -275070,6 +275062,7 @@ olynthian
 olynthus
 om
 oma
+omacetaxine
 omadacycline
 omadhaun
 omadhauns
@@ -275619,7 +275612,6 @@ one-ways
 oneanother
 oneberry
 onedimensional
-onedimensional+
 onefold
 onefoldness
 onegin
@@ -278931,6 +278923,7 @@ osieries
 osierlike
 osiers
 osiery
+osilodrostat
 osimertinib
 osirian
 osiride
@@ -287443,7 +287436,6 @@ ovipositor
 ovipositors
 oviposits
 oviraptor
-oviraptor+
 oviraptorid
 oviraptorosaur
 oviraptorosaurs
@@ -296794,7 +296786,7 @@ pegmatize
 pegmatoid
 pegmatophyre
 pegmen
-pegol+
+pegol
 pegology
 pegomancies
 pegomancy
@@ -329181,6 +329173,7 @@ psionics
 psions
 psis
 psithurism
+psithurisms
 psithyrus
 psittaceous
 psittaceously
@@ -329192,10 +329185,12 @@ psittacine
 psittacines
 psittacinite
 psittacism
+psittacisms
 psittacistic
 psittacomorphae
 psittacomorphic
 psittacosaurus
+psittacosauruses
 psittacoses
 psittacosis
 psittacosises
@@ -335871,7 +335866,6 @@ racqueted
 racqueting
 racquets
 ractopamine
-ractopamine+
 racy
 rad
 rada
@@ -354206,6 +354200,7 @@ rochets
 rochford
 roching
 rociest
+rociletinib
 rock
 rockabies
 rockabillies
@@ -357493,15 +357488,15 @@ rutuli
 rutyl
 rutylene
 ruvid
-rux
+ruxolitinib
 ruyangosaurus
+ruyangosauruses
 rvulsant
 rwanda
 rwandan
 rwandans
 rwandese
 rwd
-rwdeeznuts
 rwound
 rwy
 rya
@@ -381681,7 +381676,7 @@ smyrniote
 smyth
 smythe
 smythite
-smythites+
+smythites
 smytrie
 smytries
 sn
@@ -430989,7 +430984,6 @@ tschernichites
 tschernosems
 tse'khene
 tsere
-tsere+
 tsesarevich
 tsesareviches
 tsesarevitch
@@ -435046,6 +435040,8 @@ umbundu
 ume
 umeboshi
 umeboshis
+umeclidinium
+umeclidinium-vilanterol
 umes
 umest
 umfaan
@@ -466701,6 +466697,8 @@ vrille
 vrilled
 vrilling
 vrils
+vrischikasana
+vrischikasanas
 vrocht
 vroom
 vroomed
@@ -467315,7 +467313,6 @@ waifu
 waifus
 waiguli
 waiilatpuan
-waiilatpuan+
 waik
 waikiki
 waikly
@@ -469393,6 +469390,7 @@ wazzing
 wazzock
 wazzocks
 wb
+wbu
 wc
 wd
 wdym
@@ -476285,10 +476283,6 @@ xieites
 xii
 xiii
 ximelagatran
-ximenean
-ximenes
-ximenez
-ximenia
 ximmer
 xina
 xinca
@@ -477604,7 +477598,6 @@ yills
 yilt
 yimengite
 yimengites
-yimengites+
 yimenosaurus
 yin
 yince
@@ -477926,6 +477919,10 @@ yoruban
 yorubas
 yos
 yosemite
+yoshimuraite
+yoshimuraites
+yoshiokaite
+yoshiokaites
 yoshoku
 yot
 yotacism
@@ -478332,6 +478329,10 @@ z-test
 z-tests
 z-values
 za
+zaa
+zaalouk
+zaalouks
+zaas
 zaatar
 zaatars
 zabaean
@@ -478612,6 +478613,7 @@ zarathustrism
 zaratite
 zaratites
 zarb
+zarda
 zardushti
 zareba
 zarebas
