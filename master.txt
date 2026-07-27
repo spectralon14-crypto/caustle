@@ -25648,6 +25648,8 @@ asemantic
 asemasia
 asemia
 asemic
+asense
+asenses
 asepalous
 asepses
 asepsis
@@ -56727,6 +56729,7 @@ caingua
 cainian
 cainish
 cainism
+cainisms
 cainite
 cainitic
 cainogeneses
@@ -123673,6 +123676,8 @@ edriophthalmic
 edriophthalmous
 eds
 eduardo
+edublog
+edublogs
 educ
 educabilia
 educabilian
@@ -189212,6 +189217,12 @@ i'll
 i'm
 i's
 i've
+i-kiribati
+i-novel
+i-novels
+i-pop
+i-self
+i-selves
 ia
 iacchos
 iacchus
@@ -189304,6 +189315,7 @@ iberis
 iberises
 iberism
 iberite
+ibero-romance
 ibert
 ibex
 ibexes
@@ -189356,6 +189368,10 @@ icbm
 icchantika
 icchantikas
 ice
+ice-skate
+ice-skated
+ice-skates
+ice-skating
 iceball
 iceballs
 iceberg
@@ -189885,7 +189901,9 @@ identism
 identitarian
 identitarians
 identities
+identities-as-a-service
 identity
+identity-as-a-service
 identitys
 idents
 ideo
@@ -190584,6 +190602,27 @@ ilkeston
 ilkley
 ilks
 ill
+ill-advised
+ill-advisedly
+ill-being
+ill-beings
+ill-conceived
+ill-equipped
+ill-fared
+ill-faring
+ill-fated
+ill-favored
+ill-favoured
+ill-looking
+ill-mannered
+ill-starred
+ill-tempered
+ill-timed
+ill-treated
+ill-treating
+ill-treatment
+ill-treatments
+ill-treats
 illabile
 illaborate
 illachrymable
@@ -191235,6 +191274,8 @@ iminohydrin
 iminourea
 iminoureas
 imipenem
+imipenem-cilastatin-relebactam
+imipenem-cilastatin-relebactams
 imipenems
 imipramine
 imipramines
@@ -191369,6 +191410,7 @@ immediacies
 immediacy
 immedial
 immediate
+immediate-release
 immediately
 immediateness
 immediatenesses
@@ -191676,6 +191718,7 @@ immunizers
 immunizes
 immunizing
 immuno
+immuno-inflammatory
 immunoassay
 immunoassayable
 immunoassayist
@@ -193193,7 +193236,24 @@ in-and-out
 in-and-outer
 in-and-outers
 in-and-outs
+in-between
+in-betweener
+in-betweeners
+in-betweens
+in-depth
+in-depthness
+in-depthnesses
+in-engine
+in-flight
+in-game
+in-group
+in-groups
+in-house
+in-joke
+in-law
 in-laws
+in-line
+in-your-face
 ina
 inabilities
 inability
@@ -195450,6 +195510,7 @@ individualises
 individualising
 individualism
 individualism-collectivism
+individualism-collectivisms
 individualisms
 individualist
 individualistic
@@ -196501,6 +196562,8 @@ infinitates
 infinitating
 infinitation
 infinite
+infinite-dimensional
+infinite-dimensionalities
 infinite-dimensionality
 infinitely
 infiniteness
@@ -196528,6 +196591,7 @@ infinitudes
 infinitum
 infinituple
 infinity
+infinity-dimensional
 infirm
 infirmable
 infirmarer
@@ -196745,6 +196809,8 @@ informatician
 informaticians
 informatics
 information
+information-analytical
+information-theoretic
 informational
 informationally
 informations
@@ -196899,7 +196965,9 @@ infrastigmatal
 infrastipular
 infrastructural
 infrastructure
+infrastructure-as-a-service
 infrastructures
+infrastructures-as-a-service
 infrasutral
 infratemporal
 infraterrene
@@ -198507,6 +198575,7 @@ insighted
 insightful
 insightfully
 insights
+insights-as-a-service
 insigne
 insignes
 insignia
@@ -199118,9 +199187,11 @@ insurabilities
 insurability
 insurable
 insurance
+insurance-as-a-service
 insurancer
 insurancers
 insurances
+insurances-as-a-service
 insurant
 insurants
 insure
@@ -199274,6 +199345,7 @@ integripalliate
 integrities
 integrity
 integro
+integro-differential
 integrodifferential
 integropallial
 integropallialia
@@ -199470,6 +199542,11 @@ intentness
 intentnesses
 intents
 inter
+inter-denominational
+inter-departmental
+inter-departmentally
+inter-organisational
+inter-organizational
 interabang
 interabangs
 interabsorption
@@ -201902,6 +201979,9 @@ intoximeter
 intoximeters
 intr
 intra
+intra-abdominal
+intra-abdominally
+intra-aortic
 intraabdominal
 intraarterial
 intraarterially
@@ -202515,6 +202595,7 @@ intwisted
 intwisting
 intwists
 inuit
+inuit-yupik-unangan
 inuits
 inukshuit
 inukshuk
@@ -203184,6 +203265,10 @@ iodopsins
 iodoso
 iodosobenzene
 iodospongin
+iodosulfuron-methyl
+iodosulfuron-methyl-sodium
+iodosulfuron-methyl-sodiums
+iodosulfuron-methyls
 iodotannic
 iodotherapy
 iodothyrin
@@ -204252,6 +204337,7 @@ ischaemics
 ischar
 ischchia
 ischemia
+ischemia-reperfusions
 ischemias
 ischemic
 ischia
@@ -204394,6 +204480,10 @@ islamized
 islamizes
 islamizing
 island
+island-hop
+island-hopped
+island-hopping
+island-hops
 islanded
 islander
 islanders
@@ -204863,6 +204953,8 @@ isolysin
 isolysis
 isomagnetic
 isomagnetics
+isomalto-oligosaccharide
+isomalto-oligosaccharides
 isomaltose
 isomastigate
 isomelamine
@@ -205020,6 +205112,7 @@ isopropanol
 isopropanols
 isopropenyl
 isopropyl
+isopropyl-beta-d-thiogalactopyranoside
 isopropyl-beta-d-thiogalactopyranosides
 isopropyl-beta-d-thiogalastopyranosides
 isopropylacetic
@@ -214409,6 +214502,7 @@ kokra
 kokras
 koksaghyz
 koksagyz
+Kokstad
 kokstad
 koktaite
 koku
@@ -228322,6 +228416,8 @@ lyart
 lyas
 lyase
 lyases
+lyate
+lyates
 lyc
 lycaena
 lycaenid
@@ -270956,6 +271052,10 @@ novocentenary
 novodamus
 novodamuses
 novokuznetsk
+novolac
+novolacs
+novolak
+novolaks
 novorolsky
 novosibirsk
 novum
@@ -353399,6 +353499,8 @@ rigwiddy
 rigwoodie
 rigwoodies
 riha
+rii
+riichi
 rijksdaalder
 rijksdaaler
 rijksdaalers
@@ -359012,6 +359114,8 @@ saktis
 saktism
 sakulya
 sakura
+sakuraiite
+sakuraiites
 sakuras
 sakyamuni
 sal
@@ -433038,7 +433142,6 @@ tuzz
 tuzzes
 tuzzle
 tv
-tvalchrelidzeite
 tveitite
 tvetites
 tvorog
@@ -477240,7 +477343,6 @@ yarry
 yarta
 yartas
 yarth
-yarthen
 yarto
 yartos
 yaru
