@@ -212833,6 +212833,8 @@ kinghoods
 kinghorn
 kinghunter
 kinging
+kingite
+kingites
 kingklip
 kingklips
 kingle
@@ -212870,6 +212872,7 @@ kingsides
 kingsize
 kingsley
 kingsman
+kingsmen
 kingsnake
 kingsnakes
 kingston
