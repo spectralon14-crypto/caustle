@@ -122137,6 +122137,7 @@ dziggetais
 dzo
 dzong
 dzongkha
+dzongkhag
 dzongs
 dzos
 dzungar
@@ -204403,6 +204404,7 @@ isallobaric
 isallobars
 isamin
 isamine
+isan
 isander
 isandrous
 isanemone
@@ -204410,6 +204412,8 @@ isangoma
 isanomal
 isanomalous
 isanosaurus
+isanosauruses
+isans
 isanthous
 isapostolic
 isaria
@@ -212365,6 +212369,8 @@ khmer
 khodja
 khodjas
 khoikhoi
+khoikhoin
+khoisan
 khoja
 khojah
 khojas
