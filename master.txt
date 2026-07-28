@@ -215726,6 +215726,7 @@ kwazulu-natal
 kwek-kwek
 kwela
 kwelas
+kwetiau
 kwh
 kwintra
 kwon
@@ -237600,10 +237601,7 @@ meiotic
 meiotically
 meishi
 meishis
-meisje
 meissa
-meissen
-meissner
 meister
 meisters
 meistersinger
@@ -260403,6 +260401,7 @@ ngiyampaa
 ngl
 ngohiong
 ngohiongs
+ngoko
 ngoma
 ngomas
 ngondo
@@ -468054,6 +468053,7 @@ vyuha
 vyuhas
 wa
 waac
+waackings
 waacs
 waaf
 waafs
