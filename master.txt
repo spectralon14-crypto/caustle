@@ -8630,9 +8630,10 @@ ajivika
 ajkaceratops
 ajog
 ajoint
+ajoite
+ajoites
 ajonjoli
 ajoure
-ajourise
 ajowan
 ajowans
 ajuga
@@ -41379,6 +41380,7 @@ bhotiya
 bhowani
 bhoy
 bhp
+bhringaraj
 bhumidar
 bhumij
 bhuna
@@ -115885,7 +115887,6 @@ dm
 dming
 dmisteinbergite
 dmisteinbergites
-dmitryivanovites
 dms
 dn
 dna
@@ -134615,6 +134616,7 @@ esquiresses
 esquiring
 esquisse
 esquisses
+esraj
 esrog
 esrogim
 esrogs
@@ -152101,6 +152103,7 @@ foscarnets
 fosh
 fosie
 fosite
+fosmanogepix
 foss
 fossa
 fossae
@@ -155407,6 +155410,7 @@ funiform
 funiliform
 funipendulous
 funis
+funj
 funje
 funk
 funked
@@ -156489,6 +156493,8 @@ gaitts
 gaius
 gaize
 gaj
+gajillion
+gajillions
 gajo
 gajos
 gak
@@ -190463,12 +190469,8 @@ iimbongi
 iimoriite
 iiwi
 iiwis
-ijameftrhcite
 ijarah
-ijarian
-ijarians
-ijarite
-ijarites
+ijaw
 ijaza
 ijazah
 ijazahs
@@ -211750,7 +211752,6 @@ kero
 kerogen
 kerogens
 kerolite
-keropok
 keros
 kerosene
 kerosenes
@@ -214715,6 +214716,7 @@ kootcha
 kootchar
 kootchies
 kootchy
+kootenai
 kootenay
 kop
 kopanisti
@@ -317645,6 +317647,7 @@ praxithea
 pray
 praya
 prayable
+prayagraj
 prayed
 prayer
 prayerbooks
@@ -372534,6 +372537,7 @@ sezzes
 sezzing
 sf
 sfeeha
+sfenj
 sferics
 sfiha
 sfihas
@@ -467585,6 +467589,8 @@ wacondas
 wacs
 wad
 wadable
+wadalite
+wadalites
 wadcutter
 wadd
 wadded
