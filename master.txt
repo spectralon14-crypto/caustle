@@ -205924,6 +205924,7 @@ jaap
 jaaps
 jab
 jabalina
+jabalpur
 jabarite
 jabbed
 jabber
@@ -416567,16 +416568,11 @@ ternlet
 terns
 ternstroemia
 ternstroemiaceae
-tero
-terocodame
-terodactyl
 terodiline
 teroldego
-terophylic
-teros
+terotechnological
+terotechnologies
 terotechnology
-teroxide
-teroxides
 terp
 terpadiene
 terpane
