@@ -28583,7 +28583,6 @@ augmentor
 augmentors
 augments
 augrim
-augsburg
 augur
 augural
 augurate
@@ -36145,8 +36144,6 @@ battels
 battement
 battements
 batten
-battenberg
-battenburg
 battened
 battener
 batteners
@@ -61189,7 +61186,6 @@ carlovingian
 carlow
 carls
 carlsbad
-carlsberg
 carlton
 carludovica
 carlyle
@@ -68454,7 +68450,6 @@ cher
 chera
 cheralite
 cheralites
-cherbourg
 chere
 cherem
 cheremiss
@@ -120647,8 +120642,6 @@ duikers
 duim
 duing
 duinhewassel
-duisberg
-duisburg
 duit
 duits
 dujan
@@ -123521,7 +123514,6 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 edaravone
-edberg
 edda
 eddaic
 edder
@@ -147846,7 +147838,6 @@ flencher
 flenchers
 flenches
 flenching
-flensburg
 flense
 flensed
 flenser
@@ -153240,7 +153231,6 @@ frederica
 frederick
 fredericton
 frederik
-frederiksberg
 fredricite
 fredrick
 fredrickson
@@ -153436,7 +153426,6 @@ fregatae
 fregatidae
 fregit
 freibergite
-freiburg
 freieslebenite
 freiezlebenhe
 freight
@@ -162143,7 +162132,6 @@ ginny
 ginorite
 ginormous
 gins
-ginsberg
 ginseng
 ginsengs
 ginshop
@@ -164623,7 +164611,6 @@ gode
 godel
 godelich
 godendag
-godesberg
 godet
 godetia
 godetias
@@ -164829,7 +164816,6 @@ goldarns
 goldbeater
 goldbeaters
 goldbeating
-goldberg
 goldbergian
 goldbird
 goldblum
@@ -165968,7 +165954,6 @@ gotches
 gotchies
 gotchy
 gote
-goteborg
 goter
 goth
 gotha
@@ -170543,7 +170528,6 @@ gutbuckets
 gutcher
 gutchers
 guten
-gutenberg
 gutful
 gutfuls
 guthrie
@@ -176111,7 +176095,6 @@ heiaus
 heid
 heide
 heidegger
-heidelberg
 heidi
 heids
 heiduc
@@ -176181,7 +176164,6 @@ heirs
 heirship
 heirships
 heirskip
-heisenberg
 heishe
 heishes
 heishi
@@ -180266,7 +180248,6 @@ hindcasting
 hindcasts
 hinddeck
 hindemith
-hindenburg
 hinder
 hinderance
 hinderances
@@ -181583,7 +181564,6 @@ holarthritic
 holarthritis
 holaspidean
 holbein
-holberg
 holborn
 holcad
 holcodont
@@ -212729,7 +212709,6 @@ kiladja
 kilah
 kilampere
 kilan
-kilberg
 kilbrickenite
 kilbride
 kild
@@ -228440,7 +228419,6 @@ lundress
 lundy
 lundyfoot
 lune
-luneburg
 lunel
 lunes
 lunet
@@ -230508,7 +230486,6 @@ magdalenes
 magdalenian
 magdalens
 magdaleon
-magdeburg
 magdelene
 mage
 magellan
@@ -236721,7 +236698,6 @@ mechs
 meck
 meckelectomy
 meckelian
-mecklenburg
 mecklenburgian
 mecks
 meclizine
@@ -272357,8 +272333,6 @@ nurdles
 nurdling
 nurds
 nurdy
-nuremberg
-nuremburg
 nureyev
 nurhag
 nurhags
@@ -272367,7 +272341,6 @@ nurled
 nurling
 nurls
 nurly
-nurnberg
 nurofen
 nurr
 nurrs
@@ -308988,7 +308961,6 @@ pittosporaceous
 pittospore
 pittosporum
 pittosporums
-pittsburg
 pittsburgh
 pittsburgher
 pittu
@@ -344730,7 +344702,6 @@ regeneratoryregeneratress
 regeneratress
 regeneratrix
 regenesis
-regensburg
 regent
 regental
 regentess
@@ -352638,7 +352609,6 @@ rfound
 rfree
 rfs
 rfz
-rg
 rgen
 rgvedic
 rgyalrong
@@ -356522,7 +356492,6 @@ rosemaling
 rosemalings
 rosemaries
 rosemary
-rosenberg
 rosenbergia
 rosenbuschite
 rosenkavalier
@@ -364690,7 +364659,6 @@ schochat
 schoche
 schochet
 schoenanth
-schoenberg
 schoenobatic
 schoenobatist
 schoenocaulon
@@ -364739,7 +364707,6 @@ scholiumlia
 scholiums
 schomburgkia
 schon
-schonberg
 schone
 schonfelsite
 schoodic
@@ -389039,7 +389006,6 @@ spiegeleisen
 spiegeleisens
 spiegels
 spiel
-spielberg
 spieled
 spieler
 spielers
@@ -394050,7 +394016,6 @@ steil
 steils
 stein
 steinbeck
-steinberg
 steinberger
 steinbock
 steinbocks
@@ -397549,7 +397514,6 @@ strimmers
 strimming
 strims
 strind
-strindberg
 strine
 strines
 string
@@ -407800,7 +407764,6 @@ sweatweed
 sweaty
 swede
 sweden
-swedenborg
 swedenborgian
 swedenborgianism
 swedenborgism
@@ -471293,7 +471256,6 @@ weils
 weimar
 weimaraner
 weimaraners
-weinberg
 weinbergerite
 weiner
 weiners
@@ -473780,7 +473742,6 @@ willi
 william
 williamite
 williams
-williamsburg
 williamsite
 williamson
 williamsonia
@@ -476939,7 +476900,6 @@ wurtzilite
 wurtzite
 wurtzites
 wurtzitic
-wurzburg
 wurzburger
 wurzel
 wurzels
