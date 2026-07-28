@@ -3838,7 +3838,6 @@ actively
 activeness
 activenesses
 actives
-activex
 activin
 activise
 activised
@@ -8905,7 +8904,6 @@ alands
 alane
 alang
 alange
-alangiaceae
 alangin
 alangine
 alangium
@@ -24867,7 +24865,6 @@ artamus
 artar
 artarin
 artarine
-artaxerxes
 artcore
 artcraft
 arte
@@ -31462,7 +31459,6 @@ bacalao
 bacalaos
 bacalhau
 bacalhaus
-bacall
 bacao
 bacardi
 bacardis
@@ -45265,7 +45261,6 @@ bleps
 blerd
 blerds
 blere
-bleriot
 blert
 blerts
 blesbok
@@ -97505,7 +97500,6 @@ daled
 daledh
 daledhs
 daleds
-dalek
 daleks
 daleman
 daler
@@ -98220,7 +98214,6 @@ darlingnesses
 darlings
 darlington
 darlingtonia
-darmstadt
 darmstadtium
 darmstadtiums
 darn
@@ -116505,6 +116498,7 @@ dognappers
 dognapping
 dognappings
 dognaps
+dogoyaro
 dogpile
 dogpiled
 dogpiles
@@ -124539,7 +124533,6 @@ ejuration
 ejusd
 ejusdem
 ekaboron
-ekacaesium
 ekaha
 ekamanganese
 ekanite
@@ -126101,7 +126094,6 @@ elychnious
 elydoric
 elymi
 elymus
-elyphilia
 elysee
 elysees
 elysia
@@ -126116,7 +126108,6 @@ elytral
 elytriferous
 elytriform
 elytrigerous
-elytrimitatrix
 elytrin
 elytrocele
 elytroclasia
@@ -134710,7 +134701,6 @@ essoinment
 essoins
 essonite
 essonites
-essonne
 essorant
 essoyne
 essoynes
@@ -208045,7 +208035,6 @@ joab
 joachim
 joachimite
 joan
-joanie
 joanna
 joannas
 joanne
@@ -209850,7 +209839,6 @@ kafa
 kaferita
 kaffeeklatsch
 kaffeeklatsches
-kaffir
 kaffirboom
 kaffirbooms
 kaffirs
@@ -215235,7 +215223,6 @@ ksar
 ksars
 kshatriya
 kshatriyahood
-ksi
 ktenasite
 ktenasites
 ktetor
@@ -226267,7 +226254,6 @@ lonquhard
 lonsdale
 lonsdaleite
 lonsdaleites
-lonsdaleitesia
 lonsdaler
 lonsdales
 lontar
@@ -235830,7 +235816,6 @@ mcpherson
 mcqueen
 md
 mdewakanton
-mdnt
 mdse
 mdv
 me
@@ -237111,7 +237096,6 @@ meissner
 meister
 meisters
 meistersinger
-meistersingers
 meith
 meithei
 meiths
@@ -256186,7 +256170,6 @@ nantle
 nantokite
 nants
 nantucket
-nantwich
 nantz
 nanua
 nanuas
@@ -257956,6 +257939,7 @@ neguses
 nehantic
 nehemiah
 nehiloth
+nehiyaw
 nehru
 nei
 neif
@@ -274307,7 +274291,6 @@ oerlikon
 oerlikons
 oersted
 oersteds
-oertop
 oes
 oesogi
 oesophagal
@@ -277265,6 +277248,7 @@ oppugner
 oppugners
 oppugning
 oppugns
+oprozomib
 ops
 opsigamy
 opsimath
@@ -289446,7 +289430,6 @@ pakeha
 pakehas
 pakfong
 pakfongs
-pakhavaj
 pakhawaj
 pakhlava
 pakhpuluk
@@ -290528,7 +290511,6 @@ palookas
 palosapis
 palour
 palouser
-palov
 paloverde
 paloverdes
 palp
@@ -352086,6 +352068,7 @@ rhabdomeres
 rhabdomes
 rhabdomonas
 rhabdoms
+rhabdomyolysis
 rhabdomyoma
 rhabdomyomas
 rhabdomyomata
@@ -355926,7 +355909,6 @@ rosemary
 rosenberg
 rosenbergia
 rosenbuschite
-rosencrantz
 rosenkavalier
 rosenthal
 roseola
@@ -372534,7 +372516,6 @@ seychelles
 seychellois
 seyen
 seyens
-seyfert
 seymeria
 seymour
 seys
@@ -378241,7 +378222,6 @@ siomay
 sion
 siona
 sionas
-sionichgos
 sionism
 sionisms
 siouan
@@ -385049,7 +385029,6 @@ sonics
 soniferous
 sonification
 soning
-sonion
 soniou
 sonja
 sonk
@@ -386302,7 +386281,6 @@ soy
 soya
 soyabean
 soyabeans
-soyaburgers
 soyas
 soyate
 soybean
@@ -409535,7 +409513,6 @@ szechwan
 szekely
 szekler
 szeklers
-szell
 szenicsite
 szenicsites
 szlachta
@@ -415960,10 +415937,8 @@ tero
 terocodame
 terodactyl
 terodiline
-terofenamate
 teroldego
 terophylic
-terophyte
 teros
 terotechnology
 teroxide
@@ -416203,7 +416178,6 @@ tersest
 tersion
 tersions
 terskite
-terskites
 tersulfid
 tersulfide
 tersulphate
@@ -421829,7 +421803,6 @@ tinselmaking
 tinselries
 tinselry
 tinsels
-tinseltown
 tinselweaver
 tinselwork
 tinsely
@@ -432491,7 +432464,6 @@ tungstites
 tungstosilicate
 tungstosilicic
 tungstous
-tungtungsahur
 tungus
 tunguses
 tungusian
@@ -459447,7 +459419,6 @@ urging
 urgingly
 urgings
 urgonian
-urgullibleifyoutypethis
 urheen
 uri
 uria
@@ -467041,7 +467012,6 @@ vomtoria
 von
 vondsira
 vongole
-vonnegut
 vonsenite
 voodoo
 voodooed
@@ -476862,7 +476832,6 @@ xiangfu
 xiangjiangite
 xiangqi
 xianhuaite
-xians
 xianshanosaurus
 xiao
 xiao'erjing
@@ -478467,7 +478436,6 @@ yonkalla
 yonker
 yonkers
 yonks
-yonne
 yonner
 yonnie
 yonnies
@@ -478658,7 +478626,6 @@ ypocras
 yponomeuta
 yponomeutid
 yponomeutidae
-ypres
 ypresian
 ypsiliform
 ypsiloid
