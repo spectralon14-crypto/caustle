@@ -5652,10 +5652,7 @@ ady
 adynamia
 adynamias
 adynamic
-adynamy
 adyta
-adyton
-adytta
 adytum
 adz
 adze
@@ -122096,6 +122093,11 @@ dzong
 dzongkha
 dzos
 dzungar
+e-dated
+e-dater
+e-daters
+e-dating
+e-datings
 e-infrastructure
 e-liquid
 ea
@@ -124529,6 +124531,10 @@ ejuration
 ejusd
 ejusdem
 ekaboron
+ekadashi
+ekadashis
+ekagrata
+ekagratas
 ekaha
 ekamanganese
 ekanite
@@ -125952,9 +125958,10 @@ elotherium
 elotillo
 elotuzumab
 elpasolite
+elpasolites
 elpee
-elpees
 elpidite
+elpidites
 elrage
 elranatamab
 elrhazosaurus
