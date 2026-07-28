@@ -1459,6 +1459,8 @@ abyssolith
 abyssopelagic
 abysss
 abyssus
+abzyme
+abzymes
 ac
 acacatechin
 acacatechol
@@ -181142,6 +181144,10 @@ hochheimer
 hochhuth
 hochmagandies
 hochmagandy
+hochstift
+hochstifte
+hochstifts
+hochu-ekki-to
 hock
 hockamore
 hockday
@@ -310432,6 +310438,9 @@ pledgor
 pledgors
 plegadis
 plegaphonia
+plegia
+plegias
+plegic
 plegium
 plegometer
 pleiad
@@ -402478,6 +402487,8 @@ sujuk
 suk
 sukey
 sukh
+sukhasana
+sukhasanas
 sukhs
 suki
 sukiyaki
