@@ -379107,7 +379107,9 @@ sisyphean
 sisyphian
 sisyphides
 sisyphism
+sisyphisms
 sisyphist
+Sisyphus
 sisyphus
 sisyrinchium
 sit
@@ -481129,8 +481131,10 @@ zoroaster
 zoroastra
 zoroastrian
 zoroastrianism
+zoroastrianisms
 zoroastrians
 zoroastrism
+zoroastrisms
 zorotypus
 zorrillo
 zorro
