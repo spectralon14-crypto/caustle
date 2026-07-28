@@ -23811,6 +23811,10 @@ arglebargling
 argled
 argles
 argling
+argmax
+argmaxes
+argmin
+argmins
 argo
 argoan
 argol
@@ -24125,6 +24129,8 @@ arithmophobia
 arithmophobias
 arithmophobic
 arithromania
+arities
+arity
 arius
 arivaipa
 arizona
@@ -76077,6 +76083,8 @@ cnidoscolus
 cnidosis
 cnut
 co
+co-ordinate
+co-ordinates
 coabode
 coabound
 coabsume
@@ -79440,6 +79448,7 @@ colpocystodefecographies
 colpohyperplasia
 colpohysterotomy
 colpoperineoplasty
+colpoperineorrhaphies
 colpoperineorrhaphy
 colpoplastic
 colpoplasty
@@ -89906,6 +89915,7 @@ covisit
 covisitor
 covite
 covolume
+covolumes
 covotary
 covyne
 covynes
@@ -107965,6 +107975,7 @@ diagometers
 diagonal
 diagonalisable
 diagonalisation
+diagonalisations
 diagonalise
 diagonalised
 diagonalises
@@ -109692,6 +109703,7 @@ digoneutism
 digoneutisms
 digonoporous
 digonous
+digons
 digor
 digoxin
 digoxins
@@ -124791,6 +124803,7 @@ elastomers
 elastometer
 elastometry
 elastoplast
+elastoplasticity
 elastoplasts
 elastose
 elatcha
@@ -148258,6 +148271,7 @@ floaties
 floatiest
 floatiness
 floating
+floating-points
 floatingly
 floatings
 floative
@@ -172294,6 +172308,8 @@ halest
 haleweed
 haley
 half
+half-and-half
+half-n-half
 halfa
 halfarse
 halfarsed
@@ -174338,6 +174354,7 @@ hashings
 hashish
 hashishes
 hashiya
+hashmap
 hashmark
 hashmarks
 hasht
@@ -189959,6 +189976,7 @@ ideist
 idelalisib
 idem
 idemfactor
+idempotence
 idempotencies
 idempotency
 idempotent
@@ -218220,6 +218238,7 @@ lapje
 lapjes
 laplace
 laplacian
+laplacians
 lapland
 laplander
 laplanders
@@ -249321,6 +249340,7 @@ monogoneutic
 monogonies
 monogonoporic
 monogonoporous
+monogons
 monogony
 monogram
 monogramed
@@ -256076,6 +256096,7 @@ mzees
 mzungus
 n-acetyl-seryl-aspartyl-lysyl-prolines
 n-desmethyltamoxifen
+n-gon
 na
 naa
 naafi
@@ -256614,6 +256635,8 @@ nanocephalism
 nanocephalous
 nanocephalus
 nanocephaly
+nanocomposite
+nanocomposites
 nanocurie
 nanocuries
 nanodot
@@ -258676,6 +258699,11 @@ nenta
 nenuphar
 nenuphars
 neo
+neo-functionalisation
+neo-functionalisations
+neo-functionalization
+neo-functionalizations
+neo-institutionalisms
 neoacademic
 neoanthropic
 neoarctic
@@ -258746,6 +258774,8 @@ neofetus
 neofiber
 neoformation
 neoformative
+neofunctionalisations
+neofunctionalizations
 neogaea
 neogaean
 neogamous
@@ -284456,6 +284486,7 @@ overdestructively
 overdestructiveness
 overdetailed
 overdetermination
+overdeterminations
 overdetermined
 overdevelop
 overdeveloped
@@ -293257,6 +293288,8 @@ paramese
 parameses
 paramesial
 parameter
+parameterisation
+parameterisations
 parameterise
 parameterised
 parameterises
@@ -293275,6 +293308,7 @@ parametric
 parametrical
 parametrically
 parametrisation
+parametrisations
 parametrise
 parametrised
 parametrises
@@ -311360,6 +311394,7 @@ pluffing
 pluffs
 pluffy
 plug
+plug-in
 plugboard
 plugboards
 plugdrawer
@@ -329157,6 +329192,7 @@ pseudish
 pseudisodomic
 pseudisodomum
 pseudo
+pseudo-jahn-teller
 pseudoacaccia
 pseudoacacia
 pseudoacademic
@@ -336332,6 +336368,7 @@ quotlibet
 quott
 quotum
 quotums
+ququart
 quran
 qursh
 qurshes
@@ -371367,6 +371404,7 @@ septaemia
 septage
 septages
 septagon
+septagonal
 septagons
 septal
 septan
@@ -372733,6 +372771,7 @@ sev
 sevastopol
 seve
 seven
+seven-dimensional
 sevenbark
 sevener
 sevenfold
@@ -384431,6 +384470,8 @@ softlings
 softlock
 softlocks
 softly
+softmax
+softmaxes
 softner
 softness
 softnesses
@@ -417438,6 +417479,9 @@ tetrasyllabical
 tetrasyllable
 tetrasyllables
 tetrasymmetry
+tetrate
+tetrated
+tetrates
 tetrathecal
 tetratheism
 tetratheisms
@@ -417447,6 +417491,8 @@ tetrathionates
 tetrathionic
 tetrathlon
 tetrathlons
+tetrating
+tetration
 tetratomic
 tetratone
 tetravalence
@@ -459863,6 +459909,7 @@ ureterolithic
 ureterolithotomies
 ureterolithotomy
 ureterolysis
+ureteroneocystostomies
 ureteronephrectomy
 ureterophlegma
 ureteroplasty
