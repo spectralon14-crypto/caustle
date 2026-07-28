@@ -15837,6 +15837,7 @@ anhinga
 anhingas
 anhistic
 anhistous
+anhui
 anhungered
 anhungred
 anhungry
@@ -38218,6 +38219,7 @@ beglerbegluc
 beglerbegs
 beglerbegship
 beglerbey
+begleris
 beglew
 beglic
 beglide
@@ -56900,6 +56902,7 @@ calaloo
 calaloos
 calalu
 calalus
+calama
 calamagrostis
 calamanco
 calamancoes
@@ -68737,6 +68740,7 @@ chhatas
 chhatri
 chhena
 chhertum
+chhindwara
 chi
 chia
 chiack
@@ -85449,6 +85453,7 @@ cooeying
 cooeys
 coof
 coofs
+coogee
 cooghneiorvlt
 coohee
 cooing
@@ -122139,6 +122144,7 @@ dziggetais
 dzo
 dzong
 dzongkha
+dzongs
 dzos
 dzungar
 e-dated
@@ -137154,6 +137160,7 @@ ewder
 ewe
 ewelease
 ewell
+ewenki
 ewer
 ewerer
 eweries
@@ -141844,6 +141851,7 @@ faradomuscular
 faradonervous
 faradopalpation
 farads
+farah
 farand
 farandine
 farandines
@@ -153230,6 +153238,7 @@ freddy
 frederic
 frederica
 frederick
+fredericton
 frederik
 frederiksberg
 fredricite
@@ -156090,6 +156099,7 @@ fuzee
 fuzees
 fuzeless
 fuzes
+fuzhou
 fuzhow
 fuzil
 fuzils
@@ -159146,10 +159156,16 @@ gawsy
 gay
 gay-ass
 gay-baiting
+gay-baitings
+gay-friendly
 gayal
 gayals
 gayatri
 gaybine
+gayborhood
+gayborhoods
+gaybourhood
+gaybourhoods
 gaycat
 gaycation
 gaycations
@@ -169956,6 +169972,7 @@ gujar
 gujarati
 gujerat
 gujerati
+gujranwala
 gujrati
 gul
 gula
@@ -175711,6 +175728,7 @@ hebeanthous
 hebecarpous
 hebecladous
 hebegynous
+hebei
 heben
 hebenon
 hebenons
@@ -177530,6 +177548,7 @@ hemsworth
 hemule
 hen
 henad
+henan
 henbane
 henbanes
 henbill
@@ -184617,6 +184636,7 @@ hubbubs
 hubby
 hubcap
 hubcaps
+hubei
 hubert
 hubless
 hubmaker
@@ -185263,6 +185283,7 @@ humusy
 humvee
 humvees
 hun
+hunan
 hunanese
 hunch
 hunchakist
@@ -207745,6 +207766,7 @@ jianbing
 jianchangosaurus
 jiangsu
 Jiangxi
+jiangxi
 jianyun
 jiao
 jiaos
@@ -214660,6 +214682,7 @@ kolbassis
 koldaji
 kolea
 koleroga
+kolhapur
 kolhoz
 kolhozes
 kolhozy
@@ -215546,6 +215569,7 @@ kunkar
 kunkars
 kunkur
 kunkurs
+kunming
 kunmiut
 kunstlied
 kuntao
@@ -222301,6 +222325,7 @@ lezzy
 lf
 lg
 lgth
+lhasa
 lherzite
 lherzolite
 lherzolites
@@ -228919,6 +228944,7 @@ luzzes
 lv
 lvalue
 lvalues
+lviv
 lvov
 lwei
 lweis
@@ -231330,6 +231356,7 @@ makari
 makars
 makassar
 makatea
+makati
 makdous
 make
 makeable
@@ -234301,6 +234328,8 @@ marra
 marraine
 marrakech
 marrakesh
+marrakshi
+marrakshis
 marram
 marrams
 marranism
@@ -252979,6 +253008,7 @@ mulshing
 mulsify
 mult
 multa
+multan
 multangle
 multangula
 multangular
@@ -253707,6 +253737,7 @@ mulukhiyah
 mulvel
 mum
 mumawwash
+mumbai
 mumble
 mumblebee
 mumblecore
@@ -272897,6 +272928,7 @@ oats
 oatseed
 oaty
 oaves
+oaxaca
 ob
 ob-gyn
 ob-gyns
@@ -277667,6 +277699,7 @@ opodeldoc
 opodeldocs
 opodidymus
 opodymus
+opole
 opopanax
 opopanaxes
 opoponax
@@ -278965,6 +278998,7 @@ ormer
 ormers
 ormolu
 ormolus
+ormond
 ormskirk
 ormuz
 ormuzd
@@ -373149,6 +373183,7 @@ sgroppino
 sgroppinos
 sh
 sha
+shaanxi
 shaatnez
 shab
 shaban
@@ -373662,6 +373697,7 @@ shand
 shandean
 shandies
 shandite
+shandong
 shandries
 shandry
 shandrydan
@@ -373725,6 +373761,7 @@ shantymen
 shantys
 shantytown
 shantytowns
+shanxi
 shanyao
 shaochilong
 shaolin
@@ -375137,6 +375174,7 @@ shipyard
 shipyards
 shir
 shirakashi
+shirako
 shiralee
 shiralees
 shirallee
@@ -393284,6 +393322,7 @@ statant
 statary
 statcoulomb
 state
+state-of-the-art
 stateable
 statecraft
 statecrafts
@@ -415295,6 +415334,7 @@ temblores
 temblors
 tembu
 teme
+temecula
 temed
 temene
 temenos
@@ -421277,6 +421317,7 @@ tiananmen
 tianchisaurus
 tiang
 tiangue
+tianjin
 tians
 tianyulong
 tianyuraptor
@@ -421774,6 +421815,7 @@ tigs
 tigtag
 tigua
 tigurine
+tijuana
 tik
 tika
 tikanga
@@ -469630,6 +469672,7 @@ warstlers
 warstles
 warstling
 warsts
+warszawa
 wart
 warted
 wartern
@@ -471562,6 +471605,7 @@ wentletraps
 wents
 wentworth
 wenzel
+wenzhounese
 weobley
 wepman
 wepmankin
@@ -477431,6 +477475,7 @@ xhosa
 xhosan
 xhosas
 xi
+xi'an
 xiamen
 xian
 xiangfu
@@ -477461,6 +477506,7 @@ xing
 xingshu
 xingyi
 xingyiquan
+xinjiang
 xinjiangtitan
 xint
 xinyao
