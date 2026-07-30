@@ -4675,8 +4675,11 @@ adight
 adigranth
 adimurai
 adin
+adinazolam
 adinida
 adinidan
+adinkra
+adinkras
 adinole
 adinvention
 adion
@@ -36681,6 +36684,7 @@ bazzing
 bazzite
 bb
 bbc
+bbg
 bbl
 bbls
 bbs
@@ -111582,6 +111586,8 @@ dirts
 dirty
 dirtying
 diruption
+diruthenium
+dirutheniums
 dis
 disa
 disabilities
@@ -207650,6 +207656,7 @@ japonically
 japonicas
 japonicize
 japonism
+japonisms
 japonize
 japonizer
 jappa
@@ -209051,10 +209058,13 @@ jizzed
 jizzen
 jizzes
 jizzing
+jjajang
 jjajangmyeon
 jjajangmyeons
 jjajangmyun
 jjajangmyuns
+jjambbong
+jjampong
 jjamppong
 jjapaguri
 jjigae
@@ -209063,6 +209073,8 @@ jjim
 jjimdak
 jjimjilbang
 jjimjilbangs
+jjinppang
+jjolmyeon
 jk
 jms
 jnana
@@ -211039,6 +211051,9 @@ kajawah
 kajawahs
 kajeput
 kajeputs
+kajjaya
+kajjikaya
+kajjikayalu
 kajkavian
 kajugaru
 kajukenbo
@@ -215660,6 +215675,9 @@ koluschan
 kolush
 komarch
 komati
+komatiite
+komatiites
+komatiitic
 komatik
 komatiks
 kombatan
@@ -239260,6 +239278,7 @@ melville
 melvin
 melvyn
 mem
+memantine
 member
 membered
 memberless
@@ -462692,6 +462711,7 @@ vajazzlings
 vajra
 vajra-mushti
 vajrasana
+vajrasanas
 vakas
 vakases
 vakass
