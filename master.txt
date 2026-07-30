@@ -1,6 +1,7 @@
 'aqa'id
 'aqida
 'are'are
+'iwa
 'kay
 'nam
 'sblood
@@ -72032,6 +72033,7 @@ chuchona
 chuchuk
 chuchvara
 chuck
+chuck-will's-widow
 chuckawalla
 chuckawallas
 chucked
@@ -185109,6 +185111,8 @@ huer
 huers
 huerta
 hues
+huet-huet
+huet-huets
 huey
 huff
 huffaker
@@ -232858,6 +232862,7 @@ mamzer
 mamzerim
 mamzers
 man
+man-o'-war
 mana
 manabozho
 manace
@@ -258734,6 +258739,8 @@ necturus
 ned
 nedcolbertia
 nedder
+neddickies
+neddicky
 neddier
 neddies
 neddiest
@@ -343231,6 +343238,7 @@ recyclings
 recyclist
 recyclists
 red
+red-billed
 red-blooded
 red-eye
 red-eyes
@@ -436953,6 +436961,8 @@ umbratilous
 umbre
 umbrel
 umbrella
+umbrellabird
+umbrellabirds
 umbrellaed
 umbrellaing
 umbrellaless
@@ -479657,6 +479667,7 @@ ympe
 ympes
 ymping
 ympt
+ynambu
 ynamide
 ynamides
 ynamine
