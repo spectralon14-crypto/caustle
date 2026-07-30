@@ -559,6 +559,7 @@ abiotrophic
 abiotrophies
 abiotrophy
 abipon
+abipones
 abir
 abirritant
 abirritants
@@ -18552,6 +18553,7 @@ antiglyoxalase
 antignostic
 antignostical
 antigod
+antigonadotropins
 antigone
 antigonococcic
 antigonon
@@ -23713,6 +23715,7 @@ argante
 argas
 argasid
 argasidae
+argatroban
 argean
 argeers
 argel
@@ -26772,6 +26775,7 @@ astel
 astelic
 astelies
 astely
+astemizole
 aster
 asteraceae
 asteraceous
@@ -42056,6 +42060,7 @@ bifoliate
 bifoliolate
 bifolium
 bifollicular
+bifonazole
 biforate
 biforin
 biforine
@@ -51876,6 +51881,7 @@ britzka
 britzkas
 britzska
 britzskas
+brivanib
 brix
 brixham
 brixton
@@ -57091,6 +57097,8 @@ calcifying
 calcigenous
 calcigerous
 calcimeter
+calcimimetic
+calcimimetics
 calcimine
 calcimined
 calciminer
@@ -60988,6 +60996,7 @@ carfare
 carfares
 carfax
 carfaxes
+carfilzomib
 carfloat
 carfour
 carfox
@@ -68730,9 +68739,12 @@ cheyney
 cheyneys
 chez
 chg
+chhajja
+chhajjas
 chhata
 chhatas
 chhatri
+chhatris
 chhena
 chhertum
 chhindwara
@@ -75536,6 +75548,11 @@ cloot
 clootie
 cloots
 clop
+clop-clop
+clop-clopped
+clop-clopping
+clop-clops
+clopidogrel
 clopped
 clopping
 clops
@@ -91393,6 +91410,7 @@ crenezumab
 crengle
 crenic
 crenitic
+crenolanib
 crenology
 crenotherapy
 crenothrix
@@ -97827,6 +97845,7 @@ danais
 danaite
 danakil
 danalite
+danaparoid
 danaro
 danazol
 danazols
@@ -98048,6 +98067,7 @@ dantonist
 dantons
 dantophilist
 dantophily
+dantrolene
 dants
 danube
 danubian
@@ -98181,6 +98201,7 @@ dariacores
 daribah
 daric
 darics
+daridorexant
 darien
 darii
 darin
@@ -101422,6 +101443,7 @@ defensory
 defer
 deferability
 deferable
+deferasirox
 deference
 deferences
 deferens
@@ -101864,6 +101886,7 @@ degames
 degami
 degamis
 deganglionate
+degarelix
 degarnish
 degarnished
 degarnishes
@@ -105102,6 +105125,7 @@ deracination
 deracinations
 deracine
 deracines
+deracoxib
 deradelphus
 deradenitis
 deradenoncus
@@ -106149,6 +106173,7 @@ desoldering
 desolders
 desole
 desonation
+desonide
 desophisticate
 desophistication
 desorb
@@ -107047,6 +107072,7 @@ deuterotoky
 deuterotype
 deuterovitellose
 deuterozooid
+deutetrabenazine
 deutobromide
 deutocarbonate
 deutochloride
@@ -107530,6 +107556,7 @@ dexiotropic
 dexiotropism
 dexiotropous
 dexketoprofen
+dexlansoprazole
 dexter
 dexterical
 dexterities
@@ -108766,6 +108793,7 @@ dichloroethane
 dichloroethanes
 dichlorohydrin
 dichloromethane
+dichlorphenamide
 dichlorvos
 dichlorvoses
 dichocarpism
@@ -109501,7 +109529,10 @@ diffusivity
 diffusor
 diffusors
 difluence
+diflunisal
 difluoride
+difluoromethylornithine
+difluprednate
 diformin
 difs
 difunctional
@@ -115996,6 +116027,7 @@ docents
 docentship
 docentships
 docetae
+docetaxel-gemcitabine
 docete
 docetic
 docetically
@@ -116089,6 +116121,7 @@ docoglossate
 docos
 docosane
 docosanoic
+docosanol
 docquet
 docqueted
 docqueting
@@ -130346,6 +130379,7 @@ enshrouded
 enshrouding
 enshrouds
 ensient
+ensifentrine
 ensiferi
 ensiform
 ensign
@@ -191936,6 +191970,7 @@ immunoregulatory
 immunosorbent
 immunosorbents
 immunostimulant
+immunostimulants
 immunosuppress
 immunosuppressant
 immunosuppressants
@@ -196837,6 +196872,7 @@ inflictor
 inflictors
 inflicts
 inflight
+infliximab-abda
 inflood
 inflooding
 inflorescence
@@ -203400,6 +203436,7 @@ iof
 iolanthe
 iolite
 iolites
+iomazenil
 ion
 ional
 ionene
@@ -204439,6 +204476,7 @@ isatuximab
 isaurian
 isauxesis
 isauxetic
+isavuconazole
 isaw
 isawa
 isazoxy
@@ -204513,6 +204551,7 @@ isenthalpic
 isentrope
 isentropic
 isentropically
+isepamicin
 isepiptesial
 isepiptesis
 isere
@@ -204647,6 +204686,7 @@ islomanias
 islot
 isls
 ism
+isma'ilism
 ismaelian
 ismaelism
 ismaelisms
@@ -211984,6 +212024,7 @@ ketmie
 keto
 ketoacidoses
 ketoacidosis
+ketoconazole
 ketogen
 ketogeneses
 ketogenesis
@@ -212015,6 +212056,7 @@ ketonuria
 ketonurias
 ketoprak
 ketoprofen
+ketorolac
 ketose
 ketoses
 ketoside
@@ -217731,6 +217773,7 @@ landholdings
 landimere
 landing
 landings
+landiolol
 landiron
 landladies
 landlady
@@ -218519,6 +218562,7 @@ larnt
 larnyx
 laroid
 laron
+laronidase
 larotrectinib
 larou
 larousse
@@ -221672,6 +221716,7 @@ lethocerus
 lethologica
 lethwei
 lethy
+letibotulinumtoxin-a
 letitia
 leto
 letoff
@@ -227817,6 +227862,7 @@ lubbock
 lube
 lubeck
 lubed
+lubeluzole
 lubes
 lubfish
 lubfishes
@@ -236607,6 +236653,7 @@ meawes
 meazel
 meazels
 meazle
+mebendazole
 mebibyte
 mebibytes
 mebos
@@ -237998,6 +238045,7 @@ melithaemia
 melithemia
 melitis
 melitose
+melitracen
 melitriose
 melittin
 melittins
@@ -274732,6 +274780,7 @@ odoured
 odourful
 odourless
 odours
+odronextamab
 ods
 odso
 odsos
@@ -276077,6 +276126,7 @@ omentulum
 omentum
 omentums
 omentuta
+omeprazole
 omer
 omers
 omerta
@@ -292284,6 +292334,7 @@ pantopod
 pantopoda
 pantopragmatic
 pantopragmatics
+pantoprazole
 pantopterous
 pantos
 pantoscope
@@ -295936,6 +295987,7 @@ patinous
 patins
 patio
 patios
+patiromer
 patise
 patisserie
 patisseries
@@ -324301,6 +324353,7 @@ prilled
 prilling
 prillion
 prills
+prilocaine
 prim
 prima
 primacies
@@ -336545,6 +336598,7 @@ rabelais
 rabelaisian
 rabelaisianism
 rabelaism
+rabeprazole
 rabfak
 rabi
 rabiator
@@ -337865,6 +337919,7 @@ rals
 ralston
 ralstonite
 ralstonites
+raltegravir
 ram
 rama
 ramack
@@ -337934,6 +337989,7 @@ ramees
 ramekin
 ramekins
 ramellose
+ramelteon
 ramen
 ramens
 rament
@@ -344594,6 +344650,7 @@ refuters
 refutes
 refuting
 reg
+regadenoson
 regain
 regainable
 regained
@@ -354003,6 +354060,7 @@ rievers
 rieves
 rieving
 rif
+rifabutin
 rifacimenti
 rifacimento
 rifacimentos
@@ -354314,6 +354372,7 @@ rillow
 rills
 rillstone
 rilly
+rilonacept
 rilotumumab
 rim
 rima
@@ -367978,6 +368037,7 @@ seclusive
 seclusively
 seclusiveness
 seclusivenesses
+secnidazole
 secno
 seco
 secobarbital
@@ -372392,6 +372452,7 @@ serrying
 sers
 sert
 serta
+sertaconazole
 serting
 sertion
 sertive
@@ -372873,6 +372934,7 @@ sevillanas
 seville
 sevillian
 seviyan
+sevoflurane
 sevres
 sevruga
 sevrugas
@@ -373487,6 +373549,7 @@ shakudo
 shakudos
 shakuhachi
 shakuhachis
+shakuyaku-kanzo-to
 shaky
 shakyamuni
 shalako
@@ -378450,6 +378513,7 @@ sinds
 sine
 sinead
 sinebada
+sinecatechins
 sinecural
 sinecure
 sinecured
@@ -384444,6 +384508,7 @@ soffritto
 sofia
 sofkee
 sofoklis
+sofosbuvir-velpatasvir-voxilaprevir
 sofrito
 sofritos
 sofronia
@@ -424609,6 +424674,7 @@ topopolitan
 topos
 topotactic
 topotaxis
+topotecan
 topotype
 topotypes
 topotypic
@@ -467638,6 +467704,7 @@ vomtoria
 von
 vondsira
 vongole
+vonoprazan
 vonsenite
 voodoo
 voodooed
