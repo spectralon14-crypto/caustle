@@ -204959,6 +204959,7 @@ ishmaelitic
 ishmaelitish
 ishmaelitism
 ishpingo
+ishpingos
 ishraq
 ishshakku
 ishtar
@@ -378670,6 +378671,7 @@ silurid
 siluridae
 siluridan
 silurids
+siluriformes
 silurist
 silurists
 siluroid
@@ -390124,6 +390126,8 @@ spinulososerrate
 spinulous
 spinwriter
 spiny
+spinyfin
+spinyfins
 spionid
 spionidae
 spioniformia
@@ -461407,8 +461411,11 @@ utah
 utahan
 utahans
 utahceratops
+utahceratopses
 utahite
+utahites
 utahraptor
+utahraptors
 utai
 utan
 utans
