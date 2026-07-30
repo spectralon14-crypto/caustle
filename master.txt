@@ -13846,6 +13846,9 @@ amygdaline
 amygdalinic
 amygdalins
 amygdalitis
+amygdalohippocampal
+amygdalohippocampectomies
+amygdalohippocampectomy
 amygdaloid
 amygdaloidal
 amygdaloids
@@ -13892,6 +13895,9 @@ amylohydrolysis
 amylohydrolytic
 amyloid
 amyloidal
+amyloidogeneses
+amyloidogenesis
+amyloidogenic
 amyloidoses
 amyloidosis
 amyloidosises
@@ -13937,6 +13943,7 @@ amyotrophies
 amyotrophy
 amyous
 amyraldism
+amyraldisms
 amyraldist
 amyridaceae
 amyrin
@@ -160036,6 +160043,7 @@ gemeinde
 gemeinschaft
 gemeinschaften
 gemeinschafts
+gemeinschaftsgefuhl
 gemel
 gemeled
 gemelled
@@ -230352,6 +230360,7 @@ macrencephalous
 macrencephaly
 macrli
 macro
+macro-kjeldahl
 macroaggregate
 macroaggregated
 macroaggregates
@@ -242185,6 +242194,7 @@ micrifies
 micrify
 micrifying
 micro
+micro-kjeldahl
 microaerophile
 microaerophiles
 microaerophilic
@@ -289007,6 +289017,7 @@ ovotestis
 ovovitellin
 ovovivipara
 ovoviviparism
+ovoviviparisms
 ovoviviparities
 ovoviviparity
 ovoviviparous
@@ -370760,6 +370771,7 @@ semimetaphoric
 semimetaphorical
 semimetaphorically
 semimicro
+semimicro-kjeldahl
 semimicroanalysis
 semimicrochemical
 semimild
@@ -481006,6 +481018,7 @@ zeugmatic
 zeugmatically
 zeugobranchia
 zeugobranchiata
+zeuhl
 zeunerite
 zeus
 zeuxian
