@@ -108885,6 +108885,7 @@ dickinsonite
 dickish
 dickishness
 dickite
+dickkopf
 dickon
 dicks
 dicksonia
@@ -169755,6 +169756,7 @@ gugglet
 guggling
 guglet
 guglets
+guglhupf
 guglia
 guglio
 gugu
@@ -176040,6 +176042,7 @@ heezie
 heezies
 heezing
 heezy
+hefezopf
 heffa
 heffas
 heft
@@ -215431,6 +215434,7 @@ kufta
 kuge
 kugel
 kugelhof
+kugelhopf
 kugels
 kuhnia
 kui
@@ -228014,9 +228018,11 @@ lucy
 lud
 ludden
 luddism
+luddisms
 luddite
 luddites
 ludditism
+ludditisms
 luddy
 lude
 ludefisk
@@ -307859,6 +307865,10 @@ pinfolded
 pinfolding
 pinfolds
 ping
+ping-pong
+ping-ponged
+ping-ponging
+ping-pongs
 pinge
 pinged
 pinger
@@ -307903,6 +307913,7 @@ pinguite
 pinguitude
 pinguitudes
 pinguitudinous
+pingyangmycin
 pinhead
 pinheaded
 pinheadedness
@@ -358175,6 +358186,7 @@ rumrunning
 rums
 rumshop
 rumswizzle
+rumtopf
 rumtytoo
 run
 run-down
@@ -364149,6 +364161,7 @@ schadchan
 schadenfreude
 schadenfreudes
 schaefferia
+schafkopf
 schairerite
 schalmei
 schalmey
@@ -481154,6 +481167,7 @@ zooxanthellae
 zooxanthin
 zoozoo
 zoozoos
+zopf
 zophophori
 zophori
 zophorus
