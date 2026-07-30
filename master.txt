@@ -41639,6 +41639,7 @@ bianchi
 bianchite
 bianco
 biandang
+biangbiang
 biangular
 biangulate
 biangulated
@@ -105527,6 +105528,8 @@ derecognized
 derecognizes
 derecognizing
 dered
+deredere
+derederes
 dereference
 dereferenced
 dereferences
@@ -154572,6 +154575,7 @@ freyalite
 freycinetia
 freyja
 freyr
+frfr
 friabilities
 friability
 friable
@@ -155793,6 +155797,7 @@ fuffit
 fuffle
 fuffs
 fuffy
+fufu
 fufus
 fug
 fugacious
@@ -161752,7 +161757,9 @@ geranomorph
 geranomorphae
 geranomorphic
 geranyl
+geranylgeranyl
 geranylgeranylacetones
+geranylgeranyls
 geranylgeranyltransferase
 geranylgeranyltransferases
 gerara
@@ -177095,6 +177102,7 @@ hegumens
 hegumeny
 heh
 hehe
+hehehe
 hehs
 hei
 heiau
@@ -186275,6 +186283,7 @@ humpy
 hums
 humstrum
 humstrums
+humuhumu
 humuhumunukunukuapua'a
 humuhumunukunukuapuaa
 humuhumunukunukuapuaas
@@ -209224,6 +209233,7 @@ jjimjilbangs
 jjinppang
 jjolmyeon
 jk
+jkjk
 jms
 jnana
 jnana-marga
@@ -213480,6 +213490,7 @@ khlysti
 khmer
 khodja
 khodjas
+khoekhoe
 khoikhoi
 khoikhoin
 khoisan
@@ -218281,6 +218292,7 @@ laksas
 lakshadweep
 lakshmi
 laky
+lala
 lalage
 lalang
 lalangs
@@ -299383,6 +299395,7 @@ peepbo
 peepbos
 peepe
 peeped
+peepee
 peeper
 peepers
 peepes
@@ -316888,6 +316901,7 @@ poophytic
 poopier
 poopiest
 pooping
+poopoo
 poops
 poopsie
 poopy
@@ -479713,6 +479727,7 @@ xong
 xonotlite
 xonotlites
 xor
+xoxo
 xp
 xr
 xray
@@ -482017,6 +482032,7 @@ zaxes
 zayat
 zayin
 zayins
+zaza
 zazen
 zazens
 zby
