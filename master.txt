@@ -30,6 +30,8 @@ aardwolves
 aargh
 aarhus
 aaron
+aaron's-beard
+aaron's-beards
 aaronic
 aaronical
 aaronite
@@ -43682,6 +43684,8 @@ birchman
 birchwood
 birchwoods
 bird
+bird's-foot
+bird's-foots
 birdbander
 birdbanding
 birdbath
@@ -51446,6 +51450,7 @@ breyed
 breying
 breys
 brezhnev
+bri'ish
 briakinumab
 brian
 briar
@@ -53876,6 +53881,7 @@ bukshees
 bukshi
 bukshis
 bul
+bul'gogi
 bulak
 bulalo
 bulandshahr
@@ -55447,6 +55453,7 @@ butazolidin
 butch
 butcha
 butcher
+butcher's-brooms
 butcherbird
 butcherbirds
 butcherbroom
@@ -62717,6 +62724,7 @@ casusistry
 caswellite
 casziel
 cat
+cat's-feet
 catabaptist
 catabases
 catabasion
@@ -66013,6 +66021,10 @@ cg
 cgm
 cgs
 ch
+ch'i
+ch'i-p'ao
+ch'i-p'aos
+ch'is
 ch'orti'
 cha
 chaa
@@ -68226,6 +68238,7 @@ cheewink
 cheewinks
 cheezit
 chef
+chef-d'oeuvre
 chefdom
 chefdoms
 chefed
@@ -68237,6 +68250,7 @@ cheffy
 chefing
 chefrinia
 chefs
+chefs-d'oeuvre
 chego
 chegoe
 chegoes
@@ -72063,6 +72077,7 @@ chuchuk
 chuchvara
 chuck
 chuck-will's-widow
+chuck-will's-widows
 chuckawalla
 chuckawallas
 chucked
@@ -88681,6 +88696,7 @@ could
 coulda
 couldest
 couldn
+couldn't-care-less
 couldna
 couldnt
 couldron
@@ -92986,6 +93002,7 @@ crouton
 croutons
 crouts
 crow
+crow's-feet
 crowbait
 crowbaits
 crowbar
@@ -97214,6 +97231,7 @@ czechoslovakians
 czechoslovaks
 czechs
 czigany
+d'ansite
 d-optimal
 d-sorbitol
 d-sorbitols
@@ -99219,6 +99237,8 @@ ddss
 dduk
 ddukbokki
 de
+de-ba'athification
+de-ba'athifications
 dea
 deaccession
 deaccessioned
@@ -99258,6 +99278,8 @@ deactivations
 deactivator
 deactivators
 dead
+dead-man's-fingers
+dead-men's-fingers
 deadass
 deadbeat
 deadbeats
@@ -99543,6 +99565,7 @@ deaspiration
 deaspirations
 deassimilation
 death
+death's-heads
 deathbed
 deathbeds
 deathblow
@@ -104310,6 +104333,7 @@ denizenship
 denizenships
 denizes
 denizing
+denje'c'jute
 denmark
 denned
 dennet
@@ -108018,6 +108042,7 @@ dhows
 dhritarashtra
 dhss
 dhu
+dhu'l-hijja
 dhu'l-hijjah
 dhuhr
 dhunchee
@@ -116696,6 +116721,7 @@ doffs
 doftberry
 dofunny
 dog
+dog's-tails
 dogal
 dogan
 dogana
@@ -117415,6 +117441,7 @@ doms
 domus
 domy
 don
+don't-knows
 dona
 donable
 donacidae
@@ -120607,6 +120634,7 @@ dts
 dtset
 du
 du'a'
+du'ahs
 duad
 duadic
 duads
@@ -157006,6 +157034,7 @@ fytte
 fyttes
 fz
 g'day
+g'morning
 g'night
 g-force
 g-forces
@@ -171542,6 +171571,7 @@ gutwort
 gutzer
 gutzers
 guv
+guv'nors
 guvacine
 guvacoline
 guvec
@@ -173554,6 +173584,7 @@ haloxylin
 halp
 halpace
 halper
+halq'emeylem
 hals
 halse
 halsed
@@ -175974,6 +176005,8 @@ hdlc
 hdqrs
 hdwe
 he
+he'd
+he-he'd
 head
 headache
 headaches
@@ -181953,6 +181986,7 @@ hmso
 hmu
 hny
 ho
+ho'oponopono
 ho-chunk
 hoa
 hoactzin
@@ -205428,6 +205462,7 @@ isegrim
 iseikonia
 iseikonias
 iseikonic
+isekai'd
 isenergic
 isenthalpic
 isentrope
@@ -205571,6 +205606,7 @@ islomanias
 islot
 isls
 ism
+isma'ilis
 isma'ilism
 isma'ilisms
 ismaelian
@@ -210776,6 +210812,7 @@ k-subsets
 k-substitution
 k-substitutions
 ka
+ka'aks
 kaaba
 kaal
 kaama
@@ -211273,6 +211310,7 @@ kalyptras
 kalysis
 kam
 kama
+kama'ainas
 kamaaina
 kamaainas
 kamaboko
@@ -216885,6 +216923,7 @@ kyurinish
 kyus
 kyushu
 l'chaim
+l'chayim
 l-acetylcarnitine
 l-asparagine
 l-asparagines
@@ -223340,6 +223379,7 @@ lhota
 lhotshampa
 lhukonzo
 li
+li'l
 li-ion
 li-ions
 li-liger
@@ -230486,7 +230526,12 @@ lyxose
 lyxoses
 m
 m'kay
+m'lady
 ma
+ma'ams
+ma'arivim
+ma'jonga
+ma'rifa
 maa
 maad
 maaed
@@ -233390,6 +233435,8 @@ mamzer
 mamzerim
 mamzers
 man
+man'ousheh
+man'yogana
 man-o'-war
 mana
 manabozho
@@ -234813,6 +234860,7 @@ mardiest
 mardy
 mardying
 mare
+mare's-tails
 mareblob
 mareca
 marechal
@@ -242541,6 +242589,7 @@ mhorrs
 mhos
 mhz
 mi
+mi'kmaqs
 mia
 miacis
 miae
@@ -253386,6 +253435,8 @@ mtscmd
 mtsvane
 mtx
 mu
+mu'adhdhins
+mu'tazilahs
 mu'umu'u
 muang
 muban
@@ -258303,6 +258354,7 @@ nasser
 nassidae
 nassology
 nast
+nasta'liq
 nastalik
 nastaliks
 nastaliq
@@ -258836,6 +258888,8 @@ ndrangheta
 nduja
 ndujas
 ne
+ne'er-do-weel
+ne'er-do-weels
 nea
 neaf
 neafe
@@ -271741,6 +271795,8 @@ nopes
 nopinene
 noplace
 nor
+nor'easters
+nor'westers
 nora
 noradrenalin
 noradrenaline
@@ -273855,8 +273911,11 @@ nyx
 nyxis
 nzema
 nzima
+o'clock
 o'nyong-nyong
 o'nyong-nyongs
+o'odham
+o'odhams
 o-acetylserine
 o-acetylserines
 o-be-joyful
@@ -316046,6 +316105,7 @@ pons
 ponsegromab
 ponsegrumab
 pont
+pont-l'eveque
 pontac
 pontacq
 pontage
@@ -337567,6 +337627,7 @@ quott
 quotum
 quotums
 ququart
+qur'anic
 quran
 qursh
 qurshes
@@ -359962,6 +360023,7 @@ ryukin
 ryukins
 ryukyu
 ryus
+s'mores
 sa
 saa
 saab
@@ -361077,6 +361139,7 @@ sainfoins
 saining
 sains
 saint
+saint-john's-worts
 saintdom
 saintdoms
 sainte
@@ -375344,6 +375407,7 @@ shcherbinaites
 shchi
 shchis
 she
+she'd
 shea
 sheading
 sheadings
@@ -383382,6 +383446,7 @@ slynesses
 slype
 slypes
 sm
+sm'algyax
 sma
 smaak
 smaaked
@@ -387613,6 +387678,7 @@ sottisiers
 sotto
 sotweed
 sou
+sou'westers
 souagga
 souamosa
 souamula
@@ -424834,6 +424900,7 @@ toitois
 toits
 toity
 toivel
+tojolab'ales
 tok
 tokaji
 tokamak
@@ -471964,6 +472031,7 @@ wc
 wd
 wdym
 we
+we'd
 wea
 weaboos
 weak
@@ -473339,6 +473407,7 @@ wharves
 whase
 whasle
 what
+what's-her-names
 what-you-see-is-what-you-gets
 whata
 whatabouteries
@@ -476523,6 +476592,7 @@ woldsman
 woldy
 woleai
 wolf
+wolf's-bane
 wolfachite
 wolfbane
 wolfberries
@@ -480926,6 +480996,8 @@ z-test
 z-tests
 z-values
 za
+za'atar
+za'atars
 zaa
 zaalouk
 zaalouks
