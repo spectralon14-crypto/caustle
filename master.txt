@@ -66013,6 +66013,7 @@ cg
 cgm
 cgs
 ch
+ch'orti'
 cha
 chaa
 chaabi
@@ -122504,6 +122505,8 @@ dzongkhag
 dzongs
 dzos
 dzungar
+e'en
+e'er
 e-dated
 e-dater
 e-daters
