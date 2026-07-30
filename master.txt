@@ -1,3 +1,5 @@
+'aqa'id
+'aqida
 a-bomb
 aa
 aaa
@@ -22156,6 +22158,7 @@ aq
 aqaba
 aqeeqah
 aqeeqahs
+aqidah
 aqiqah
 aqiqahs
 aqpiit
@@ -26300,6 +26303,7 @@ asqueal
 asquint
 asquirm
 asquith
+asr
 asrama
 asramas
 ass
@@ -65952,6 +65956,7 @@ chaabi
 chaat
 chab
 chabab
+chabad-lubavitch
 chabasie
 chabasite
 chabazite
@@ -67460,6 +67465,7 @@ chartulary
 chartulas
 chartwell
 charuk
+charvaka
 charver
 charvers
 charvet
@@ -84095,6 +84101,8 @@ constitutes
 constituting
 constitution
 constitutional
+constitutionalisation
+constitutionalisations
 constitutionalise
 constitutionalised
 constitutionalises
@@ -97387,6 +97395,7 @@ daemonosaurus
 daemonosauruses
 daemons
 daes
+daevas
 daf
 daff
 daffadillies
@@ -98206,6 +98215,7 @@ dantophilist
 dantophily
 dantrolene
 dants
+danu
 danube
 danubian
 danuri
@@ -112422,6 +112432,10 @@ discorded
 discorder
 discordful
 discordia
+discordian
+discordianism
+discordianisms
+discordians
 discording
 discordous
 discords
@@ -120476,6 +120490,7 @@ dtente
 dts
 dtset
 du
+du'a'
 duad
 duadic
 duads
@@ -124626,6 +124641,9 @@ eichwaldite
 eicosane
 eicosanoid
 eicosanoids
+eid-al-adha
+eid-al-fitr
+eid-ul-adha
 eide
 eident
 eidently
@@ -146227,6 +146245,7 @@ fingerwise
 fingerwork
 fingery
 fingian
+fingolimod
 fingram
 fingrigo
 fingu
@@ -161732,6 +161751,7 @@ ghugni
 ghurka
 ghurkas
 ghurry
+ghusl
 ghuz
 ghyll
 ghylls
@@ -181311,6 +181331,7 @@ hiyakkin
 hiyas
 hiyayakko
 hiyodori
+hizb
 hizbollah
 hizbullah
 hizen
@@ -191681,6 +191702,7 @@ imipenem-cilastatin-relebactams
 imipenems
 imipramine
 imipramines
+imiquimod
 imit
 imitabilities
 imitability
@@ -204944,6 +204966,7 @@ islot
 isls
 ism
 isma'ilism
+isma'ilisms
 ismaelian
 ismaelism
 ismaelisms
@@ -212266,6 +212289,7 @@ ketamines
 ketapang
 ketas
 ketatin
+ketav
 ketazine
 ketch
 ketchcraft
@@ -212378,6 +212402,7 @@ ketupa
 ketupat
 ketupat-ketupat
 ketupats
+ketuvim
 ketway
 ketyl
 keuper
@@ -260546,6 +260571,7 @@ nevertheless
 neverthemore
 neves
 nevi
+nevi'im
 nevil
 neville
 nevis
@@ -261536,6 +261562,7 @@ nikkuds
 niklesite
 nikolai
 nikon
+nikonite
 nikud
 nikudim
 nikudot
@@ -278099,6 +278126,7 @@ opossums
 opotherapies
 opotherapy
 opp
+oppa
 oppenheimer
 oppian
 oppida
@@ -315268,6 +315296,7 @@ poneroid
 ponerologies
 ponerology
 pones
+ponesimod
 poney
 poneyed
 poneying
@@ -334238,6 +334267,7 @@ qabalists
 qabbala
 qabbalah
 qadarite
+qadarites
 qaddafi
 qaddish
 qaddishim
@@ -336831,6 +336861,7 @@ qurush
 qurushes
 qurutob
 qutab
+qutb
 quyte
 quyted
 quytes
@@ -358823,6 +358854,10 @@ ruptures
 rupturewort
 ruptureworts
 rupturing
+ruqya
+ruqyah
+ruqyahs
+ruqyas
 rural
 ruralisation
 ruralisations
@@ -359259,6 +359294,9 @@ sabbatarians
 sabbatary
 sabbatean
 sabbath
+sabbath-breaking
+sabbath-keeper
+sabbath-keeping
 sabbathaian
 sabbathaic
 sabbathaist
@@ -375489,6 +375527,7 @@ shinguards
 shinier
 shinies
 shiniest
+shinigami
 shinily
 shininess
 shininesses
@@ -383265,6 +383304,8 @@ smrgs
 smriti
 smritis
 smrrebrd
+smrti
+smrtis
 smudder
 smudge
 smudged
@@ -411390,6 +411431,7 @@ taggy
 taghairm
 taghairms
 taghlik
+taghut
 tagilite
 tagine
 tagines
@@ -477417,6 +477459,7 @@ wunsome
 wuntee
 wup
 wuppertal
+wuquf
 wur
 wurley
 wurleys
@@ -478835,6 +478878,8 @@ yazata
 yazdegerdian
 yazidi
 yazidis
+yazidism
+yazidisms
 yazoo
 ybet
 yblent
