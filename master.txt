@@ -8671,6 +8671,7 @@ ajwain
 ajwains
 ajwan
 ajwans
+ajza
 ak
 aka
 akaakai
@@ -55360,6 +55361,7 @@ buss
 bussed
 busser
 busses
+bussin'
 bussing
 bussings
 bussock
@@ -68455,6 +68457,7 @@ chemistrie
 chemistries
 chemistry
 chemists
+chemists'
 chemitype
 chemitypes
 chemitypies
@@ -156372,6 +156375,7 @@ funt
 funtumia
 fuoco
 fuqaha
+fuqaha'
 fuqua
 fur
 furacana
@@ -191513,6 +191517,7 @@ ikona
 ikons
 ikr
 ikra
+ikta'
 ikunolite
 ikunolites
 il
@@ -204495,6 +204500,7 @@ iqamas
 iqbal
 iqs
 iqta
+iqta'
 iqtas
 iquique
 iquitos
@@ -210737,6 +210743,7 @@ juxtaspinal
 juxtaterrestrial
 juxtatropical
 juyas
+juz'
 juza
 juzen-taiho-to
 jwahar
@@ -210750,6 +210757,7 @@ jyotirlingam
 jyotirlingams
 jyotirlingas
 jyutping
+k'iche'
 k'ni
 k-drama
 k-dramas
@@ -245094,6 +245102,7 @@ mingily
 mingimingi
 mingimingis
 mingin
+mingin'
 minginess
 minginesses
 minging
@@ -334940,6 +334949,7 @@ pyxis
 pzazz
 pzazzes
 q'anjob'al
+q'eqchi'
 q-bic
 q-flex
 q-learning
@@ -350129,6 +350139,7 @@ reputes
 reputing
 reputings
 req
+reqa'
 reqd
 requalification
 requalifications
