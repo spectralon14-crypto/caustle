@@ -8146,6 +8146,7 @@ ahum
 ahungered
 ahungry
 ahunt
+ahupua'a
 ahura
 ahuramazda
 ahurewa
@@ -31050,10 +31051,14 @@ ayatollah
 ayatollahs
 ayaya
 ayayas
+aybibtu
 ayckbourn
 aycliffe
 aydendron
+aydin
 aye
+aye-aye
+aye-ayes
 ayegreen
 ayelp
 ayen
@@ -116237,6 +116242,7 @@ dnepropetrovsk
 dni
 dnieper
 do
+do'a
 doa
 doab
 doability
@@ -208221,14 +208227,18 @@ jhool
 jhow
 jhum
 ji
+jialat
 jianbing
 jianchangosaurus
 jiangsu
 Jiangxi
 jiangxi
 jianyun
+jianzhi
 jiao
 jiaos
+jiaozi
+jiaozis
 jib
 jibb
 jibba
@@ -211530,10 +211540,12 @@ katzie
 kauai
 kauch
 kaufman
+kaugel
 kaugh
 kaughs
 kaumatua
 kaumatuas
+kaunas
 kaupapa
 kaupapas
 kauravas
@@ -279589,6 +279601,7 @@ orkney
 orkneyan
 orkneys
 orkoraptor
+orkoraptors
 orl
 orlage
 orlando
@@ -375507,6 +375520,7 @@ shfsep
 shh
 shhh
 shi
+shi'a
 shia
 shiah
 shiahs
@@ -479202,6 +479216,7 @@ yaxche
 yay
 yaya
 yays
+yayue
 yazata
 yazdegerdian
 yazidi
