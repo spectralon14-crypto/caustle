@@ -620,6 +620,9 @@ abkari
 abkary
 abkhas
 abkhasian
+abkhaz
+abkhazian
+abkhazians
 abl
 ablach
 ablactate
@@ -3023,6 +3026,7 @@ acipenseroidei
 acis
 acitretin
 aciurgy
+acjachemen
 ack
 ackee
 ackees
@@ -4719,6 +4723,8 @@ adital
 aditio
 adits
 aditus
+adivasi
+adivasis
 adj
 adjacence
 adjacences
@@ -6781,6 +6787,8 @@ afritada
 afrite
 afrits
 afro
+afro-latinx
+afro-latinxs
 afrobeat
 afrobeats
 afrogaea
@@ -7029,6 +7037,7 @@ aftward
 aftwards
 afunction
 afunctional
+afutu
 afwillite
 afzelia
 ag
@@ -11291,6 +11300,7 @@ alois
 aloisiite
 aloma
 alomancy
+alomwe
 alone
 alonely
 aloneness
@@ -11852,6 +11862,7 @@ alwite
 alxasaurus
 aly
 alya
+alyawarr
 alycompaine
 alycompaines
 alymphia
@@ -12409,6 +12420,7 @@ ambulettes
 ambulia
 ambuling
 ambulomancy
+ambundu
 amburbial
 ambury
 ambuscade
@@ -16095,6 +16107,7 @@ aniseroot
 anises
 anisette
 anisettes
+anishinaabe
 anisic
 anisidin
 anisidine
@@ -17712,10 +17725,76 @@ anthypnotic
 anthypophora
 anthypophoretic
 anti
+anti-acne
+anti-ageing
+anti-ager
+anti-agers
+anti-aging
+anti-americanism
+anti-americanisms
 anti-anti-semitism
 anti-anti-semitisms
+anti-antibodies
+anti-antibody
 anti-antisemitism
 anti-antisemitisms
+anti-aphrodisiac
+anti-aphrodisiacs
+anti-art
+anti-authoritarian
+anti-authoritarianism
+anti-authoritarianisms
+anti-authoritarians
+anti-backlash
+anti-bias
+anti-boycott
+anti-boycotts
+anti-capitalism
+anti-capitalisms
+anti-capitalist
+anti-capitalists
+anti-catholic
+anti-catholicism
+anti-catholicisms
+anti-cheat
+anti-cheating
+anti-cigarette
+anti-circumcision
+anti-clericalism
+anti-clericalisms
+anti-clericalist
+anti-clericalists
+anti-communism
+anti-communist
+anti-communists
+anti-consumer
+anti-consumerism
+anti-consumerisms
+anti-consumerist
+anti-consumerists
+anti-consumers
+anti-defamation
+anti-environmentalism
+anti-environmentalisms
+anti-environmentalist
+anti-establishment
+anti-establishmentarian
+anti-establishmentarianism
+anti-establishmentarianisms
+anti-establishmentarians
+anti-european
+anti-europeanism
+anti-europeanisms
+anti-fascism
+anti-fascisms
+anti-fascist
+anti-fascists
+anti-foundationalism
+anti-foundationalisms
+anti-foundationalist
+anti-foundationalists
+anti-harassment
+anti-hierarchical
 anti-theft
 anti-theoretical
 anti-transphobia
@@ -25369,6 +25448,7 @@ arvos
 arx
 ary
 arya
+aryan
 aryanise
 aryanised
 aryanises
@@ -25376,6 +25456,7 @@ aryanising
 aryanized
 aryanizes
 aryanizinglrrx
+aryans
 aryballi
 aryballoi
 aryballoid
@@ -25744,6 +25825,7 @@ ashames
 ashaming
 ashamnu
 ashangos
+ashaninka
 ashantee
 ashanti
 asharasi
@@ -30562,6 +30644,8 @@ awaiting
 awaitlala
 awaits
 awakable
+awakatek
+awakateks
 awake
 awakeable
 awaked
@@ -31210,6 +31294,7 @@ azuline
 azulite
 azulmic
 azumbre
+azumi
 azure
 azurean
 azured
@@ -32461,6 +32546,7 @@ bafta
 baftah
 baftas
 bafts
+bafut
 bafyot
 bag
 baga
@@ -33633,6 +33719,7 @@ bamah
 bamako
 bamalip
 bamangwato
+bamar
 bambacciata
 bamban
 bambara
@@ -43944,6 +44031,8 @@ bisques
 bisquette
 bissabol
 bissau
+bissau-guinean
+bissau-guineans
 bissell
 bissellia
 bissext
@@ -53584,6 +53673,7 @@ bufotoxin
 buftie
 bufties
 bufty
+bufu
 bug
 bugaboo
 bugaboos
@@ -54522,6 +54612,7 @@ buqsha
 buqshas
 bur
 bura
+burakumin
 buran
 burans
 burao
@@ -68869,6 +68960,8 @@ chicaning
 chicanings
 chicano
 chicanos
+chicanx
+chicanxs
 chicaric
 chicas
 chicayote
@@ -72227,6 +72320,7 @@ chutzpah
 chutzpahs
 chutzpanik
 chutzpas
+chuukese
 chuumnapm
 chuvash
 chuvashes
@@ -75724,6 +75818,8 @@ cloudberry
 cloudburst
 cloudbursts
 cloudcap
+cloudcuckoolander
+cloudcuckoolanders
 clouded
 cloudful
 cloudier
@@ -97624,6 +97720,8 @@ dallack
 dallan
 dallapiccola
 dallas
+dallasite
+dallasites
 dalle
 dalles
 dalliance
@@ -102344,6 +102442,12 @@ deinotheres
 deinotheria
 deinotherium
 deinotheriums
+deinstitutionalisation
+deinstitutionalisations
+deinstitutionalise
+deinstitutionalised
+deinstitutionalises
+deinstitutionalising
 deinstitutionalization
 deinstitutionalizations
 deinstitutionalize
@@ -103855,6 +103959,7 @@ demythologizers
 demythologizes
 demythologizing
 den
+dena'ina
 dename
 denar
 denarcotization
@@ -110644,6 +110749,7 @@ dioicously
 dioicousness
 dioicousnesses
 diol
+diola
 diolefin
 diolefine
 diolefinic
@@ -116649,6 +116755,7 @@ dognappers
 dognapping
 dognappings
 dognaps
+dogon
 dogoyaro
 dogpile
 dogpiled
@@ -124260,6 +124367,7 @@ effusively
 effusiveness
 effusivenesses
 effuso
+effutu
 effuviate
 efik
 efinaconazole
@@ -124282,6 +124390,7 @@ eftest
 efts
 eftsoon
 eftsoons
+efutu
 eg
 egad
 egads
@@ -127197,6 +127306,7 @@ emirati
 emiratis
 emirs
 emirship
+emishi
 emissaria
 emissaries
 emissarium
@@ -140565,6 +140675,7 @@ ezra
 ezrin
 ezrins
 ezza
+ezza-ezekuna
 f-bomb
 fa
 faa
@@ -145713,6 +145824,8 @@ filipinization
 filipinize
 filipino
 filipinos
+filipinx
+filipinxs
 filippi
 filippic
 filippo
@@ -158269,8 +158382,10 @@ gariba
 garibaldi
 garibaldian
 garibaldis
+garifuna
 garigue
 garigues
+garinagu
 garis
 garish
 garished
@@ -159436,6 +159551,8 @@ gazy
 gazza
 gazzetta
 gb
+gbagyi
+gbari
 gbe
 gc
 gcaleka
@@ -169509,6 +169626,7 @@ guaiocum
 guaiocums
 guaiol
 guaiphenesin
+guajajara
 guajillo
 guajira
 guajiras
@@ -171711,6 +171829,8 @@ hadrosaurus
 hadrosauruses
 hads
 hadst
+hadza
+hadzabe
 hae
 haec
 haecceities
@@ -175097,6 +175217,7 @@ haxonite
 haxonites
 hay
 haya
+hayato
 hayband
 haybands
 haybird
@@ -175179,6 +175300,7 @@ hazanim
 hazans
 hazanut
 hazara
+hazaras
 hazard
 hazardable
 hazarded
@@ -181655,6 +181777,7 @@ hoiks
 hoin
 hoing
 hois
+hoisanese
 hoise
 hoised
 hoises
@@ -184980,6 +185103,7 @@ huldah
 huldee
 hule
 hules
+huli
 hulk
 hulkage
 hulked
@@ -205198,11 +205322,13 @@ isokeraunic
 isokeraunographic
 isokeraunophonic
 isokinetic
+isoko
 isokont
 isokontae
 isokontan
 isokontans
 isokonts
+isokos
 isokurtic
 isolabilities
 isolability
@@ -205775,6 +205901,8 @@ itd
 itea
 iteaceae
 itel
+itelmen
+itelmens
 itelmes
 item
 itemed
@@ -205869,6 +205997,7 @@ itineritive
 itinerous
 itll
 itmo
+itneg
 ito
 itoism
 itoist
@@ -206941,6 +207070,7 @@ jararacas
 jararacussu
 jararaka
 jararakas
+jarawas
 jarbird
 jarble
 jarbot
@@ -208657,6 +208787,7 @@ joktaleg
 jokul
 joky
 jol
+jola
 jolabokaflod
 jole
 joled
@@ -210448,6 +210579,8 @@ kalmias
 kalmuck
 kalmucks
 kalmuk
+kalmyk
+kalmyks
 kalo
 kalogeros
 kalokagathia
@@ -210536,6 +210669,7 @@ kamees
 kameeses
 kameez
 kameezes
+kamein
 kamel
 kamela
 kamelas
@@ -210659,6 +210793,7 @@ kangli
 kangri
 kangs
 kani
+kanienkehaka
 kaniwa
 kanji
 kanjira
@@ -210862,6 +210997,7 @@ karen
 karengo
 karengos
 karenina
+karenni
 karens
 karewa
 karez
@@ -210947,6 +211083,7 @@ kartvel
 kartvelian
 karuhiruhi
 karuhiruhis
+karuk
 karuna
 karval
 karvar
@@ -211219,6 +211356,7 @@ katydid
 katydids
 katzenjammer
 katzenjammers
+katzie
 kauai
 kauch
 kaufman
@@ -211268,6 +211406,7 @@ kawing
 kaws
 kay
 kaya
+kayah
 kayak
 kayaked
 kayaker
@@ -211276,6 +211415,7 @@ kayaking
 kayakings
 kayaks
 kayan
+kayapo
 kayas
 kayasth
 kayastha
@@ -212441,6 +212581,7 @@ khansamah
 khansamahs
 khansaman
 khansamas
+khanty
 khanum
 khanums
 khaph
@@ -212677,6 +212818,7 @@ kibsey
 kiby
 kichel
 kichiri
+kichwa
 kick
 kick-start
 kick-started
@@ -214789,6 +214931,7 @@ kokams
 kokan
 kokanee
 kokanees
+kokang
 kokas
 kokedama
 kokedamas
@@ -215146,6 +215289,7 @@ korsakoff
 korsakov
 korsakow
 koru
+korubo
 korumburra
 korun
 koruna
@@ -215681,6 +215825,7 @@ kumarahous
 kumaras
 kumari
 kumaris
+kumaso
 kumbaloi
 kumbaya
 kumbi
@@ -215907,6 +216052,7 @@ kvlt
 kvutza
 kvutzah
 kw
+kwa
 kwaati
 kwacha
 kwachas
@@ -215938,6 +216084,7 @@ kwela
 kwelas
 kwetiau
 kwh
+kwikwetlem
 kwintra
 kwon
 ky
@@ -221082,6 +221229,7 @@ leks
 leku
 lekvar
 lekvars
+lekwungen
 lekythi
 lekythoi
 lekythos
@@ -222515,6 +222663,7 @@ lherzolites
 lherzolitic
 lhiamba
 lhoba
+lhomwe
 lhop
 lhota
 lhotshampa
@@ -226609,6 +226758,7 @@ lomonite
 lompish
 lomta
 lomu
+lomwe
 lonafarnib
 loncastuximab
 lonchocarpus
@@ -227970,6 +228120,7 @@ lozengiest
 lozengy
 lozens
 lozere
+lozi
 lp
 lpm
 lr
@@ -229136,6 +229287,7 @@ lvov
 lwei
 lweis
 lwena
+lwo
 lwop
 lwp
 lwxd
@@ -229662,6 +229814,7 @@ maaed
 maaing
 maakouda
 maakoudas
+maale
 maam
 maamselle
 maana
@@ -230728,6 +230881,8 @@ maggy
 magh
 maghi
 maghreb
+maghrebi
+maghrebis
 maghrib
 maghribi
 maghull
@@ -232077,6 +232232,7 @@ malinstruction
 malintent
 malinvestment
 malis
+maliseet
 malism
 malisms
 malison
@@ -235864,6 +236020,7 @@ matryoshki
 mats
 matsah
 matsahs
+matsqui
 matster
 matsu
 matsue
@@ -237387,6 +237544,8 @@ meese
 meeshay
 meet
 meetable
+meetei
+meeteis
 meeten
 meeter
 meeterly
@@ -237840,6 +237999,8 @@ meissa
 meister
 meisters
 meistersinger
+meitei
+meiteis
 meith
 meithei
 meiths
@@ -238951,6 +239112,7 @@ mentally
 mentary
 mentation
 mentations
+mentawai
 mente
 mentee
 mentees
@@ -248374,6 +248536,7 @@ mokaddams
 mokador
 mokamoka
 moke
+moken
 mokes
 moki
 mokihana
@@ -252616,6 +252779,7 @@ muckite
 muckle
 muckler
 muckles
+muckleshoot
 mucklest
 muckluck
 mucklucks
@@ -253007,6 +253171,7 @@ muirburns
 muircock
 muirfowl
 muirs
+muisca
 muishond
 muist
 muisted
@@ -254823,6 +254988,7 @@ musquashroot
 musquashweed
 musquaspen
 musquaw
+musqueam
 musqueto
 musquetoon
 musquetoons
@@ -255216,6 +255382,7 @@ myalist
 myalists
 myall
 myalls
+myanma
 myanman
 myanmans
 myanmar
@@ -256315,6 +256482,7 @@ myzostomidan
 myzostomous
 mzee
 mzees
+mzungu
 mzungus
 n-acetyl-seryl-aspartyl-lysyl-prolines
 n-allylnormetazocine
@@ -257369,6 +257537,8 @@ nashira
 nashis
 nashua
 nashville
+nashvillian
+nashvillians
 nasi
 nasial
 nasicorn
@@ -258710,6 +258880,7 @@ nehantic
 nehemiah
 nehiloth
 nehiyaw
+nehiyawak
 nehru
 nei
 neif
@@ -261646,6 +261817,7 @@ nisberry
 nisei
 niseis
 nisenan
+nisga'a
 nisgul
 nisguls
 nish
@@ -261963,16 +262135,23 @@ njamena
 njanja
 njave
 njem
+nkambe
+nkangala
 nkanu
 nkatenkwan
+nkayi
 nkewn
+nkhonde
 nko
 nkole
+nkonde
+nkonya
 nkore
 nkoro
 nkosi
 nkosis
 nkoya
+nkporo
 nkrumahism
 nkrumahisms
 nkrumahist
@@ -261981,7 +262160,13 @@ nkrumaism
 nkrumaisms
 nkrumaist
 nkrumaists
+nkumbi
+nkundo
+nkundu
+nkutu
+nkwanta
 nkwen
+nkwerre
 nkwobi
 nl
 nlaka'pamux
@@ -272758,6 +272943,7 @@ nuttishness
 nutty
 nutwood
 nutwoods
+nuu-chah-nulth
 nux
 nuxalk
 nuxalkmc
@@ -274691,6 +274877,7 @@ odalman
 odals
 odalwoman
 odas
+odawa
 odax
 odd
 oddball
@@ -288555,6 +288742,7 @@ ovigerm
 ovigerous
 ovile
 ovillus
+ovimbundu
 ovinae
 ovine
 ovines
@@ -289352,6 +289540,7 @@ ozzies
 p-phenylenediamine
 p-phenylenediamines
 pa
+pa'o
 paal
 paals
 paan
@@ -289909,6 +290098,7 @@ paesanos
 paesans
 paese
 paetrick
+paez
 paga
 pagador
 pagan
@@ -301983,6 +302173,7 @@ peskiest
 peskily
 peskiness
 peskinesses
+peskotomuhkati
 pesky
 peso
 pesos
@@ -305769,6 +305960,7 @@ phuket
 phulkari
 phulwa
 phulwara
+phuong
 phurcalite
 phurcalites
 phut
@@ -308442,6 +308634,8 @@ pinwrenches
 pinx
 pinxit
 pinxter
+pinxy
+pinxys
 piny
 pinyin
 pinyins
@@ -312844,6 +313038,7 @@ pohing
 pohiri
 pohiris
 pohna
+pohnpeian
 pohs
 pohutukawa
 pohutukawas
@@ -314916,6 +315111,7 @@ pompano
 pompanos
 pompatic
 pompeian
+pompeians
 pompeii
 pompeiian
 pompeiians
@@ -334084,6 +334280,7 @@ qaraite
 qaraites
 qaraqalpaq
 qaraqalpaqs
+qashqai
 qasida
 qasidas
 qat
@@ -338039,6 +338236,8 @@ rakestele
 rakh
 rakhal
 rakhi
+rakhine
+rakhines
 rakhis
 raki
 rakia
@@ -361616,6 +361815,7 @@ sanguisuge
 sanguisugent
 sanguisugous
 sanguivorous
+sanhaja
 sanhedrim
 sanhedrin
 sanhedrist
@@ -362931,6 +363131,7 @@ saulie
 saulies
 sauls
 sault
+saulteaux
 saulter
 saulteur
 saults
@@ -371551,6 +371752,7 @@ sentimos
 sentine
 sentinel
 sentineled
+sentinelese
 sentineling
 sentinelled
 sentinellike
@@ -385885,6 +386087,7 @@ songfully
 songfulness
 songfulnesses
 songhai
+songhees
 songish
 songkok
 songkoks
@@ -392448,6 +392651,7 @@ sse
 ssireum
 ssw
 st
+st'at'imc
 sta
 staab
 staatsraad
@@ -395531,6 +395735,7 @@ stiling
 still
 stillage
 stillages
+stillaguamish
 stillatitious
 stillatories
 stillatory
@@ -406833,6 +407038,7 @@ supulchre
 supvr
 suq
 suqs
+suquamish
 sur
 sura
 surabaya
@@ -422496,6 +422702,7 @@ timucua
 timucuan
 timuquan
 timuquanan
+timuri
 timwhisky
 tin
 tina
@@ -432470,6 +432677,7 @@ tsatlee
 tsatske
 tsatskes
 tsattine
+tsawwassen
 tschermakite
 tschermakites
 tschermigite
@@ -432497,6 +432705,7 @@ tsi
 tsia
 tsigane
 tsiganes
+tsilhqot'in
 tsiltaden
 tsimmes
 tsimmeses
@@ -435448,6 +435657,7 @@ tzaddiqs
 tzaddis
 tzadik
 tzadiks
+tzapotec
 tzar
 tzardom
 tzardoms
@@ -470242,6 +470452,7 @@ wasts
 wasty
 wasukuma
 waswahili
+waswanipi
 wat
 watala
 watalappam
@@ -470861,6 +471072,7 @@ waysider
 waysides
 waysliding
 waythorn
+wayuu
 wayward
 waywarden
 waywardens
@@ -475444,6 +475656,7 @@ wokka
 wokowi
 woks
 woku
+wolastoqiyik
 wold
 woldes
 woldlike
@@ -477174,6 +477387,7 @@ wuff
 wugg
 wuggishness
 wuhan
+wukchumni
 wukkas
 wulagasaurus
 wulder
@@ -477492,6 +477706,7 @@ xantippe
 xaphoon
 xarque
 xat
+xavante
 xaverian
 xavier
 xaxado
@@ -477787,6 +478002,7 @@ xina
 xinca
 xing
 xingshu
+xingu
 xingyi
 xingyiquan
 xinjiang
@@ -477857,6 +478073,7 @@ xitsonga
 xiv
 xix
 xixianykus
+xixime
 xmas
 xmases
 xoana
@@ -478352,6 +478569,7 @@ yanking
 yanks
 yankton
 yanktonai
+yankunytjatjara
 yanky
 yannam
 yannigan
@@ -478617,6 +478835,8 @@ yaya
 yays
 yazata
 yazdegerdian
+yazidi
+yazidis
 yazoo
 ybet
 yblent
@@ -479693,6 +479913,8 @@ yukking
 yukky
 yuko
 yukon
+yukonite
+yukonites
 yukos
 yuks
 yuky
@@ -479908,6 +480130,7 @@ zaidy
 zaikai
 zaikais
 zain
+zainichi
 zaire
 zairean
 zaireans
