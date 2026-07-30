@@ -4065,6 +4065,7 @@ acyrological
 acyrology
 acystia
 ad
+ad'iyah
 ada
 adactyl
 adactylia
@@ -8307,6 +8308,7 @@ aimore
 aims
 aimworthiness
 ain
+ain't
 ainaleh
 aine
 ainee
@@ -11893,6 +11895,7 @@ alyssums
 alytarch
 alytes
 alzheimer
+alzheimer's
 alzheimers
 am
 ama
@@ -13073,6 +13076,7 @@ ammunition
 ammunitioned
 ammunitioning
 ammunitions
+amn't
 amnemonic
 amnesia
 amnesiac
@@ -17755,6 +17759,7 @@ anti-ageing
 anti-ager
 anti-agers
 anti-aging
+anti-alzheimer's
 anti-americanism
 anti-americanisms
 anti-anti-semitism
@@ -17822,6 +17827,7 @@ anti-foundationalist
 anti-foundationalists
 anti-harassment
 anti-hierarchical
+anti-parkinson's
 anti-theft
 anti-theoretical
 anti-transphobia
@@ -23712,6 +23718,7 @@ aregeneratory
 areic
 areito
 aren
+aren't
 arena
 arenaceous
 arenae
@@ -24290,6 +24297,7 @@ arlington
 arlott
 arloup
 arm
+arm's-length
 armada
 armadas
 armadilla
@@ -25842,6 +25850,8 @@ asgard
 asgd
 asgmt
 ash
+ash'arisms
+ash'arites
 asha
 ashake
 ashame
@@ -26124,6 +26134,7 @@ aspergations
 asperge
 asperged
 asperger
+asperger's
 aspergers
 asperges
 asperggilla
@@ -26681,6 +26692,7 @@ associability
 associable
 associableness
 associate
+associate's
 associated
 associatedness
 associates
@@ -31375,9 +31387,16 @@ azymite
 azymites
 azymous
 azyms
+b'day
+b'days
 b-ideal
 b-sides
 ba
+ba'ath
+ba'athism
+ba'athisms
+ba'athist
+ba'athists
 baa
 baa-lamb
 baa-lambs
@@ -31713,6 +31732,7 @@ bache
 bached
 bachel
 bachelor
+bachelor's
 bachelordom
 bachelordoms
 bachelorette
@@ -32729,6 +32749,8 @@ bagworm
 bagworms
 bagwyn
 bah
+baha'i
+baha'is
 bahada
 bahadas
 bahadur
@@ -34251,6 +34273,7 @@ banky
 banlieu
 banlieue
 banlieues
+banna'i
 bannable
 bannack
 bannat
@@ -43684,6 +43707,8 @@ birchman
 birchwood
 birchwoods
 bird
+bird's-eye
+bird's-eyes
 bird's-foot
 bird's-foots
 birdbander
@@ -53882,6 +53907,7 @@ bukshi
 bukshis
 bul
 bul'gogi
+bul'gogis
 bulak
 bulalo
 bulandshahr
@@ -54001,6 +54027,8 @@ bulkish
 bulks
 bulky
 bull
+bull's-eye
+bull's-eyes
 bulla
 bullace
 bullaces
@@ -55453,6 +55481,7 @@ butazolidin
 butch
 butcha
 butcher
+butcher's-broom
 butcher's-brooms
 butcherbird
 butcherbirds
@@ -56013,6 +56042,7 @@ byzantium
 byzants
 bz
 bzzt
+c'mon
 ca
 caa
 caaba
@@ -58632,6 +58662,8 @@ camwhoring
 camwood
 camwoods
 can
+can't
+can't-miss
 cana
 canaan
 canaanite
@@ -59646,6 +59678,8 @@ caoutchouc
 caoutchoucin
 caoutchoucs
 cap
+cap'n
+cap'ns
 capa
 capabilities
 capability
@@ -62725,6 +62759,7 @@ caswellite
 casziel
 cat
 cat's-feet
+cat's-foot
 catabaptist
 catabases
 catabasion
@@ -72072,6 +72107,8 @@ chubby
 chubs
 chubsucker
 chubutisaurus
+chuch'e
+chuch'es
 chuchona
 chuchuk
 chuchvara
@@ -80031,6 +80068,8 @@ comdia
 comdr
 comdt
 come
+come-all-ye's
+come-all-you's
 comeatable
 comeback
 comebacker
@@ -88693,9 +88732,12 @@ couhage
 coul
 coulage
 could
+could've
 coulda
 couldest
 couldn
+couldn't
+couldn't've
 couldn't-care-less
 couldna
 couldnt
@@ -92490,6 +92532,7 @@ croggy
 crogs
 croh
 crohn
+crohn's
 croighle
 croiik
 crois
@@ -93003,6 +93046,7 @@ croutons
 crouts
 crow
 crow's-feet
+crow's-foot
 crowbait
 crowbaits
 crowbar
@@ -97232,6 +97276,10 @@ czechoslovaks
 czechs
 czigany
 d'ansite
+d'ansites
+d'oh
+d'ye
+d'you
 d-optimal
 d-sorbitol
 d-sorbitols
@@ -99565,6 +99613,7 @@ deaspiration
 deaspirations
 deassimilation
 death
+death's-head
 death's-heads
 deathbed
 deathbeds
@@ -103680,6 +103729,8 @@ demiworld
 demiworlds
 demnition
 demo
+demo'd
+demo'ing
 demob
 demobbed
 demobbing
@@ -104334,6 +104385,7 @@ denizenships
 denizes
 denizing
 denje'c'jute
+denje'c'jutes
 denmark
 denned
 dennet
@@ -109463,6 +109515,7 @@ didjeridus
 didle
 didler
 didn
+didn't
 didna
 didnt
 dido
@@ -116285,6 +116338,7 @@ dni
 dnieper
 do
 do'a
+do'as
 doa
 doab
 doability
@@ -116706,6 +116760,7 @@ does
 doeskin
 doeskins
 doesn
+doesn't
 doesnt
 doest
 doeth
@@ -116721,6 +116776,7 @@ doffs
 doftberry
 dofunny
 dog
+dog's-tail
 dog's-tails
 dogal
 dogan
@@ -117441,7 +117497,10 @@ doms
 domus
 domy
 don
+don't
+don't-know
 don't-knows
+don'ts
 dona
 donable
 donacidae
@@ -120634,6 +120693,7 @@ dts
 dtset
 du
 du'a'
+du'ah
 du'ahs
 duad
 duadic
@@ -121915,6 +121975,7 @@ dutchess
 dutchify
 dutching
 dutchman
+dutchman's-breeches
 dutchmen
 dutchwoman
 dutchwomen
@@ -122216,6 +122277,7 @@ dyneins
 dynel
 dynels
 dynes
+dyno'd
 dynode
 dynodes
 dynorphin
@@ -131471,6 +131533,7 @@ entozoologist
 entozoology
 entozoon
 entr
+entr'actes
 entracte
 entractes
 entrada
@@ -140872,6 +140935,7 @@ f-tests
 f-word
 f-words
 fa
+fa'afafine
 faa
 faade
 faailk
@@ -143043,6 +143107,7 @@ fatuousnesses
 fatuum
 fatuus
 fatwa
+fatwa'd
 fatwaed
 fatwah
 fatwahed
@@ -150162,6 +150227,10 @@ fn
 fname
 fnese
 fo
+fo'c's'le
+fo'c's'les
+fo'c'sle
+fo'c'sles
 foal
 foaled
 foalfoot
@@ -157659,6 +157728,7 @@ galenite
 galenites
 galenobismutite
 galenoid
+galentine's
 galeod
 galeodes
 galeodidae
@@ -163281,6 +163351,7 @@ gitches
 gite
 giterne
 gites
+gitga'at
 gith
 gitim
 gitksan
@@ -171571,6 +171642,7 @@ gutwort
 gutzer
 gutzers
 guv
+guv'nor
 guv'nors
 guvacine
 guvacoline
@@ -172445,6 +172517,8 @@ hadjs
 hadland
 hadlee
 hadley
+hadn't
+hadn't've
 hadnt
 hadopelagic
 hadramautian
@@ -173446,6 +173520,8 @@ halloumis
 hallow
 hallowd
 hallowday
+hallowe'en
+hallowe'ens
 hallowed
 hallowedly
 hallowedness
@@ -175270,6 +175346,7 @@ hashheads
 hashier
 hashiest
 hashimite
+hashimoto's
 hashing
 hashings
 hashish
@@ -175304,6 +175381,7 @@ haslock
 hasmonaean
 hasmonaeans
 hasn
+hasn't
 hasnt
 hasp
 hasped
@@ -175692,6 +175770,7 @@ haveless
 havelock
 havelocks
 haven
+haven't
 havenage
 havened
 havener
@@ -176006,6 +176085,8 @@ hdqrs
 hdwe
 he
 he'd
+he'll
+he's
 he-he'd
 head
 headache
@@ -179047,6 +179128,7 @@ herdswomen
 herdwick
 herdwicks
 here
+here's
 hereabout
 hereabouts
 hereadays
@@ -179390,6 +179472,8 @@ herola
 herolike
 heromonger
 heron
+heron's-bill
+heron's-bills
 heronbill
 heroner
 heronite
@@ -185365,6 +185449,10 @@ hovertrains
 hoves
 hoving
 how
+how'd
+how're
+how's
+how've
 howadji
 howard
 howardite
@@ -185427,6 +185515,7 @@ howres
 hows
 howsabout
 howso
+howsoe'er
 howsoever
 howsomdever
 howsomever
@@ -185743,6 +185832,7 @@ hukbalahap
 huke
 hukou
 hul'q'umi'num'
+hul'qumi'num
 hula
 hulas
 hulch
@@ -186318,6 +186408,7 @@ huntingdon
 huntingdonshire
 huntings
 huntington
+huntington's
 huntley
 huntress
 huntresses
@@ -205606,6 +205697,7 @@ islomanias
 islot
 isls
 ism
+isma'ili
 isma'ilis
 isma'ilism
 isma'ilisms
@@ -205632,6 +205724,7 @@ ismdom
 isms
 ismy
 isn
+isn't
 isna
 isnad
 isnae
@@ -206462,6 +206555,9 @@ iswara
 isz
 iszes
 it
+it'd
+it'll
+it's
 ita
 itabirite
 itabirites
@@ -210812,6 +210908,7 @@ k-subsets
 k-substitution
 k-substitutions
 ka
+ka'ak
 ka'aks
 kaaba
 kaal
@@ -222672,6 +222769,7 @@ lesulas
 lesvo
 lesya
 let
+let's
 letch
 letched
 letches
@@ -230526,12 +230624,16 @@ lyxose
 lyxoses
 m
 m'kay
+m'ladies
 m'lady
 ma
+ma'am
 ma'ams
+ma'ariv
 ma'arivim
 ma'jonga
 ma'rifa
+ma'rifas
 maa
 maad
 maaed
@@ -232048,6 +232150,8 @@ maidans
 maidchild
 maided
 maiden
+maiden's-blush
+maiden's-blushes
 maidenchild
 maidenhair
 maidenhairs
@@ -233435,6 +233539,7 @@ mamzer
 mamzerim
 mamzers
 man
+man'oushe
 man'ousheh
 man'yogana
 man-o'-war
@@ -234860,6 +234965,9 @@ mardiest
 mardy
 mardying
 mare
+mare's-nest
+mare's-nests
+mare's-tail
 mare's-tails
 mareblob
 mareca
@@ -235873,6 +235981,7 @@ mases
 masgouf
 mash
 masha
+masha'allah
 mashak
 mashal
 mashallah
@@ -242589,6 +242698,7 @@ mhorrs
 mhos
 mhz
 mi
+mi'kmaq
 mi'kmaqs
 mia
 miacis
@@ -242648,6 +242758,7 @@ mibs
 mibuna
 mibunas
 mic
+mic'd
 mica
 micaceous
 micacious
@@ -244194,6 +244305,7 @@ miggle
 miggles
 miggs
 might
+might've
 mighted
 mightest
 mightful
@@ -244206,6 +244318,7 @@ mightiness
 mightinesses
 mightless
 mightly
+mightn't
 mightnt
 mights
 mightst
@@ -253435,8 +253548,15 @@ mtscmd
 mtsvane
 mtx
 mu
+mu'adhdhin
 mu'adhdhins
+mu'tazilah
 mu'tazilahs
+mu'tazilas
+mu'tazilism
+mu'tazilisms
+mu'tazilite
+mu'tazilites
 mu'umu'u
 muang
 muban
@@ -255842,6 +255962,7 @@ mustily
 mustiness
 mustinesses
 musting
+mustn't
 mustnt
 musts
 mustulent
@@ -258888,8 +259009,12 @@ ndrangheta
 nduja
 ndujas
 ne
+ne'er
 ne'er-do-weel
 ne'er-do-weels
+ne'er-do-well
+ne'er-do-wells
+ne'ertheless
 nea
 neaf
 neafe
@@ -259414,6 +259539,7 @@ needly
 needment
 needments
 needn
+needn't
 neednt
 needs
 needsly
@@ -272802,6 +272928,7 @@ novum
 novums
 novus
 now
+now's
 nowaday
 nowadays
 nowanights
@@ -273912,6 +274039,7 @@ nyxis
 nzema
 nzima
 o'clock
+o'er
 o'nyong-nyong
 o'nyong-nyongs
 o'odham
@@ -276607,6 +276735,9 @@ ojoceratops
 ojousama
 ojousamas
 ok
+ok'd
+ok'ing
+ok's
 oka
 okanagan
 okapi
@@ -277664,6 +277795,7 @@ ondoyant
 ondule
 ondy
 one
+one's
 one-and-done
 one-dimensional
 one-dimensionalities
@@ -281936,6 +282068,7 @@ oughted
 oughting
 oughtlings
 oughtlins
+oughtn't
 oughtness
 oughtnesses
 oughtnt
@@ -290324,7 +290457,10 @@ ozzies
 p-phenylenediamine
 p-phenylenediamines
 pa
+pa'anga
+pa'angas
 pa'o
+pa'os
 paal
 paals
 paan
@@ -295509,6 +295645,7 @@ parking
 parkings
 parkins
 parkinson
+parkinson's
 parkinsonia
 parkinsonian
 parkinsonians
@@ -316106,6 +316243,7 @@ ponsegromab
 ponsegrumab
 pont
 pont-l'eveque
+pont-l'eveques
 pontac
 pontacq
 pontage
@@ -337628,6 +337766,7 @@ quotum
 quotums
 ququart
 qur'anic
+qur'ans
 quran
 qursh
 qurshes
@@ -340211,6 +340350,7 @@ ratines
 rating
 ratings
 ratio
+ratio'd
 ratiocinant
 ratiocinate
 ratiocinated
@@ -340640,6 +340780,7 @@ raylets
 raylike
 rayling
 raymond
+raynaud's
 rayne
 raynes
 rayon
@@ -353410,6 +353551,7 @@ reveurs
 reveuse
 reveuses
 reveverberatory
+revi'i
 revibrant
 revibrate
 revibrated
@@ -359640,6 +359782,7 @@ ruptures
 rupturewort
 ruptureworts
 rupturing
+ruq'ah
 ruqya
 ruqyah
 ruqyahs
@@ -360023,6 +360166,7 @@ ryukin
 ryukins
 ryukyu
 ryus
+s'more
 s'mores
 sa
 saa
@@ -361139,6 +361283,7 @@ sainfoins
 saining
 sains
 saint
+saint-john's-wort
 saint-john's-worts
 saintdom
 saintdoms
@@ -368765,6 +368910,7 @@ sdrucciola
 sds
 sdump
 se
+se'i
 sea
 seabag
 seabags
@@ -370378,6 +370524,7 @@ selinuntine
 selion
 seljuk
 seljukian
+selk'nam
 selkie
 selkies
 selkirk
@@ -374992,6 +375139,7 @@ shamshir
 shamus
 shamuses
 shan
+shan't
 shanachas
 shanachie
 shanachies
@@ -375408,6 +375556,9 @@ shchi
 shchis
 she
 she'd
+she'd've
+she'll
+she's
 shea
 sheading
 sheadings
@@ -376045,6 +376196,7 @@ shevas
 shevel
 sheveled
 sheveret
+shevi'i
 shevri
 shew
 shewa
@@ -376064,6 +376216,13 @@ shh
 shhh
 shi
 shi'a
+shi'as
+shi'i
+shi'is
+shi'ism
+shi'isms
+shi'ite
+shi'ites
 shia
 shiah
 shiahs
@@ -377312,6 +377471,7 @@ shoughs
 shoujo
 shoujos
 should
+should've
 shoulda
 shoulder
 shouldered
@@ -377322,6 +377482,9 @@ shoulderings
 shoulders
 shouldest
 shouldn
+shouldn't
+shouldn't've
+shouldn'ts
 shouldna
 shouldnt
 shouldst
@@ -387678,6 +387841,7 @@ sottisiers
 sotto
 sotweed
 sou
+sou'wester
 sou'westers
 souagga
 souamosa
@@ -393503,6 +393667,7 @@ sstor
 ssw
 st
 st'at'imc
+st'at'imcets
 sta
 staab
 staatsraad
@@ -397672,6 +397837,8 @@ storiologist
 storiologists
 storiology
 stork
+stork's-bill
+stork's-bills
 storken
 storkish
 storklike
@@ -419407,6 +419574,10 @@ thars
 thasian
 thaspium
 that
+that'd
+that'll
+that's
+that've
 thataway
 thatch
 thatched
@@ -420149,6 +420320,11 @@ theravada
 therblig
 therbligs
 there
+there'd
+there'll
+there're
+there's
+there've
 thereabout
 thereabouts
 thereabove
@@ -420684,6 +420860,11 @@ thewness
 thews
 thewy
 they
+they'd
+they'd've
+they'll
+they're
+they've
 they-group
 they-groups
 they-self
@@ -421234,6 +421415,8 @@ thirtysomething
 thirtysomethings
 thirtytwomo
 this
+this'll
+this's
 thisaway
 thisbe
 thishow
@@ -426876,6 +427059,7 @@ tourer
 tourers
 touret
 tourette
+tourette's
 tourie
 touries
 touring
@@ -435998,6 +436182,7 @@ twopence
 twopences
 twopenceworth
 twopenceworths
+twopenn'orth
 twopennies
 twopenny
 twopenny-halfpenny
@@ -462848,6 +463033,7 @@ valentiam
 valentide
 valentin
 valentine
+valentine's
 valentines
 valentinian
 valentinianism
@@ -472032,6 +472218,10 @@ wd
 wdym
 we
 we'd
+we'd've
+we'll
+we're
+we've
 wea
 weaboos
 weak
@@ -473052,6 +473242,7 @@ werejaguar
 wereleopard
 werelion
 weren
+weren't
 werent
 weretiger
 werewall
@@ -473196,6 +473387,7 @@ westwards
 westwork
 westy
 wet
+wet'suwet'en
 weta
 wetas
 wetback
@@ -473407,7 +473599,17 @@ wharves
 whase
 whasle
 what
+what'd
+what'll
+what're
+what's
+what's-her-name
 what's-her-names
+what's-his-name
+what's-his-names
+what's-its-name
+what's-its-names
+what've
 what-you-see-is-what-you-gets
 whata
 whatabouteries
@@ -473662,6 +473864,11 @@ whemmled
 whemmles
 whemmling
 when
+when'd
+when'll
+when're
+when's
+when've
 whenabouts
 whenas
 whence
@@ -473680,6 +473887,7 @@ whenness
 whenre
 whens
 whenso
+whensoe'er
 whensoeer
 whensoever
 whensomever
@@ -473688,6 +473896,11 @@ whenuas
 whenwe
 whenwes
 where
+where'd
+where'll
+where're
+where's
+where've
 whereabout
 whereabouts
 whereafter
@@ -473721,6 +473934,7 @@ whereover
 wherere
 wheres
 whereso
+wheresoe'er
 wheresoeer
 wheresoever
 wheresomever
@@ -473803,6 +474017,7 @@ wheywormed
 whf
 whiba
 which
+which'll
 whichever
 whichsoever
 whichway
@@ -474073,6 +474288,8 @@ whippits
 whippletree
 whippletrees
 whippoorwill
+whippoorwill's-shoe
+whippoorwill's-shoes
 whippoorwills
 whippost
 whippowill
@@ -474523,6 +474740,12 @@ whizzle
 whizzo
 whizzy
 who
+who'd
+who'd've
+who'll
+who're
+who's
+who've
 whoa
 whoas
 whod
@@ -474710,6 +474933,7 @@ whosises
 whosit
 whosits
 whoso
+whosoe'er
 whosoever
 whosome
 whosomever
@@ -474753,6 +474977,11 @@ whutter
 whuttering
 whuz
 why
+why'd
+why'll
+why're
+why's
+why've
 whyda
 whydah
 whydahs
@@ -475177,6 +475406,7 @@ wilkin
 wilkins
 wilkinson
 will
+will-they-won't-they
 willable
 willamette
 willawa
@@ -476593,6 +476823,7 @@ woldy
 woleai
 wolf
 wolf's-bane
+wolf's-banes
 wolfachite
 wolfbane
 wolfberries
@@ -476778,6 +477009,7 @@ womplit
 womps
 womyn
 won
+won't
 wonder
 wonderberries
 wonderberry
@@ -477798,11 +478030,14 @@ wouf
 wough
 wouhleche
 would
+would've
 woulda
 wouldest
 woulding
 wouldja
 wouldn
+wouldn't
+wouldn't've
 wouldnt
 woulds
 wouldst
@@ -478474,6 +478709,9 @@ wyve
 wyver
 wyvern
 wyverns
+x'd
+x'ing
+x's
 x-as-a-service
 x-axes
 x-axis
@@ -479200,6 +479438,9 @@ xysts
 xystum
 xystus
 xyz
+y'all
+y'all's
+y'know
 y-axes
 y-axis
 y-coordinate
@@ -479798,6 +480039,8 @@ ydrad
 ydred
 yds
 ye
+ye'elimite
+ye'elimites
 yea
 yea-saying
 yead
@@ -480595,6 +480838,11 @@ yottaamperes
 yottabyte
 yottabytes
 you
+you'd
+you'd've
+you'll
+you're
+you've
 you-know-who
 youd
 youden
@@ -480608,6 +480856,8 @@ youks
 youl
 youll
 young
+young'un
+young'uns
 young-old
 youngberries
 youngberry
@@ -480902,6 +481152,7 @@ yunnanosaurus
 yunx
 yunxes
 yup
+yup'ik
 yupik
 yupingfeng
 yupon
