@@ -30202,6 +30202,7 @@ avalements
 avalent
 avales
 avaling
+Avalon
 avalon
 avalvular
 avance
@@ -31197,6 +31198,9 @@ azinphosmethyl
 aziola
 azione
 aziones
+aziridine
+aziridinium
+aziridiniums
 azithromycin
 azlactone
 azlon
@@ -31262,6 +31266,7 @@ azores
 azorian
 azorite
 azorubine
+azosemide
 azosulphine
 azosulphonic
 azotaemia
@@ -33791,6 +33796,8 @@ bambusa
 bambuseae
 bambute
 bamia
+bamieh
+bamiehs
 bamlanivimab
 bammed
 bammer
@@ -231899,6 +231906,7 @@ mahatmaisms
 mahatmas
 mahayana
 mahayanism
+mahayanisms
 mahayanist
 mahayanistic
 mahayanists
@@ -357249,6 +357257,7 @@ ronga
 rongeur
 ronggeng
 ronggengs
+ronidazole
 ronier
 ronin
 ronins
@@ -425210,6 +425219,7 @@ tonal
 tonalamatl
 tonalist
 tonalite
+tonalite-trondhjemite-granodiorite
 tonalite-trondhjemite-granodiorites
 tonalites
 tonalite—trondhjemite-granodiorites
