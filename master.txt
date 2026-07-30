@@ -68915,6 +68915,7 @@ chhatri
 chhatris
 chhena
 chhertum
+chhi-chhi
 chhindwara
 chi
 chia
@@ -222854,7 +222855,9 @@ liangle
 liangpi
 liangs
 lianhua-qingwen
+lianhuaqingwen
 lianoid
+lianqiao
 liaoceratops
 liaoningosaurus
 liaoningotitan
