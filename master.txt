@@ -11898,6 +11898,7 @@ alwinton
 alwise
 alwite
 alxasaurus
+alxasauruses
 aly
 alya
 alyawarr
@@ -13317,6 +13318,7 @@ amoving
 amowt
 amowts
 amoxicillin
+amoxicillin-clavulanates
 amoxicillins
 amoxycillin
 amoxycillins
@@ -31355,9 +31357,13 @@ azoxonium
 azoxy
 azoxyanisole
 azoxybenzene
+azoxybenzenes
 azoxybenzoic
+azoxymethane
+azoxymethanes
 azoxynaphthalene
 azoxyphenetole
+azoxystrobins
 azoxytoluidine
 azrael
 aztec
@@ -44483,7 +44489,10 @@ biwinter
 bixa
 bixaceae
 bixaceous
+bixbite
+bixbites
 bixbyite
+bixbyites
 bixin
 biy
 biyearly
@@ -95792,6 +95801,7 @@ custumary
 cusum
 cusums
 cut
+cut-in
 cutabilities
 cutability
 cutaneal
@@ -118378,6 +118388,7 @@ dossy
 dost
 dostarlimab
 dostoevski
+dostoevskian
 dostoevsky
 dostoyevski
 dostoyevsky
@@ -149690,6 +149701,8 @@ flowsheets
 flowstone
 flowstones
 flox
+floxuridine
+floxuridines
 floyd
 floyt
 flp
@@ -182537,6 +182550,8 @@ hiveward
 hivewards
 hiving
 hivite
+hixploitation
+hixploitations
 hiya
 hiyakkin
 hiyas
@@ -217103,8 +217118,12 @@ krzysztof
 ks
 ksar
 ksars
+ksatriya
+ksatriyas
 kshatriya
 kshatriyahood
+kshatriyas
+ksour
 ktenasite
 ktenasites
 ktetor
@@ -230314,6 +230333,7 @@ lupanarian
 lupanars
 lupanin
 lupanine
+lupara
 lupe
 lupeol
 lupeose
@@ -379266,6 +379286,7 @@ shushes
 shushing
 shuswap
 shut
+shut-in
 shutdown
 shutdowns
 shute
@@ -381851,6 +381872,7 @@ Sisyphus
 sisyphus
 sisyrinchium
 sit
+sit-in
 sita
 sitae
 sitagliptin
@@ -465478,6 +465500,7 @@ vauts
 vauxhall
 vauxhallian
 vauxite
+vauxites
 vav
 vavasor
 vavasories
