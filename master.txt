@@ -22589,7 +22589,6 @@ arake
 araks
 aral
 araldite
-arales
 aralia
 araliaceae
 araliaceous
@@ -240824,6 +240823,7 @@ mened
 meneer
 meneers
 meneghinite
+meneghinites
 menehune
 menelaus
 menemen
@@ -313470,7 +313470,6 @@ plegaphonia
 plegia
 plegias
 plegic
-plegium
 plegometer
 pleiad
 pleiades
@@ -483311,7 +483310,6 @@ zendo
 zendos
 zenelophon
 zeneophonk
-zener
 zenick
 zenith
 zenithal
