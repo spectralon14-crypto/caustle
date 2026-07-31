@@ -5818,6 +5818,7 @@ aeolianites
 aeolians
 aeolic
 aeolicism
+aeolicisms
 aeolid
 aeolidae
 aeolididae
@@ -5830,6 +5831,7 @@ aeolipyle
 aeolipyles
 aeolis
 aeolism
+aeolisms
 aeolist
 aeolistic
 aeolodicon
@@ -5837,9 +5839,11 @@ aeolodion
 aeolomelodicon
 aeolopantalon
 aeolosaurus
+aeolosauruses
 aeolotropic
 aeolotropies
 aeolotropism
+aeolotropisms
 aeolotropy
 aeolsklavier
 aeolus
@@ -223154,7 +223158,6 @@ lere
 lered
 leres
 lering
-lerna
 lernaea
 lernaean
 lernaeidae
@@ -292287,6 +292290,8 @@ pakhtun
 paki
 pakihi
 pakihis
+pakikipagkapwa
+pakikisama
 pakirikiri
 pakirikiris
 pakis
@@ -480237,6 +480242,7 @@ xvalues
 xvi
 xvii
 xviii
+xwla
 xyla
 xylan
 xylans
