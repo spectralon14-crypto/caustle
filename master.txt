@@ -38795,6 +38795,7 @@ beladies
 beladle
 belady
 beladying
+belagavi
 belage
 belah
 belahs
@@ -160495,6 +160496,8 @@ gavialoid
 gavials
 gaviiformes
 gavin
+gavit
+gavits
 gavot
 gavots
 gavotte
@@ -227464,6 +227467,7 @@ lizardlike
 lizards
 lizardtail
 lizary
+lizu
 lizzie
 lizzies
 lizzy
@@ -262857,6 +262861,7 @@ nevi
 nevi'im
 nevil
 neville
+nevirapine
 nevis
 nevisian
 nevisians
@@ -355505,6 +355510,7 @@ rezoned
 rezones
 rezoning
 rezonings
+rezu
 rezzes
 rf
 rfb
@@ -361585,6 +361591,8 @@ ruvid
 ruxolitinib
 ruyangosaurus
 ruyangosauruses
+rvalue
+rvalues
 rvulsant
 rwanda
 rwandan
@@ -482502,6 +482510,7 @@ yoy
 yoyo
 yoyoing
 yoyos
+yozakura
 yperite
 yperites
 ypight
