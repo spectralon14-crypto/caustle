@@ -44833,6 +44833,10 @@ blagues
 blagueur
 blagueurs
 blah
+blah-blah
+blah-blah-blah
+blah-blah-blahs
+blah-blahs
 blahed
 blaher
 blahest
@@ -282676,6 +282680,7 @@ ostsises
 ostyak
 osullivan
 osumilite
+osumilites
 oswald
 oswegan
 oswego
@@ -336139,8 +336144,12 @@ qaimaqams
 qajaq
 qajaqs
 qajar
+qalam
 qalamdan
 qalamdans
+qalams
+qallunaaq
+qallunaat
 qama
 qamas
 qameez
@@ -336155,6 +336164,7 @@ qantar
 qantas
 qantassaurus
 qanun
+qanuns
 qapik
 qapiks
 qaraite
@@ -336169,12 +336179,14 @@ qatar
 qatari
 qataris
 qatayef
+qatayefs
 qats
 qattara
 qawwal
 qawwali
 qawwalis
 qawwals
+qayna
 qazi
 qc
 qdos
@@ -336262,7 +336274,6 @@ qolqass
 qom
 qoph
 qophs
-qoran
 qorma
 qormah
 qormas
@@ -471502,6 +471513,8 @@ walsall
 walsh
 walsingham
 walspere
+walstromite
+walstromites
 walsy
 walt
 walter
@@ -480612,12 +480625,11 @@ yama
 yamaceratops
 yamacraw
 yamaha
-yamalka
-yamalkas
 yamamadi
 yamamai
 yamanai
 yamani
+yamas
 yamaskite
 yamassee
 yamato
