@@ -22585,6 +22585,7 @@ araliophyllum
 aralkyl
 aralkylated
 aralosaurus
+aralosauruses
 aramaean
 aramaic
 aramaicize
@@ -68741,7 +68742,6 @@ chermoula
 chermoulas
 chernikovite
 chernikovites
-chernobyl
 chernozem
 chernozemic
 chernozems
@@ -221831,6 +221831,7 @@ lechaims
 lechatelierite
 lechayim
 lechayims
+lechayyim
 leche
 lechea
 leched
