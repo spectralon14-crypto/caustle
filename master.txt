@@ -57,6 +57,7 @@ abac
 abaca
 abacas
 abacate
+abacavir
 abacaxi
 abacay
 abaci
@@ -101,6 +102,7 @@ abalienating
 abalienation
 abalone
 abalones
+abaloparatide
 abama
 abamp
 abampere
@@ -1013,6 +1015,7 @@ abristle
 abroach
 abroad
 abroads
+abrocitinib
 abrocoma
 abrocome
 abrogable
@@ -1531,6 +1534,7 @@ acai
 acais
 acajou
 acajous
+acalabrutinib
 acalculia
 acalculias
 acale
@@ -2318,6 +2322,7 @@ aceanthrenequinone
 aceanthrenes
 aceanthrylene
 aceanthrylenes
+acebutolol
 acecaffin
 acecaffine
 aceclofenac
@@ -4357,6 +4362,7 @@ adeemed
 adeeming
 adeems
 adeep
+adefovir
 adela
 adelaide
 adelantado
@@ -6374,6 +6380,7 @@ afaced
 afacing
 afaint
 afald
+afamelanotide
 afar
 afara
 afaras
@@ -9034,6 +9041,7 @@ alazor
 alb
 alba
 albacea
+albaconazole
 albacora
 albacore
 albacores
@@ -9576,6 +9584,7 @@ aleconner
 alecost
 alecosts
 alecs
+alectinib
 alecto
 alectoria
 alectoriae
@@ -9775,6 +9784,7 @@ aleyrodidae
 alezan
 alf
 alfa
+alfacalcidol
 alfaje
 alfaki
 alfakis
@@ -10194,6 +10204,7 @@ aliteracies
 aliteracy
 aliterate
 aliterates
+alitretinoin
 alitrunk
 aliturgic
 aliturgical
@@ -14742,6 +14753,7 @@ anatosaurus
 anatotitan
 anatox
 anatoxin
+anatoxin-a
 anatoxins
 anatreptic
 anatripsis
@@ -15918,6 +15930,7 @@ anhydrize
 anhydroglocose
 anhydromyelia
 anhydrosis
+anhydrotetracycline
 anhydrotic
 anhydrous
 anhydrously
@@ -17836,6 +17849,7 @@ anti-foundationalists
 anti-harassment
 anti-hierarchical
 anti-parkinson's
+anti-spam
 anti-theft
 anti-theoretical
 anti-transphobia
@@ -31227,6 +31241,7 @@ aziridinium
 aziridiniums
 azithromycin
 azlactone
+azlocillin
 azlon
 azlons
 azo
@@ -33833,6 +33848,7 @@ bamia
 bamieh
 bamiehs
 bamlanivimab
+bamlanivimab-etesevimab
 bammed
 bammer
 bammers
@@ -34885,6 +34901,7 @@ bariatric
 bariatrician
 bariatrics
 baric
+baricitinib
 barid
 barie
 barih
@@ -39459,6 +39476,7 @@ bend
 benda
 bendability
 bendable
+bendamustine
 benday
 bendayed
 bendaying
@@ -40579,6 +40597,7 @@ besieges
 besieging
 besiegingly
 besiegings
+besifloxacin
 besigh
 besighed
 besighing
@@ -40977,6 +40996,7 @@ beta-amyloid
 beta-bungarotoxin
 beta-glucanase
 beta-hydroxy-beta-methylbutyrates
+beta-lactam
 beta-lactams
 beta-mercaptoethanol
 beta-n-acetylglucosaminidase
@@ -41019,6 +41039,7 @@ betattered
 betattering
 betatters
 betaxed
+betaxolol
 betazole
 betcha
 bete
@@ -42032,6 +42053,7 @@ bicrofarad
 bicron
 bicrons
 bicrural
+bictegravir
 bicubic
 bicuculline
 bicultural
@@ -42493,6 +42515,7 @@ bilan
 biland
 bilander
 bilanders
+bilastine
 bilateral
 bilateralism
 bilateralisms
@@ -51335,6 +51358,7 @@ breloques
 brem
 brember
 breme
+bremelanotide
 bremely
 bremen
 bremeness
@@ -51776,6 +51800,7 @@ brigantia
 brigantine
 brigantinebrigantines
 brigantines
+brigatinib
 brigatry
 brigbote
 brigetty
@@ -51882,6 +51907,7 @@ brimstoniest
 brimstony
 brin
 brince
+brincidofovir
 brinded
 brindisi
 brindisis
@@ -52087,6 +52113,7 @@ britzkas
 britzska
 britzskas
 brivanib
+brivaracetam
 brix
 brixham
 brixton
@@ -52385,6 +52412,7 @@ bromatium
 bromatology
 bromaurate
 bromauric
+bromazepam
 brombenzamide
 brombenzene
 brombenzyl
@@ -52411,6 +52439,7 @@ bromeosins
 bromes
 bromethyl
 bromethylene
+bromfenac
 bromgelatin
 bromhidroses
 bromhidrosis
@@ -53639,6 +53668,7 @@ buddying
 buddys
 bude
 budesonide
+budesonide-formoterol
 budesonide-formoterols
 budge
 budged
@@ -55240,6 +55270,7 @@ buscarle
 bused
 busera
 buseras
+buserelin
 buses
 busgirl
 busgirls
@@ -55560,6 +55591,7 @@ butlin
 butling
 butment
 butments
+butoconazole
 butoh
 butohs
 butolism
@@ -56119,6 +56151,7 @@ cabasa
 cabases
 cabasset
 cabassou
+cabazitaxel
 cabbage
 cabbaged
 cabbagehead
@@ -56268,6 +56301,7 @@ cabossed
 cabot
 cabotage
 cabotages
+cabotegravir
 cabotin
 cabotinage
 cabots
@@ -58707,6 +58741,7 @@ canafistolo
 canafistula
 canafistulo
 canaglia
+canagliflozin
 canaigre
 canaigres
 canaille
@@ -59747,6 +59782,7 @@ cape
 capeador
 capeadores
 capeadors
+capecitabine
 caped
 capeesh
 capel
@@ -60703,6 +60739,7 @@ carbonylene
 carbonylic
 carbonyls
 carbophilous
+carboplatin
 carbora
 carboras
 carborexic
@@ -61471,6 +61508,7 @@ carminite
 carminophilous
 carmoisin
 carmot
+carmustine
 carn
 carnac
 carnacian
@@ -62030,6 +62068,7 @@ cartelizes
 cartelizing
 cartellist
 cartels
+carteolol
 carter
 carterly
 carters
@@ -62446,6 +62485,7 @@ casino
 casinos
 casiri
 casirivimab
+casirivimab-imdevimab
 casita
 casitas
 cask
@@ -62471,6 +62511,7 @@ caspase
 caspases
 casper
 caspian
+caspofungin
 casque
 casqued
 casques
@@ -64354,10 +64395,34 @@ cee
 ceefax
 ceennacuelum
 cees
+cefaclor
+cefadroxil
 cefalexin
 cefazolin
+cefdinir
 cefepime
+cefiderocol
+cefixime
+cefmetazole
+cefoperazone
+cefoperazone-sulbactam
+cefotaxime
 cefotetan
+cefoxitin
+cefpodoxime
+cefprozil
+cefquinome
+ceftazidime
+ceftazidime-avibactam
+ceftazidime-avibactams
+ceftibuten
+ceftizoxime
+ceftizoximes
+ceftolozane-tazobactam
+ceftolozane-tazobactams
+ceftriaxone
+ceftriaxones
+cefuroxime
 cegb
 ceiba
 ceibas
@@ -65685,6 +65750,7 @@ cerites
 cerithiidae
 cerithioid
 cerithium
+ceritinib
 cerium
 ceriums
 cermet
@@ -66005,6 +66071,7 @@ cetiosauria
 cetiosaurian
 cetiosauriscus
 cetiosaurus
+cetirizine
 cetological
 cetologies
 cetologist
@@ -70366,6 +70433,7 @@ chlorofluorocarbons
 chlorofluoromethane
 chlorofluoromethanes
 chloroform
+chloroform-d
 chloroformate
 chloroformed
 chloroformer
@@ -72729,6 +72797,7 @@ ciders
 cidery
 cides
 ciding
+cidofovir
 cids
 cie
 ciel
@@ -72772,6 +72841,7 @@ ciguatoxin
 ciguatoxins
 cilantro
 cilantros
+cilazapril
 cilectomy
 cilery
 cilgavimab
@@ -74988,6 +75058,7 @@ cleistothecopsis
 cleithral
 cleithrum
 clem
+clemastine
 clematis
 clematises
 clematite
@@ -75153,6 +75224,7 @@ cleverly
 cleverness
 clevernesses
 cleves
+clevidipine
 clevis
 clevises
 clew
@@ -75624,6 +75696,7 @@ cloam
 cloamen
 cloamer
 cloams
+clobazam
 clobber
 clobbered
 clobberer
@@ -75695,6 +75768,7 @@ clodpole
 clodpoles
 clodpoll
 clodpolls
+clodronate
 clods
 cloere
 cloeres
@@ -80047,6 +80121,7 @@ comboy
 combre
 combretaceae
 combretaceous
+combretastatin
 combretum
 combretums
 combs
@@ -97424,6 +97499,7 @@ dacryosolenitis
 dacryostenosis
 dacryosyrinx
 dacryuria
+dactinomycin
 dactyl
 dactylar
 dactylate
@@ -104816,6 +104892,8 @@ deoxygenizes
 deoxygenizing
 deoxynojirimycin
 deoxynojirimycins
+deoxynucleotide
+deoxyoligonucleotide
 deoxypodophyllotoxin
 deoxyribonuclease
 deoxyribonucleases
@@ -105951,6 +106029,7 @@ dertrum
 deruinate
 deruralize
 derust
+deruxtecan
 derv
 derve
 dervish
@@ -106426,6 +106505,7 @@ desmarestiaceous
 desmatippus
 desmectasia
 desmepithelium
+desmethyldiazepam
 desmic
 desmid
 desmidiaceae
@@ -106472,6 +106552,7 @@ desmopathology
 desmopathy
 desmopelmous
 desmopexia
+desmopressin
 desmopyknosis
 desmorrhexis
 desmoscolecidae
@@ -109514,6 +109595,8 @@ didelphis
 didelphoid
 didelphous
 didelphyidae
+dideoxynucleotide
+dideoxyribonucleotide
 didepsid
 didepside
 diderot
@@ -110707,6 +110790,7 @@ dimyristoylphosphatidylethanolamines
 dimyristoylphosphatidylglycerol
 dimyristoylphosphatidylglycerols
 din
+dinaciclib
 dinah
 dinamode
 dinanderie
@@ -116429,6 +116513,7 @@ docents
 docentship
 docentships
 docetae
+docetaxel
 docetaxel-gemcitabine
 docetaxel-prednisone
 docetaxel-trastuzumab
@@ -117345,6 +117430,7 @@ doltishness
 doltishnesses
 dolts
 dolus
+dolutegravir
 dolven
 dom
 domable
@@ -119011,6 +119097,7 @@ dowve
 dowy
 dox
 doxa
+doxacurium
 doxantha
 doxapram
 doxaprams
@@ -122626,6 +122713,7 @@ e-dating
 e-datings
 e-infrastructure
 e-liquid
+e-stim
 ea
 eably
 eaceworm
@@ -123066,6 +123154,7 @@ ebayers
 ebaying
 ebayings
 ebb
+ebb-tide
 ebba
 ebbed
 ebbet
@@ -131531,6 +131620,7 @@ entosclerite
 entosphenal
 entosphenoid
 entosphere
+entospletinib
 entosterna
 entosternal
 entosternite
@@ -135483,6 +135573,7 @@ estragons
 estral
 estramazone
 estramazones
+estramustine
 estrange
 estranged
 estrangedness
@@ -142000,6 +142091,7 @@ fama
 famacide
 famatinite
 famble
+famciclovir
 fame
 famed
 fameflower
@@ -143771,6 +143863,7 @@ fedity
 fedn
 fedora
 fedoras
+fedratinib
 feds
 fee
 feeable
@@ -144398,6 +144491,7 @@ fenning
 fennish
 fennoman
 fenny
+fenoldopam
 fenoprofen
 fenouillet
 fenouillette
@@ -144418,6 +144512,7 @@ fentanyls
 fenter
 fenthion
 fenthions
+fenticonazole
 fenton
 fents
 fenugreek
@@ -145659,6 +145754,7 @@ fidalgo
 fidate
 fidation
 fidawi
+fidaxomicin
 fidded
 fidding
 fiddious
@@ -146172,6 +146268,7 @@ filets
 filey
 filfot
 filfots
+filgrastim
 fili
 filial
 filiality
@@ -147109,6 +147206,7 @@ firni
 firnification
 firnismalerei
 firns
+firocoxib
 firoloida
 firrier
 firriest
@@ -149618,6 +149716,7 @@ flubdubs
 flubs
 flucan
 flucloxacillin
+fluconazole
 fluctiferous
 fluctigerous
 fluctisonant
@@ -149954,6 +150053,7 @@ fluoxetines
 fluozirconic
 fluphenazine
 fluphenazines
+flurazepam
 flurbiprofen
 flurn
 flurr
@@ -150063,6 +150163,7 @@ fluttersome
 fluttery
 fluty
 fluvanna
+fluvastatin
 fluvial
 fluvialist
 fluvialists
@@ -152593,6 +152694,7 @@ formosa
 formosan
 formose
 formosity
+formoterol
 formous
 formoxime
 forms
@@ -153046,11 +153148,14 @@ forzati
 forzato
 forzatos
 forze
+fosamprenavir
 fosbury
 foscarnet
 foscarnets
+fosfomycin
 fosh
 fosie
+fosinopril
 fosite
 fosmanogepix
 foss
@@ -153148,6 +153253,7 @@ fostresses
 fot
 fotch
 fotched
+fotemustine
 fother
 fothered
 fothergilla
@@ -155378,6 +155484,7 @@ frouzily
 frouziness
 frouzinesses
 frouzy
+frovatriptan
 frow
 froward
 frowardly
@@ -155613,6 +155720,7 @@ frumpy
 frundel
 frunk
 frunks
+fruquintinib
 frusemide
 frusemides
 frush
@@ -156993,6 +157101,7 @@ futhorc
 futhorcs
 futhork
 futhorks
+futibatinib
 futile
 futilely
 futileness
@@ -158602,6 +158711,7 @@ ganch
 ganched
 ganches
 ganching
+ganciclovir
 ganda
 gander
 gandered
@@ -160651,6 +160761,7 @@ gematrias
 gematrical
 gematriot
 gemauve
+gemcitabine
 gemclip
 gemclips
 gemeinde
@@ -162306,6 +162417,7 @@ ghastness
 ghastnesses
 ghasts
 ghat
+ghatam
 ghats
 ghatti
 ghatwal
@@ -163762,6 +163874,7 @@ glaringness
 glaringnesses
 glarry
 glary
+glasdegib
 glaserian
 glaserite
 glasgow
@@ -164744,6 +164857,7 @@ gluconeogenetic
 gluconeogenic
 gluconic
 gluconokinase
+gluconolactone
 glucophore
 glucophores
 glucoprotein
@@ -166835,6 +166949,7 @@ gos
 gosain
 goschen
 goschens
+goserelin
 gosforth
 gosh
 goshawful
@@ -179147,6 +179262,7 @@ heptanesian
 heptangular
 heptanoic
 heptanone
+heptapeptide
 heptapetalous
 heptaphyllous
 heptaploid
@@ -180550,6 +180666,7 @@ hexachords
 hexachronous
 hexacid
 hexacolic
+hexaconazole
 hexacoralla
 hexacorallan
 hexacorallia
@@ -180698,6 +180815,7 @@ hexanitrohexaazaisowurtzitanes
 hexanoic
 hexapartite
 hexaped
+hexapeptide
 hexapetaloid
 hexapetaloideous
 hexapetalous
@@ -182314,6 +182432,7 @@ histotrophy
 histotropic
 histozoic
 histozyme
+histrelin
 histrio
 histriobdella
 histriomastix
@@ -188168,6 +188287,7 @@ hydroxycitric
 hydroxycorticosterone
 hydroxydehydrocorticosterone
 hydroxydesoxycorticosterone
+hydroxyitraconazole
 hydroxyketone
 hydroxyl
 hydroxyl-clinohumite
@@ -192118,6 +192238,7 @@ ikaite
 ikaites
 ikan
 ikans
+ikarugamycin
 ikary
 ikat
 ikats
@@ -196482,6 +196603,7 @@ incysted
 ind
 indaba
 indabas
+indacaterol
 indaconitin
 indaconitine
 indagate
@@ -198169,6 +198291,7 @@ infighters
 infighting
 infightings
 infights
+infigratinib
 infigured
 infile
 infill
@@ -205096,6 +205219,7 @@ iprindole
 iprindoles
 iproniazid
 iproniazids
+iproplatin
 ips
 ipsa
 ipse
@@ -205299,6 +205423,7 @@ iridous
 irids
 irimshik
 iring
+irinotecan
 iris
 irisate
 irisated
@@ -206379,6 +206504,7 @@ isocodeine
 isocola
 isocolic
 isocolon
+isoconazole
 isocoria
 isocorybulbin
 isocorybulbine
@@ -206967,6 +207093,7 @@ ispaghula
 ispaghulas
 ispinesib
 ispravnik
+isradipine
 israel
 israeli
 israelis
@@ -220877,6 +221004,7 @@ lauia
 laulau
 laumonite
 laumontite
+laumontites
 laun
 launce
 launced
@@ -222820,6 +222948,7 @@ lentor
 lentors
 lentos
 lentous
+lenvatinib
 lenvoi
 lenvoy
 lenvoys
@@ -223243,6 +223372,7 @@ lessons
 lessor
 lessors
 lest
+lestaurtinib
 leste
 lested
 lester
@@ -223661,7 +223791,9 @@ lev
 leva
 levacetylleucine
 levade
+levalbuterol
 levalloisian
+levamlodipine
 levana
 levance
 levancy
@@ -226192,6 +226324,7 @@ liquors
 liquory
 lir
 lira
+liraglutide
 lirainosaurus
 liras
 lirate
@@ -226989,6 +227122,7 @@ livy
 livyer
 livyers
 liwan
+lixisenatide
 lixive
 lixivia
 lixivial
@@ -228065,9 +228199,9 @@ lomonite
 lompish
 lomta
 lomu
+lomustine
 lomwe
 lonafarnib
-loncastuximab
 lonchocarpus
 lonchopteridae
 loncosaurus
@@ -228719,6 +228853,7 @@ loris
 lorises
 lorisiform
 lorius
+lorlatinib
 lormery
 lorn
 lorna
@@ -229823,6 +229958,7 @@ lulavim
 lulavs
 lulibub
 lulibubs
+luliconazole
 lull
 lullabied
 lullabies
@@ -229968,6 +230104,7 @@ luminous
 luminously
 luminousness
 luminousnesses
+lumiracoxib
 lumisterol
 lumisterols
 lumme
@@ -235719,6 +235856,7 @@ marianne
 marianolatrist
 marianolatry
 marias
+maribavir
 marica
 maricolous
 mariculture
@@ -236641,6 +236779,7 @@ mashups
 mashy
 masiakasaurus
 masing
+masitinib
 masjid
 masjids
 mask
@@ -242676,6 +242815,7 @@ metazoons
 metcalf
 metcast
 metcasts
+metconazole
 mete
 metecdyses
 metecdysis
@@ -243073,6 +243213,7 @@ metoposcopies
 metoposcopist
 metoposcopists
 metoposcopy
+metoprolol
 metopryl
 metopryls
 metorganism
@@ -243356,6 +243497,7 @@ mezereons
 mezereum
 mezereums
 mezes
+mezlocillin
 mezo
 mezquit
 mezquite
@@ -243557,6 +243699,7 @@ micks
 micky
 micmac
 mico
+miconazole
 miconcave
 miconia
 micos
@@ -246673,6 +246816,7 @@ mirchi
 mircrobicidal
 mird
 mirdaha
+mirdametinib
 mirdha
 mire
 mired
@@ -249248,6 +249392,7 @@ mithraist
 mithraistic
 mithraitic
 mithraize
+mithramycin
 mithras
 mithratic
 mithriac
@@ -249654,6 +249799,7 @@ moblogger
 mobloggers
 moblogs
 mobo
+mobocertinib
 mobocracies
 mobocracy
 mobocrat
@@ -250008,6 +250154,7 @@ moes
 moeso
 moet
 moeurs
+moexipril
 mofette
 mofettes
 moff
@@ -250471,6 +250618,7 @@ mollymawks
 molman
 molmen
 molmutian
+molnupiravir
 moloch
 molochise
 molochised
@@ -250556,6 +250704,7 @@ mombin
 momble
 mombottu
 mome
+momelotinib
 moment
 momenta
 momental
@@ -258295,6 +258444,9 @@ mzungus
 n-acetyl-seryl-aspartyl-lysyl-prolines
 n-allylnormetazocine
 n-allylnormorphine
+n-butyldeoxynojirimycin
+n-chain
+n-chains
 n-desmethyltamoxifen
 n-gon
 n-methylamphetamine
@@ -258439,6 +258591,7 @@ naevi
 naevoid
 naevus
 naf
+nafarelin
 naff
 naffed
 naffer
@@ -259068,6 +259221,7 @@ naqshbandiyyas
 nar
 naras
 narases
+naratriptan
 narayan
 narc
 narcaciontes
@@ -259461,6 +259615,7 @@ natalizumab
 natally
 nataloin
 natals
+natamycin
 natant
 natantly
 nataraja
@@ -260082,6 +260237,7 @@ nebenkerns
 nebiim
 nebish
 nebishes
+nebivolol
 nebraska
 nebraskan
 nebraskans
@@ -260391,6 +260547,7 @@ nectron
 necturidae
 necturus
 ned
+nedaplatin
 nedcolbertia
 nedder
 neddickies
@@ -260534,6 +260691,7 @@ nefast
 nefastus
 nefertiti
 neffy
+nefopam
 nefs
 neftgil
 nefyn
@@ -260774,6 +260932,7 @@ neks
 nekton
 nektonic
 nektons
+nelfinavir
 nelies
 nelis
 nelken
@@ -261242,6 +261401,7 @@ neoza
 neozoic
 nep
 nepa
+nepafenac
 nepal
 nepalese
 nepali
@@ -261470,6 +261630,7 @@ neptunium
 neptuniums
 neral
 nerals
+neratinib
 nerd
 nerdic
 nerdics
@@ -263399,6 +263560,7 @@ nilot
 nilote
 nilotes
 nilotic
+nilotinib
 nilots
 nilous
 nilpotent
@@ -263451,6 +263613,7 @@ nimmed
 nimmer
 nimmers
 nimming
+nimodipine
 nimonic
 nimotuzumab
 nimoy
@@ -263464,6 +263627,7 @@ nimrodize
 nimrods
 nims
 nimshi
+nimustine
 nina
 nincom
 nincompoop
@@ -263622,6 +263786,7 @@ niqquds
 niquiran
 niramiai
 niramiais
+niraparib
 niris
 nirl
 nirled
@@ -263634,6 +263799,7 @@ nirlit
 nirls
 nirly
 nirmanakaya
+nirmatrelvir
 nirmatrelvir-ritonavir
 niro
 nirsevimab
@@ -263662,6 +263828,7 @@ nisi
 nisin
 nisins
 nisnas
+nisoldipine
 nispero
 nisqualli
 nissan
@@ -272906,6 +273073,7 @@ norethindrone
 norethindrones
 norethisterone
 norethisterones
+norfloxacin
 norfolk
 norfolkian
 norgay
@@ -276345,6 +276513,7 @@ ockhamism
 ockhamist
 ockodols
 ockster
+oclacitinib
 oclock
 ocneria
 oconnell
@@ -276632,6 +276801,7 @@ octothorpes
 octothorps
 octovalent
 octoyl
+octreotide
 octroi
 octrois
 octroy
@@ -277759,6 +277929,7 @@ olam
 olamic
 olanzapine
 olanzapine-fluoxetine
+olaparib
 olarapexionalization
 olaratumab
 olax
@@ -278009,6 +278180,8 @@ oligodendroglia
 oligodendroglial
 oligodendroglias
 oligodendroglioma
+oligodeoxynucleotide
+oligodeoxyribonucleotide
 oligodipsia
 oligodontous
 oligodynamic
@@ -278165,8 +278338,11 @@ ollies
 ollock
 olluck
 olm
+olmesartan
 olms
+olmutinib
 olneya
+olodaterol
 olof
 ological
 ologies
@@ -280771,6 +280947,7 @@ oreiller
 oreillet
 oreillette
 orejon
+orelabrutinib
 orellin
 oreman
 oremus
@@ -289841,6 +290018,7 @@ overstiffen
 overstiffly
 overstiffness
 overstifle
+overstim
 overstimulate
 overstimulated
 overstimulates
@@ -290836,6 +291014,7 @@ oxalemia
 oxalic
 oxalidaceae
 oxalidaceous
+oxaliplatin
 oxalis
 oxalises
 oxalite
@@ -296286,6 +296465,7 @@ pareciously
 pareciousness
 parecism
 parecisms
+parecoxib
 parecy
 pared
 paregal
@@ -296811,6 +296991,7 @@ paromoeon
 paromologetic
 paromologia
 paromology
+paromomycin
 paromphalocele
 paromphalocelic
 paronomasia
@@ -297449,6 +297630,7 @@ pasigraphy
 pasilaly
 pasillo
 pasiphae
+pasireotide
 pasis
 pasitelean
 pask
@@ -299970,6 +300152,7 @@ pegboard
 pegboards
 pegbox
 pegboxes
+pegfilgrastim
 pegged
 pegger
 peggier
@@ -300480,6 +300663,7 @@ penchant
 penchants
 penche
 penchute
+penciclovir
 pencil
 penciled
 penciler
@@ -300497,6 +300681,7 @@ pencilry
 pencils
 pencilwood
 penclerk
+penconazole
 pencraft
 pencrafts
 pend
@@ -301250,6 +301435,7 @@ pentoses
 pentosid
 pentoside
 pentosides
+pentostatin
 pentosuria
 pentothal
 pentoxide
@@ -302493,6 +302679,7 @@ perinaeums
 perinatal
 perinatally
 perinde
+perindopril
 perine
 perinea
 perineal
@@ -304639,9 +304826,9 @@ pezizaceae
 pezizaceous
 pezizaeform
 pezizales
+pezizas
 peziziform
 pezizoid
-pezograph
 pezophaps
 pezzottaite
 pezzottaites
@@ -305580,6 +305767,7 @@ phenoxide
 phenoxides
 phenoxy
 phenoxybenzamine
+phenoxymethylpenicillin
 phenozygous
 phentolamine
 phentolamines
@@ -306742,6 +306930,7 @@ phosphonic
 phosphonium
 phosphoniums
 phosphonuclease
+phosphopeptide
 phosphophori
 phosphophyllite
 phosphoprotein
@@ -310102,6 +310291,7 @@ pinder
 pinders
 pindjajap
 pindling
+pindolol
 pindown
 pindowns
 pindy
@@ -310598,6 +310788,8 @@ pipemouth
 piper
 piperaceae
 piperaceous
+piperacillin
+piperacillin-tazobactam
 piperales
 piperate
 piperazin
@@ -310827,6 +311019,7 @@ pirouetters
 pirouettes
 pirouetting
 pirouettist
+piroxicam
 pirozhki
 pirozhok
 pirquetted
@@ -311062,6 +311255,7 @@ pitaras
 pitas
 pitastile
 pitau
+pitavastatin
 pitawas
 pitaya
 pitayas
@@ -312756,6 +312950,7 @@ playwritings
 plaza
 plazas
 plazolite
+plazomicin
 plbroch
 plc
 plea
@@ -313356,6 +313551,7 @@ plica
 plicable
 plicae
 plical
+plicamycin
 plicas
 plicate
 plicated
@@ -315976,6 +316172,7 @@ polydemonisms
 polydemonist
 polydenominational
 polydental
+polydeoxyribonucleotide
 polydermous
 polydermy
 polydigital
@@ -318247,6 +318444,7 @@ pory
 porzana
 pos
 posable
+posaconazole
 posada
 posadas
 posadaship
@@ -320080,6 +320278,7 @@ poysons
 poz
 pozelimab
 pozidrive
+poziotinib
 poznan
 pozole
 pozoles
@@ -320379,6 +320578,7 @@ pralltriller
 pralltrillers
 pralsetinib
 pram
+pramlintide
 pramnian
 prams
 prana
@@ -320519,6 +320719,7 @@ praunced
 praunces
 prauncing
 praus
+pravastatin
 pravda
 pravilege
 pravin
@@ -320573,6 +320774,8 @@ prayingly
 prayings
 prayingwise
 prays
+prazepam
+prazosin
 pre
 preabdomen
 preabsorb
@@ -322554,6 +322757,7 @@ predivinity
 predivision
 predivorce
 predivorcement
+prednimustine
 prednisolone
 prednisolones
 prednisone
@@ -340322,6 +340526,7 @@ ramillies
 ramin
 ramins
 ramiparous
+ramipril
 ramiro
 ramis
 ramisection
@@ -340675,6 +340880,7 @@ ranidae
 ranids
 raniferous
 raniform
+ranimustine
 ranina
 raninae
 ranine
@@ -346253,6 +346459,7 @@ refallen
 refalling
 refallow
 refalls
+refametinib
 refamiliarization
 refamiliarize
 refamiliarized
@@ -356012,6 +356219,7 @@ ribless
 riblet
 riblets
 riblike
+ribociclib
 riboflavin
 riboflavine
 riboflavines
@@ -357958,6 +358166,7 @@ roestis
 roestone
 roestones
 roey
+rofecoxib
 rofl
 rog
 rogallo
@@ -359046,6 +359255,7 @@ rosula
 rosular
 rosulas
 rosulate
+rosuvastatin
 rosy
 rosy-cheeked
 rosying
@@ -360044,6 +360254,7 @@ rubythroat
 rubythroats
 rubywise
 ruc
+rucaparib
 rucervine
 rucervus
 ruchbah
@@ -364215,6 +364426,7 @@ saraband
 sarabande
 sarabandes
 sarabands
+saracatinib
 saracen
 saracenian
 saracenic
@@ -364899,6 +365111,7 @@ satrapess
 satrapic
 satrapical
 satrapies
+satraplatin
 satraps
 satrapy
 satre
@@ -365285,6 +365498,7 @@ savitri
 savoie
 savoir
 savola
+savolitinib
 savonarolist
 savonnerie
 savor
@@ -373299,6 +373513,7 @@ semunciae
 semuncial
 semuncias
 semur
+semustine
 sen
 sena
 senaah
@@ -388111,6 +388326,7 @@ sonications
 sonicator
 sonicators
 sonics
+sonidegib
 soniferous
 sonification
 soning
@@ -405242,6 +405458,7 @@ sulcatorimose
 sulci
 sulciform
 sulcomarginal
+sulconazole
 sulcular
 sulculate
 sulculus
@@ -405844,6 +406061,7 @@ sumatra
 sumatran
 sumatrans
 sumatras
+sumatriptan
 sumbal
 sumbitch
 sumbitches
@@ -406191,6 +406409,7 @@ sunhats
 suni
 sunil
 sunis
+sunitinib
 sunk
 sunken
 sunker
@@ -413795,6 +414014,7 @@ talaunts
 talayot
 talayoti
 talayots
+talazoparib
 talbot
 talbots
 talbotype
@@ -416535,6 +416755,7 @@ tebilized
 tebilizes
 tebilizing
 tebu
+tebuconazole
 tec
 teca
 tecali
@@ -418697,6 +418918,7 @@ teponaxtle
 teponaxtli
 teponaztli
 tepor
+tepotinib
 tepoy
 tepoys
 teprotumumab
@@ -418776,6 +418998,7 @@ terawatts
 terbia
 terbias
 terbic
+terbinafine
 terbium
 terbiums
 terce
@@ -418800,6 +419023,7 @@ tercia
 tercine
 tercio
 tercios
+terconazole
 terdiurnal
 terebate
 terebella
@@ -419523,6 +419747,7 @@ testings
 testis
 testitis
 testmatch
+testolactone
 teston
 testone
 testons
@@ -425082,6 +425307,7 @@ tippytoe
 tippytoed
 tippytoeing
 tippytoes
+tipranavir
 tipree
 tips
 tipsheet
@@ -425559,6 +425785,7 @@ tiw
 tiwaz
 tix
 tixagevimab
+tixagevimab-cilgavimab
 tixes
 tiyin
 tiyins
@@ -425900,6 +426127,7 @@ toeshoes
 toetoe
 toetoes
 toey
+tofacitinib
 tofana
 toff
 toffee
@@ -429241,6 +429469,7 @@ tramelling
 tramells
 tramels
 trametes
+trametinib
 tramful
 traminer
 tramless
@@ -432390,6 +432619,7 @@ triking
 trikir
 trilabe
 trilabiate
+trilaciclib
 trilamellar
 trilamellated
 trilaminar
@@ -434125,6 +434355,7 @@ trouves
 trouveur
 trouveurs
 trouvre
+trovafloxacin
 trovato
 trovatore
 trove
@@ -449719,6 +449950,7 @@ unicolour
 unicoloured
 unicom
 unicoms
+uniconazole
 uniconoclastic
 uniconoclastically
 uniconstant
@@ -463979,6 +464211,7 @@ valances
 valanche
 valancing
 valbellite
+valdecoxib
 valdoraptor
 valdosaurus
 vale
@@ -465618,6 +465851,7 @@ veliger
 veligerous
 veligers
 velika
+veliparib
 velitation
 velitations
 velites
@@ -465735,6 +465969,7 @@ velvetweed
 velvetwork
 velvety
 velyarde
+vemurafenib
 vena
 venables
 venacularism
@@ -470266,6 +470501,7 @@ voragos
 vorant
 voraz
 vorhand
+voriconazole
 vorlage
 vorlages
 vorlooper
@@ -479578,6 +479814,7 @@ wurset
 wurst
 wursts
 wurtzilite
+wurtzilites
 wurtzite
 wurtzites
 wurtzitic
@@ -479714,6 +479951,7 @@ x-values
 xalostockite
 xalwo
 xalwos
+xamoterol
 xanadu
 xanthaline
 xantham
@@ -482285,6 +482523,7 @@ zaffirs
 zaffre
 zaffree
 zaffres
+zafirlukast
 zafree
 zaftig
 zag
@@ -482432,6 +482671,7 @@ zanthoxylum
 zanthoxylums
 zantiot
 zantiote
+zanubrutinib
 zany
 zanying
 zanyish
@@ -483411,6 +483651,7 @@ zolle
 zollernia
 zollpfund
 zollverein
+zolmitriptan
 zolotink
 zolotnik
 zolpidem
