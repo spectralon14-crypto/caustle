@@ -8821,7 +8821,11 @@ aksaites
 aksakal
 aksakallar
 aksakals
+aktashite
+aktashites
 aktiebolag
+aktionsart
+aktionsarten
 aktistetae
 aktistete
 aktivismus
@@ -72189,6 +72193,8 @@ chuggings
 chughole
 chugo
 chugs
+chuhai
+chuhais
 chuhra
 chuje
 chukar
@@ -87983,6 +87989,7 @@ coryzas
 cos
 cosa
 cosalite
+cosalites
 cosaque
 cosavior
 coscet
@@ -118649,6 +118656,7 @@ dowable
 dowage
 dowager
 dowagerism
+dowagerisms
 dowagers
 dowar
 dowars
@@ -137112,6 +137120,9 @@ euxanthone
 euxenite
 euxenites
 euxine
+euxinia
+euxinias
+euxinic
 eva
 evacetrapib
 evacuant
@@ -164118,6 +164129,8 @@ glioblastoma
 glioblastomas
 glioblastomata
 gliocyte
+gliocytes
+gliogenic
 glioma
 gliomas
 gliomata
@@ -174483,6 +174496,9 @@ haphazardnesses
 haphazardries
 haphazardry
 haphazards
+haphephobe
+haphephobes
+haphephobic
 haphophobia
 haphtara
 haphtarah
@@ -214910,6 +214926,7 @@ kleinhuisie
 kleinhuisies
 kleinian
 kleinite
+kleinites
 kleistian
 klemperer
 klendusic
@@ -244553,6 +244570,7 @@ mielies
 mien
 miens
 miersite
+miersites
 mies
 miescherian
 miesian
@@ -248721,6 +248739,7 @@ mitakshara
 mitanni
 mitannian
 mitannish
+mitapivat
 mitapsis
 mitch
 mitcham
@@ -263187,6 +263206,7 @@ nist
 nisus
 nisuses
 nit
+nitanni
 nitch
 nitchevo
 nitchie
@@ -357510,6 +357530,8 @@ rohan
 rohe
 rohes
 rohilla
+rohingya
+rohingyas
 rohob
 rohr
 roht
@@ -434680,6 +434702,7 @@ tucana
 tucanae
 tucandera
 tucano
+tucatinib
 tuchis
 tuchises
 tuchit
@@ -435291,7 +435314,9 @@ turangawaewae
 turangawaewaes
 turanian
 turanianism
+turanianisms
 turanism
+turanisms
 turanite
 turanoceratops
 turanose
