@@ -260910,6 +260910,8 @@ nemorous
 nemos
 nempne
 nempt
+nenadkevichite
+nenadkevichites
 nenarche
 nene
 nenes
@@ -361126,6 +361128,12 @@ ryukyu
 ryus
 s'more
 s'mores
+s-mercaptocysteine
+s-mercaptocysteines
+s-methylcysteine
+s-methylcysteines
+s-methylmethionine
+s-methylmethionines
 sa
 saa
 saab
@@ -438804,6 +438812,8 @@ umeboshis
 umeclidinium
 umeclidinium-vilanterol
 umes
+umeshu
+umeshus
 umest
 umfaan
 umfazi
