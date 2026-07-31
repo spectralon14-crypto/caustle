@@ -64347,6 +64347,7 @@ cees
 cefalexin
 cefazolin
 cefepime
+cefotetan
 cegb
 ceiba
 ceibas
@@ -382757,6 +382758,7 @@ skry
 skryer
 skryers
 skrying
+sksksk
 skua
 skuas
 skudler
