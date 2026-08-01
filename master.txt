@@ -25823,7 +25823,6 @@ aseity
 aselar
 aselgeia
 asellate
-aselli
 asellidae
 aselline
 asellus
@@ -482293,6 +482292,7 @@ yolkless
 yolks
 yolky
 yolngu
+yolo
 yom
 yomari
 yomer
