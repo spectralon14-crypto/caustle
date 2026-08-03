@@ -1539,7 +1539,6 @@ acajous
 acalabrutinib
 acalculia
 acalculias
-acale
 acaleph
 acalepha
 acalephae
@@ -7584,7 +7583,6 @@ aglaozonia
 aglare
 aglaspis
 aglauros
-agleaf
 agleam
 aglee
 aglet
@@ -8336,7 +8334,6 @@ ainoi
 ains
 ainsell
 ainsells
-aint
 aintree
 ainu
 ainus
@@ -16941,7 +16938,6 @@ anorthosites
 anorthositic
 anoscope
 anoscopy
-anosia
 anosmatic
 anosmia
 anosmias
@@ -18459,7 +18455,6 @@ anticynic
 anticynical
 anticynically
 anticynicism
-anticytolysin
 anticytotoxin
 antidactyl
 antidancing
@@ -24607,7 +24602,6 @@ arnoseris
 arnotta
 arnotto
 arnottos
-arnt
 arnusian
 arnut
 arnuts
@@ -192665,7 +192659,6 @@ ignores
 ignoring
 ignote
 ignotus
-igor
 igorot
 igorots
 igraine
@@ -192745,6 +192738,7 @@ ikra
 ikta'
 ikunolite
 ikunolites
+ikura
 il
 ila
 ilama
@@ -214918,8 +214912,6 @@ kiho
 kikar
 kikatsik
 kikawaeo
-kike
-kikes
 kiki
 kikiam
 kikis
@@ -215427,7 +215419,6 @@ kingships
 kingside
 kingsides
 kingsize
-kingsley
 kingsman
 kingsmen
 kingsnake
@@ -219109,7 +219100,6 @@ laevulins
 laevulose
 laevuloses
 lafayette
-laffer
 lafite
 laft
 lag
@@ -261345,7 +261335,6 @@ negritoid
 negritos
 negritude
 negritudes
-negro
 negrodom
 negroes
 negrofy
@@ -264143,7 +264132,6 @@ nimmer
 nimmers
 nimming
 nimodipine
-nimonic
 nimotuzumab
 nimoy
 nimporte
@@ -264659,7 +264647,6 @@ nizey
 nizy
 nizzle
 njahi
-njamena
 njanja
 njave
 njem
@@ -417034,7 +417021,6 @@ tchoukball
 tchoukballs
 tchu
 tchwi
-tck
 td
 tdr
 te
@@ -480666,7 +480652,6 @@ xarque
 xat
 xavante
 xaverian
-xavier
 xaxado
 xbox
 xc
@@ -480674,7 +480659,6 @@ xcl
 xctl
 xd
 xdiv
-xdox
 xebec
 xebecs
 xed
@@ -481036,6 +481020,7 @@ xmas
 xmases
 xoana
 xoanon
+xoanona
 xocoatl
 xocoatls
 xocolatl
