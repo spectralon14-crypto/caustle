@@ -11960,6 +11960,7 @@ alvina
 alvine
 alvissmal
 alvite
+alvocidib
 alvus
 alw
 alwalkeria
@@ -167390,6 +167391,7 @@ gorming
 gormless
 gorms
 gormy
+gorontalo
 gorp
 gorped
 gorping
@@ -192519,6 +192521,7 @@ iffiness
 iffinesses
 iffy
 ifint
+ifosfamide
 ifreal
 ifree
 ifrit
@@ -264055,6 +264058,7 @@ nikujagas
 nikuman
 nikumans
 nil
+nilaga
 nile
 nilgai
 nilgais
@@ -280303,6 +280307,7 @@ operosities
 operosity
 opes
 opgefok
+ophanim
 ophelia
 ophelimity
 ophian
@@ -376892,6 +376897,7 @@ shanghaied
 shanghaier
 shanghaiers
 shanghaiing
+shanghainese
 shanghais
 shangri
 shangy
@@ -424931,6 +424937,7 @@ tietick
 tievine
 tiewig
 tiewigged
+tifaifai
 tiff
 tiffanies
 tiffany
@@ -436524,6 +436531,7 @@ tuns
 tunu
 tuny
 tuojiangosaurus
+tuojiangosauruses
 tup
 tupaia
 tupaiid
@@ -474597,6 +474605,7 @@ wefty
 wega
 wegenerian
 wegotism
+wegotisms
 wegscheiderite
 wegscheiderites
 wehee
@@ -481522,8 +481531,10 @@ yanky
 yannam
 yannigan
 yanolite
+yanomami
 yanqui
 yanquis
+yansi
 yantra
 yantras
 yao
