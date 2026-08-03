@@ -413625,6 +413625,7 @@ t-stoffe
 t-test
 t-tests
 ta
+ta-ta
 taa
 taaffeite
 taaffeites
@@ -414682,6 +414683,7 @@ takeing
 takelma
 taken
 taken-for-grantedness
+taken-for-grantednesses
 takeoff
 takeoffs
 takeout
@@ -417243,6 +417245,7 @@ teached
 teacher
 teacher-centeredness
 teacher-centerednesses
+teacher-centredness
 teacher-centrednesses
 teacher-in-residence
 teacher-researcher
@@ -419095,6 +419098,7 @@ tendenz
 tendenzen
 tender
 tender-hearted
+tender-heartedness
 tender-heartednesses
 tender-minded
 tender-mindedness
@@ -419332,6 +419336,7 @@ tennysonianism
 tenochtitlan
 tenodesis
 tenodynia
+tenofovir-emtricitabine-efavirenz
 tenography
 tenology
 tenomyoplasty
@@ -420258,6 +420263,7 @@ tert-amyls
 tert-butanesulfinamides
 tert-butanesulphinamide
 tert-butanesulphinamides
+tert-butyl
 tert-butylamine
 tert-butylamines
 tert-butylhydroquinone
@@ -423249,6 +423255,8 @@ third-party
 third-world
 third-worldism
 third-worldisms
+third-worldist
+third-worldists
 thirdborough
 thirdboroughs
 thirded
@@ -426238,9 +426246,11 @@ tiswases
 tiswin
 tit
 tit-babbler
+tit-babblers
 tit-for-tat
 tit-spinetail
 tit-spinetails
+tit-tyrant
 tit-tyrants
 titan
 titanate
@@ -427495,7 +427505,9 @@ tongsters
 tongue
 tongue-in-cheek
 tongue-lash
+tongue-lashed
 tongue-lashes
+tongue-lashing
 tongue-lashings
 tongue-tie
 tongue-tied
@@ -427868,6 +427880,7 @@ top-heavily
 top-heaviness
 top-heavinesses
 top-heavy
+top-notch
 top-notcher
 top-notchers
 top-of-the-line
@@ -432294,6 +432307,7 @@ tri-o-tolylphosphine
 tri-o-tolylphosphines
 tri-tert-butylphosphine
 tri-tert-butylphosphines
+tri-tip
 tri-tips
 triable
 triableness
@@ -436293,6 +436307,7 @@ tugras
 tugrik
 tugriks
 tugs
+tugs-of-war
 tugui
 tuguria
 tugurium
