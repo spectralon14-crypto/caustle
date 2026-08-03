@@ -674,7 +674,6 @@ ableism
 ableisms
 ableist
 ableists
-ablend
 ableness
 ablepharia
 ablepharon
@@ -683,10 +682,8 @@ ablepharus
 ablepsia
 ablepsy
 ableptical
-ableptically
 abler
 ables
-ablesse
 ablest
 ablet
 ablets
@@ -13852,7 +13849,6 @@ amsinckia
 amsinckias
 amsonia
 amstar
-amsted
 amsterdam
 amt
 amtman
@@ -159501,7 +159497,6 @@ garagist
 garagiste
 garagistes
 garagists
-garam
 garamond
 garance
 garancin
@@ -215427,7 +215422,6 @@ kingsmen
 kingsnake
 kingsnakes
 kingston
-kingswear
 kingswood
 kingu
 kingussie
@@ -223798,7 +223792,6 @@ lerp
 lerps
 lerret
 lerwa
-lerwick
 les
 lesath
 lesbia
@@ -262309,7 +262302,6 @@ nesslerizations
 nesslerize
 nesslerized
 nesslerizing
-nessun
 nessus
 nest
 nestable
@@ -277743,6 +277735,7 @@ oedogoniales
 oedogonium
 oedometer
 oedometers
+oedometric
 oeil
 oeil-de-boeuf
 oeillade
@@ -306413,7 +306406,6 @@ phialospore
 phials
 phidiac
 phidian
-phidippides
 phies
 phigalian
 phil
@@ -471308,6 +471300,7 @@ vrystaters
 vs
 vss
 vt
+vtach
 vtuber
 vtubers
 vtubing
