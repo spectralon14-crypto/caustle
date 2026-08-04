@@ -1651,7 +1651,6 @@ acarid
 acarida
 acaridan
 acaridans
-acaridea
 acaridean
 acarideans
 acaridian
@@ -3726,7 +3725,6 @@ actinographic
 actinography
 actinoid
 actinoida
-actinoidea
 actinoids
 actinolite
 actinolites
@@ -5779,7 +5777,6 @@ aegyrite
 aeipathy
 aelodicon
 aeluroid
-aeluroidea
 aelurophobe
 aelurophobia
 aeluropodous
@@ -5966,7 +5963,6 @@ aerobraked
 aerobrakes
 aerobraking
 aerobrakings
-aerobranchia
 aerobranchiate
 aerobus
 aerobuses
@@ -8248,7 +8244,6 @@ ails
 ailsyte
 ailuro
 ailuroid
-ailuroidea
 ailuromania
 ailurophile
 ailurophiles
@@ -10367,7 +10362,6 @@ allantochorion
 allantoic
 allantoid
 allantoidal
-allantoidea
 allantoidean
 allantoides
 allantoidian
@@ -11244,7 +11238,6 @@ alo
 aloadae
 alocasia
 alocasias
-alochia
 alod
 aloddia
 alodia
@@ -13078,7 +13071,6 @@ ammoniticone
 ammonitiferous
 ammonitish
 ammonitoid
-ammonitoidea
 ammonium
 ammoniums
 ammoniuret
@@ -13090,7 +13082,6 @@ ammonobasic
 ammonocarbonic
 ammonocarbonous
 ammonoid
-ammonoidea
 ammonoidean
 ammonoids
 ammonolitic
@@ -14334,7 +14325,6 @@ analkalinity
 anallagmatic
 anallagmatis
 anallantoic
-anallantoidea
 anallantoidean
 anallergic
 anally
@@ -17618,7 +17608,6 @@ anthropographic
 anthropography
 anthropoid
 anthropoidal
-anthropoidea
 anthropoidean
 anthropoidic
 anthropoids
@@ -20269,7 +20258,6 @@ any
 anybodies
 anybody
 anybodyd
-anychia
 anyhoo
 anyhow
 anymore
@@ -21037,7 +21025,6 @@ apographical
 apographs
 apoharmine
 apohyal
-apoidea
 apoikia
 apoious
 apoise
@@ -21221,7 +21208,6 @@ aporhyolite
 aporia
 aporiae
 aporias
-aporobranchia
 aporobranchian
 aporobranchiata
 aporocactus
@@ -22118,7 +22104,6 @@ apsinthion
 apsis
 apso
 apsos
-apsychia
 apsychical
 apt
 aptal
@@ -22495,7 +22480,6 @@ arachnites
 arachnitis
 arachnoid
 arachnoidal
-arachnoidea
 arachnoidean
 arachnoiditis
 arachnoiditises
@@ -22600,7 +22584,6 @@ araneiformes
 araneiformia
 aranein
 araneina
-araneoidea
 araneologist
 araneology
 araneose
@@ -23558,7 +23541,6 @@ arctogaea
 arctogaeal
 arctogaean
 arctoid
-arctoidea
 arctoidean
 arctomys
 arctophil
@@ -23913,7 +23895,6 @@ arginine
 argininephosphoric
 arginines
 argiope
-argiopoidea
 argive
 argle
 arglebargle
@@ -25149,7 +25130,6 @@ arthritises
 arthritism
 arthrobacterium
 arthrobranch
-arthrobranchia
 arthrocace
 arthrocarcinoma
 arthrocele
@@ -25668,7 +25648,6 @@ ascidiform
 ascidiia
 ascidioid
 ascidioida
-ascidioidea
 ascidiozoa
 ascidiozooid
 ascidium
@@ -25959,7 +25938,6 @@ asiaticism
 asiaticization
 asiaticize
 asiatize
-asida
 aside
 asidehand
 asiden
@@ -26926,7 +26904,6 @@ asternia
 asterochiton
 asteroid
 asteroidal
-asteroidea
 asteroidean
 asteroideans
 asteroids
@@ -31329,7 +31306,6 @@ azurn
 azurous
 azury
 azygies
-azygobranchia
 azygobranchiata
 azygobranchiate
 azygomatous
@@ -61340,7 +61316,6 @@ caricology
 caricous
 carid
 carida
-caridea
 caridean
 carideer
 caridoid
@@ -68461,7 +68436,6 @@ chelidonine
 chelidonium
 chelidosaurus
 chelifer
-cheliferidea
 cheliferous
 cheliform
 chelinga
@@ -69076,6 +69050,7 @@ chiacking
 chiackings
 chiacks
 chialingosaurus
+chialingosauruses
 chiam
 chian
 chianti
@@ -69124,6 +69099,8 @@ chiaused
 chiauses
 chiausing
 chiave
+chiavennite
+chiavennites
 chiavetta
 chib
 chiba
@@ -76374,7 +76351,6 @@ clymenia
 clype
 clypeal
 clypeaster
-clypeastridea
 clypeastrina
 clypeastroid
 clypeastroida
@@ -77101,7 +77077,6 @@ coccidia
 coccidial
 coccidian
 coccidians
-coccidiidea
 coccidioidal
 coccidioides
 coccidioidomycoses
@@ -89296,7 +89271,6 @@ counterhaft
 counterhammering
 counterhypotheses
 counterhypothesis
-counteridea
 counterideal
 counterimage
 counterimages
@@ -97000,7 +96974,6 @@ cysticerus
 cysticle
 cysticolous
 cystid
-cystidea
 cystidean
 cystideans
 cystidia
@@ -111286,7 +111259,6 @@ diogenean
 diogenes
 diogenic
 diogenite
-dioichia
 dioicous
 dioicously
 dioicousness
@@ -124208,7 +124180,6 @@ eching
 echini
 echinid
 echinidan
-echinidea
 echiniform
 echinital
 echinite
@@ -133370,7 +133341,6 @@ epicardium
 epicardiums
 epicarid
 epicaridan
-epicaridea
 epicarides
 epicarp
 epicarpal
@@ -134489,7 +134459,6 @@ eppy
 epratuzumab
 epris
 eprise
-eproboscidea
 eprom
 eproms
 eprosy
@@ -184511,7 +184480,6 @@ holothoracic
 holothuria
 holothurian
 holothurians
-holothuridea
 holothurioid
 holothurioidea
 holotonia
@@ -192623,8 +192591,6 @@ iddat
 iddhi
 iddio
 ide
-idea
-idead
 ideaed
 ideaful
 ideagenous
@@ -198880,7 +198846,8 @@ inerubescent
 inerudite
 ineruditely
 inerudition
-ines
+inescapabilities
+inescapability
 inescapable
 inescapableness
 inescapably
@@ -198892,6 +198859,7 @@ inescutcheons
 inesite
 inesites
 inessential
+inessentialities
 inessentiality
 inessentials
 inessive
@@ -223063,7 +223031,6 @@ lechuguilla
 lechuguillas
 lechwe
 lechwes
-lecidea
 lecideaceae
 lecideaceous
 lecideiform
@@ -252561,7 +252528,6 @@ monocyclica
 monocycly
 monocystic
 monocystidae
-monocystidea
 monocystis
 monocyte
 monocytes
@@ -293372,7 +293338,6 @@ pagurian
 pagurians
 pagurid
 paguridae
-paguridea
 pagurids
 pagurine
 pagurinea
@@ -303966,7 +303931,6 @@ peripatetics
 peripatic
 peripatically
 peripatidae
-peripatidea
 peripatize
 peripatoid
 peripatopsidae
@@ -306153,7 +306117,6 @@ phalangic
 phalangid
 phalangida
 phalangidan
-phalangidea
 phalangidean
 phalangides
 phalangids
@@ -307935,7 +307898,6 @@ phorone
 phoronic
 phoronid
 phoronida
-phoronidea
 phoronids
 phoronis
 phoronomia
@@ -324747,7 +324709,6 @@ prehumor
 prehunger
 prehydration
 prehypophysis
-preidea
 preidentification
 preidentified
 preidentify
@@ -328696,7 +328657,6 @@ probonus
 proborrowing
 proboscidal
 proboscidate
-proboscidea
 proboscidean
 proboscideans
 proboscideous
@@ -332861,6 +332821,7 @@ pseudisodomic
 pseudisodomum
 pseudo
 pseudo-jahn-teller
+pseudo-nitzschia
 pseudoacaccia
 pseudoacacia
 pseudoacademic
@@ -365640,7 +365601,6 @@ sarcocollas
 sarcocollin
 sarcocyst
 sarcocystes
-sarcocystidea
 sarcocystidean
 sarcocystidian
 sarcocystis
@@ -369578,7 +369538,6 @@ scorpionfly
 scorpionic
 scorpionid
 scorpionida
-scorpionidea
 scorpionis
 scorpions
 scorpionweed
@@ -388955,7 +388914,6 @@ solotnik
 solpuga
 solpugid
 solpugida
-solpugidea
 solpugides
 solpugids
 solriamfetol
@@ -403855,7 +403813,6 @@ subicterical
 subicular
 subiculum
 subidar
-subidea
 subideal
 subideas
 subilia
@@ -417466,7 +417423,6 @@ taxibus
 taxicab
 taxicabs
 taxicorn
-taxidea
 taxidermal
 taxidermic
 taxidermies
@@ -421711,7 +421667,6 @@ thalassic
 thalassical
 thalassinian
 thalassinid
-thalassinidea
 thalassinidian
 thalassinoid
 thalassiophyte
@@ -455450,6 +455405,7 @@ unpleat
 unpleated
 unplebeian
 unpledged
+unpleg
 unplenished
 unplenteous
 unplenteously
@@ -484739,7 +484695,6 @@ zoantharian
 zoantharians
 zoanthid
 zoanthidae
-zoanthidea
 zoanthodeme
 zoanthodemic
 zoanthoid
