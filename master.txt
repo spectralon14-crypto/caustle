@@ -926,7 +926,6 @@ abrades
 abrading
 abraham
 abrahamic
-abrahamidae
 abrahamite
 abrahamitic
 abraid
@@ -1591,7 +1590,6 @@ acanthodean
 acanthodei
 acanthodes
 acanthodian
-acanthodidae
 acanthodii
 acanthodini
 acanthoid
@@ -1601,7 +1599,6 @@ acanthology
 acantholysis
 acanthoma
 acanthomas
-acanthomeridae
 acanthon
 acanthopanax
 acanthophis
@@ -1621,7 +1618,6 @@ acanthosis
 acanthotic
 acanthous
 acanths
-acanthuridae
 acanthurus
 acanthus
 acanthuses
@@ -1653,7 +1649,6 @@ acaricide
 acaricides
 acarid
 acarida
-acaridae
 acaridan
 acaridans
 acaridea
@@ -2653,7 +2648,6 @@ achaean
 achaeans
 achaemenian
 achaemenid
-achaemenidae
 achaemenidian
 achaenia
 achaenium
@@ -2689,7 +2683,6 @@ achate
 achates
 achatina
 achatinella
-achatinidae
 achatour
 achcharu
 ache
@@ -2726,7 +2719,6 @@ aches
 acheson
 achesoun
 achete
-achetidae
 acheulean
 acheulian
 acheweed
@@ -3036,7 +3028,6 @@ acinus
 acipenser
 acipenseres
 acipenserid
-acipenseridae
 acipenseridv
 acipenserine
 acipenseroid
@@ -3089,7 +3080,6 @@ aclydes
 aclys
 acma
 acmaea
-acmaeidae
 acmaesthesia
 acmatic
 acme
@@ -3359,8 +3349,6 @@ acridest
 acridian
 acridic
 acridid
-acrididae
-acridiidae
 acridin
 acridine
 acridines
@@ -3446,10 +3434,7 @@ acrocephalosyndactyly
 acrocephalous
 acrocephaly
 acrocera
-acroceratidae
 acroceraunian
-acroceridae
-acrochordidae
 acrochordinae
 acrochordon
 acrock
@@ -3637,7 +3622,6 @@ acrotism
 acrotisms
 acrotomous
 acrotreta
-acrotretidae
 acrotrophic
 acrotrophoneurosis
 acrux
@@ -3663,7 +3647,6 @@ actable
 actaea
 actaeaceae
 actaeon
-actaeonidae
 actant
 actants
 acte
@@ -3726,7 +3709,6 @@ actinocarpous
 actinochemical
 actinochemistry
 actinocrinid
-actinocrinidae
 actinocrinite
 actinocrinus
 actinocutitis
@@ -4377,7 +4359,6 @@ adelaster
 adelbert
 adele
 adelea
-adeleidae
 adelges
 adelgid
 adelgids
@@ -5761,7 +5742,6 @@ aegemony
 aeger
 aegerian
 aegeriid
-aegeriidae
 aegialitis
 aegicrania
 aegilops
@@ -5828,8 +5808,6 @@ aeolic
 aeolicism
 aeolicisms
 aeolid
-aeolidae
-aeolididae
 aeolight
 aeolina
 aeoline
@@ -5865,7 +5843,6 @@ aeons
 aepyceros
 aepyornis
 aepyornises
-aepyornithidae
 aepyornithiformes
 aeq
 aequi
@@ -5998,7 +5975,6 @@ aerocamera
 aerocar
 aerocartograph
 aerocartography
-aerocharidae
 aerocolpos
 aerocraft
 aerocurve
@@ -6363,7 +6339,6 @@ aetiophyllin
 aetiotropic
 aetiotropically
 aetites
-aetobatidae
 aetobatus
 aetolian
 aetomorphae
@@ -7098,7 +7073,6 @@ agalawood
 agalaxia
 agalaxy
 agalena
-agalenidae
 agalinis
 agalite
 agalloch
@@ -7122,7 +7096,6 @@ agamian
 agamic
 agamically
 agamid
-agamidae
 agamids
 agamis
 agamist
@@ -7151,7 +7124,6 @@ aganglionic
 aganice
 aganippe
 agao
-agaonidae
 agapae
 agapai
 agapanthus
@@ -7167,7 +7139,6 @@ agapes
 agapetae
 agapeti
 agapetid
-agapetidae
 agaphite
 agapornis
 agar
@@ -7183,7 +7154,6 @@ agaricinic
 agaricoid
 agarics
 agaricus
-agaristidae
 agarita
 agaroid
 agarose
@@ -7263,7 +7233,6 @@ ageisms
 ageist
 ageists
 agelacrinites
-agelacrinitidae
 agelaius
 agelast
 agelastic
@@ -7885,7 +7854,6 @@ agrimony
 agrimotor
 agrin
 agrins
-agriochoeridae
 agriochoerus
 agriological
 agriologies
@@ -7893,11 +7861,9 @@ agriologist
 agriology
 agrionia
 agrionid
-agrionidae
 agriot
 agriotes
 agriotype
-agriotypidae
 agriotypus
 agrippa
 agrippina
@@ -7956,7 +7922,6 @@ agrom
 agromania
 agromyza
 agromyzid
-agromyzidae
 agron
 agronome
 agronomial
@@ -8222,7 +8187,6 @@ aigas
 aiger
 aight
 aigialosaur
-aigialosauridae
 aigialosaurus
 aiglet
 aiglets
@@ -8282,7 +8246,6 @@ ailourophobias
 ailourophobic
 ails
 ailsyte
-ailuridae
 ailuro
 ailuroid
 ailuroidea
@@ -9026,7 +8989,6 @@ alates
 alation
 alations
 alauda
-alaudidae
 alaudine
 alaund
 alaunian
@@ -9320,7 +9282,6 @@ alcazars
 alcazava
 alce
 alcedines
-alcedinidae
 alcedininae
 alcedo
 alcelaphine
@@ -9363,7 +9324,6 @@ alcibiadean
 alcibiades
 alcicornium
 alcid
-alcidae
 alcides
 alcidine
 alcids
@@ -9599,7 +9559,6 @@ alectoromorphous
 alectoropodes
 alectoropodous
 alectrion
-alectrionidae
 alectrosaurus
 alectryomachy
 alectryomancy
@@ -9712,7 +9671,6 @@ aleurites
 aleuritic
 aleurobius
 aleurodes
-aleurodidae
 aleuromancy
 aleurometer
 aleuron
@@ -9780,7 +9738,6 @@ aleyes
 aleying
 aleyrodes
 aleyrodid
-aleyrodidae
 alezan
 alf
 alfa
@@ -11375,7 +11332,6 @@ alopekai
 alopeke
 alophas
 alopias
-alopiidae
 alorcinic
 alosa
 alose
@@ -11812,7 +11768,6 @@ altus
 alu
 alua
 aluco
-aluconidae
 aluconinae
 aludel
 aludels
@@ -12409,7 +12364,6 @@ amblosis
 amblotic
 amblyacousia
 amblyaphia
-amblycephalidae
 amblycephalus
 amblychromatic
 amblydactyla
@@ -12424,7 +12378,6 @@ amblyope
 amblyopia
 amblyopias
 amblyopic
-amblyopsidae
 amblyopsis
 amblyoscope
 amblypod
@@ -12554,7 +12507,6 @@ ambushments
 ambustion
 ambuyat
 ambystoma
-ambystomidae
 amchoor
 amdahl
 amdt
@@ -12590,7 +12542,6 @@ ameers
 ameioses
 ameiosis
 ameiotic
-ameiuridae
 ameiurus
 ameiva
 amel
@@ -12894,7 +12845,6 @@ amiga
 amigas
 amigo
 amigos
-amiidae
 amil
 amildar
 amildars
@@ -13079,12 +13029,10 @@ ammochryse
 ammocoete
 ammocoetes
 ammocoetid
-ammocoetidae
 ammocoetiform
 ammocoetoid
 ammodyte
 ammodytes
-ammodytidae
 ammodytoid
 ammolite
 ammolites
@@ -13232,7 +13180,6 @@ amoebicidal
 amoebicide
 amoebid
 amoebida
-amoebidae
 amoebiform
 amoebobacter
 amoebobacterieae
@@ -13407,7 +13354,6 @@ ampassy
 amped
 ampelidaceae
 ampelidaceous
-ampelidae
 ampelideous
 ampelis
 ampelite
@@ -13529,7 +13475,6 @@ amphictyonies
 amphictyons
 amphictyony
 amphicyon
-amphicyonidae
 amphicyrtic
 amphicyrtous
 amphicytula
@@ -13596,9 +13541,7 @@ amphinucleus
 amphion
 amphionic
 amphioxi
-amphioxidae
 amphioxides
-amphioxididae
 amphioxis
 amphioxus
 amphioxuses
@@ -13642,14 +13585,12 @@ amphisbaenas
 amphisbaenian
 amphisbaenic
 amphisbaenid
-amphisbaenidae
 amphisbaenoid
 amphisbaenous
 amphiscian
 amphiscians
 amphiscii
 amphisile
-amphisilidae
 amphispermous
 amphisporangiate
 amphispore
@@ -13704,10 +13645,8 @@ amphitropous
 amphitruo
 amphitryon
 amphiuma
-amphiumidae
 amphivasal
 amphivorous
-amphizoidae
 amphodarch
 amphodelite
 amphodiplopia
@@ -13802,7 +13741,6 @@ ampullaceous
 ampullae
 ampullar
 ampullaria
-ampullariidae
 ampullary
 ampullate
 ampullated
@@ -14062,7 +14000,6 @@ ana
 anabaena
 anabaenas
 anabantid
-anabantidae
 anabantids
 anabaptise
 anabaptised
@@ -14098,7 +14035,6 @@ anabioses
 anabiosis
 anabiotic
 anabisetia
-anablepidae
 anableps
 anablepses
 anabo
@@ -14384,7 +14320,6 @@ analgesia
 analgesias
 analgesic
 analgesics
-analgesidae
 analgesis
 analgesist
 analgetic
@@ -14632,7 +14567,6 @@ anapterygota
 anapterygote
 anapterygotism
 anapterygotous
-anaptomorphidae
 anaptomorphus
 anaptotic
 anaptychi
@@ -14764,7 +14698,6 @@ anatheme
 anathemitisation
 anathemize
 anatherum
-anatidae
 anatidaephobia
 anatifa
 anatifae
@@ -15113,7 +15046,6 @@ andreaeales
 andreas
 andrena
 andrenid
-andrenidae
 andrew
 andrewartha
 andrews
@@ -15858,7 +15790,6 @@ angstroms
 angsts
 angsty
 anguid
-anguidae
 anguifauna
 anguifaunae
 anguifaunas
@@ -15870,17 +15801,14 @@ anguillaria
 anguille
 anguillian
 anguillians
-anguillidae
 anguilliform
 anguilloid
 anguillula
 anguillule
-anguillulidae
 anguimorpha
 anguine
 anguineal
 anguineous
-anguinidae
 anguiped
 anguipede
 anguipedes
@@ -15972,7 +15900,6 @@ anhidrotic
 anhidrotics
 anhima
 anhimae
-anhimidae
 anhinga
 anhingas
 anhistic
@@ -16027,7 +15954,6 @@ anidiomatic
 anidiomatical
 anidroses
 anidrosis
-aniellidae
 aniente
 anientise
 anifrolumab
@@ -16512,7 +16438,6 @@ annicut
 annicuts
 annidalin
 annie
-anniellidae
 annigoni
 annihil
 annihilability
@@ -16686,7 +16611,6 @@ annus
 anoa
 anoas
 anobiid
-anobiidae
 anobiids
 anobing
 anocarpous
@@ -16788,7 +16712,6 @@ anomalously
 anomalousness
 anomalousnesses
 anomalure
-anomaluridae
 anomalurus
 anomaly
 anomalys
@@ -16799,7 +16722,6 @@ anomiacea
 anomic
 anomie
 anomies
-anomiidae
 anomite
 anomocarpous
 anomodont
@@ -16876,7 +16798,6 @@ anoplocephalic
 anoplonemertean
 anoplonemertini
 anoplothere
-anoplotheriidae
 anoplotherioid
 anoplotherium
 anoplotheroid
@@ -17270,7 +17191,6 @@ antennae
 antennal
 antennaria
 antennariid
-antennariidae
 antennarius
 antennary
 antennas
@@ -17473,7 +17393,6 @@ anthesterin
 anthesterion
 anthesterol
 antheximeter
-anthicidae
 anthidium
 anthill
 anthills
@@ -17541,7 +17460,6 @@ anthomedusae
 anthomedusan
 anthomyia
 anthomyiid
-anthomyiidae
 anthonin
 anthonomus
 anthony
@@ -17556,7 +17474,6 @@ anthophobia
 anthophora
 anthophore
 anthophores
-anthophoridae
 anthophorous
 anthophyllite
 anthophyllites
@@ -17619,7 +17536,6 @@ anthracoses
 anthracosilicosis
 anthracosis
 anthracothere
-anthracotheriidae
 anthracotherium
 anthracotic
 anthracoxen
@@ -17660,7 +17576,6 @@ anthraxolite
 anthraxylon
 anthrenus
 anthribid
-anthribidae
 anthriscus
 anthro
 anthrohopobiological
@@ -17671,7 +17586,6 @@ anthrop
 anthrophore
 anthropic
 anthropical
-anthropidae
 anthropobiologist
 anthropobiology
 anthropocentric
@@ -17740,7 +17654,6 @@ anthropomorpha
 anthropomorphic
 anthropomorphical
 anthropomorphically
-anthropomorphidae
 anthropomorphisation
 anthropomorphise
 anthropomorphised
@@ -18955,7 +18868,6 @@ antillean
 antilles
 antilobium
 antilocapra
-antilocapridae
 antilochus
 antilock
 antiloemic
@@ -20367,7 +20279,6 @@ anyones
 anyons
 anyplace
 anyroad
-anystidae
 anything
 anythingarian
 anythingarianism
@@ -20718,7 +20629,6 @@ aphidicide
 aphidicides
 aphidicolous
 aphidid
-aphididae
 aphidiinae
 aphidious
 aphidius
@@ -20775,7 +20685,6 @@ aphorizer
 aphorizers
 aphorizes
 aphorizing
-aphoruridae
 aphotaxis
 aphotic
 aphototactic
@@ -20802,7 +20711,6 @@ aphrodite
 aphrodites
 aphroditeum
 aphroditic
-aphroditidae
 aphroditous
 aphrolite
 aphronia
@@ -20868,7 +20776,6 @@ apicultures
 apiculturist
 apiculturists
 apiculus
-apidae
 apiece
 apieces
 apiezon
@@ -20889,7 +20796,6 @@ apinch
 aping
 apinoid
 apio
-apioceridae
 apiocrinite
 apioid
 apioidal
@@ -20957,7 +20863,6 @@ aplitic
 aplobasalt
 aplodiorite
 aplodontia
-aplodontiidae
 aplomb
 aplombs
 aplome
@@ -21089,7 +20994,6 @@ apodictic
 apodictical
 apodictically
 apodictive
-apodidae
 apodioxis
 apodixis
 apodoses
@@ -21126,7 +21030,6 @@ apogeotropism
 apogeotropisms
 apogon
 apogonid
-apogonidae
 apograph
 apographal
 apographic
@@ -21326,7 +21229,6 @@ aporosa
 aporose
 aporphin
 aporphine
-aporrhaidae
 aporrhais
 aporrhaoid
 aporrhea
@@ -21691,7 +21593,6 @@ appendicostomy
 appendicular
 appendicularia
 appendicularian
-appendiculariidae
 appendiculata
 appendiculate
 appendiculated
@@ -22239,7 +22140,6 @@ apteroid
 apterous
 apteryges
 apterygial
-apterygidae
 apterygiformes
 apterygogenea
 apterygota
@@ -22616,7 +22516,6 @@ arachnophobics
 arachnopia
 arad
 aradid
-aradidae
 arado
 araeometer
 araeometers
@@ -22679,7 +22578,6 @@ aramayoite
 arame
 arames
 aramid
-aramidae
 aramids
 aramina
 araminta
@@ -22990,7 +22888,6 @@ archaeobotanist
 archaeobotany
 archaeoceratops
 archaeoceti
-archaeocyathidae
 archaeocyathus
 archaeocyte
 archaeodontosaurus
@@ -23589,7 +23486,6 @@ archwise
 archworker
 archworkmaster
 archy
-arcidae
 arcifera
 arciferous
 arcifinious
@@ -23653,7 +23549,6 @@ arctics
 arcticward
 arcticwards
 arctiid
-arctiidae
 arctiids
 arctisca
 arctitude
@@ -23707,7 +23602,6 @@ ardeb
 ardebs
 ardeche
 ardeid
-ardeidae
 ardelia
 ardelio
 ardella
@@ -23930,7 +23824,6 @@ argans
 argante
 argas
 argasid
-argasidae
 argatroban
 argean
 argeers
@@ -23966,7 +23859,6 @@ argentineans
 argentines
 argentinian
 argentinians
-argentinidae
 argentinitrate
 argentinize
 argentino
@@ -24021,7 +23913,6 @@ arginine
 argininephosphoric
 arginines
 argiope
-argiopidae
 argiopoidea
 argive
 argle
@@ -24204,7 +24095,6 @@ ariettes
 aright
 arightly
 arigue
-ariidae
 arikara
 ariki
 arikis
@@ -24395,7 +24285,6 @@ arm's-length
 armada
 armadas
 armadilla
-armadillididae
 armadillidium
 armadillo
 armadillos
@@ -25110,7 +24999,6 @@ art
 artaba
 artabe
 artal
-artamidae
 artamus
 artar
 artarin
@@ -25639,7 +25527,6 @@ asaph
 asaphia
 asaphic
 asaphid
-asaphidae
 asaphus
 asaprol
 asar
@@ -25688,7 +25575,6 @@ ascariasis
 ascaricidal
 ascaricide
 ascarid
-ascaridae
 ascarides
 ascaridia
 ascaridiasis
@@ -25892,7 +25778,6 @@ aseity
 aselar
 aselgeia
 asellate
-asellidae
 aselline
 asellus
 asem
@@ -26084,7 +25969,6 @@ asides
 asideu
 asiento
 asilid
-asilidae
 asilus
 asimen
 asimina
@@ -26419,7 +26303,6 @@ asporulate
 aspout
 asprawl
 aspread
-aspredinidae
 aspredo
 asprete
 aspring
@@ -27017,11 +26900,9 @@ asterid
 asteridian
 asteridians
 asterids
-asteriidae
 asterikos
 asterin
 asterina
-asterinidae
 asterioid
 asterion
 asterionella
@@ -27049,7 +26930,6 @@ asteroidea
 asteroidean
 asteroideans
 asteroids
-asterolepidae
 asterolepis
 asterope
 asterophyllite
@@ -27175,7 +27055,6 @@ astraddle
 astraea
 astraean
 astraeid
-astraeidae
 astraeiform
 astragal
 astragalar
@@ -27364,7 +27243,6 @@ astronomizes
 astronomizing
 astronomy
 astropecten
-astropectinidae
 astrophel
 astrophels
 astrophil
@@ -27738,7 +27616,6 @@ athericeran
 athericerous
 atherine
 atherines
-atherinidae
 atheriogaea
 atheriogaean
 atheris
@@ -28130,7 +28007,6 @@ atrophying
 atropia
 atropias
 atropic
-atropidae
 atropin
 atropine
 atropines
@@ -28359,7 +28235,6 @@ attics
 atticum
 atticus
 attid
-attidae
 attila
 atting
 attinge
@@ -28884,10 +28759,8 @@ aulophobia
 aulophyte
 aulos
 aulostoma
-aulostomatidae
 aulostomi
 aulostomid
-aulostomidae
 aulostomus
 aulu
 aum
@@ -29011,7 +28884,6 @@ auriculas
 auriculate
 auriculated
 auriculately
-auriculidae
 auriculo
 auriculocranial
 auriculoid
@@ -30549,10 +30421,8 @@ avicula
 avicular
 avicularia
 avicularian
-aviculariidae
 avicularimorphae
 avicularium
-aviculidae
 aviculture
 avicultures
 aviculturist
@@ -49061,6 +48931,7 @@ bostonians
 bostonite
 bostons
 bostrychid
+bostrychidae
 bostrychoid
 bostryx
 bostryxes
@@ -54869,7 +54740,7 @@ buppy
 buprenorphine
 buprenorphines
 buprestid
-buprestidae
+buprestidaecacatuidae
 buprestidan
 buprestids
 buprestis
@@ -56488,7 +56359,6 @@ cacaos
 cacara
 cacas
 cacatua
-cacatuidae
 cacatuinae
 cacaxte
 caccabis
@@ -68932,6 +68802,7 @@ cherishments
 cherkess
 cherkesses
 chermes
+chermidae
 chermoula
 chermoulas
 chernikovite
@@ -68967,6 +68838,7 @@ cherrystone
 cherrystones
 chersonese
 chersoneses
+chersydridae
 chert
 chertier
 chertiest
@@ -72893,6 +72765,7 @@ ciclosporins
 ciconia
 ciconian
 ciconiid
+ciconiidae
 ciconiiform
 ciconiiformes
 ciconine
@@ -73770,6 +73643,7 @@ cirque
 cirques
 cirrate
 cirrated
+cirratulidae
 cirratulus
 cirrhipede
 cirrhipedes
@@ -97794,6 +97668,7 @@ daedalea
 daedalean
 daedalian
 daedalic
+daedalidae
 daedalous
 daedalus
 daegeum
@@ -99014,7 +98889,6 @@ dasi
 dasiglucagon
 dasik
 dasiphora
-dasipodidae
 dasnt
 daspletosaurus
 dassie
@@ -134528,7 +134402,6 @@ epizzoa
 epkwele
 eplefenamide
 epleflux
-eplenidae
 eplenone
 eplephage
 eplephagic
@@ -250908,6 +250781,7 @@ mnestic
 mnevis
 mniaceous
 mnioid
+mniotiltidae
 mnium
 mnong
 mo
@@ -281103,7 +280977,6 @@ ophiurans
 ophiuras
 ophiurid
 ophiurida
-ophiuridae
 ophiurids
 ophiuroid
 ophiuroidea
@@ -282959,6 +282832,7 @@ orsino
 orson
 ort
 ortalid
+ortalidae
 ortalis
 ortalon
 ortanique
@@ -415825,6 +415699,7 @@ tanager
 tanagers
 tanagra
 tanagras
+tanagridae
 tanaidacea
 tanaiste
 tanaistes
@@ -417664,6 +417539,7 @@ tay
 tay-sachs
 tayassu
 tayassuid
+tayassuidae
 tayassuids
 tayaw
 tayberries
@@ -470095,7 +469971,6 @@ viremias
 viremic
 virent
 vireo
-vireonidae
 vireonine
 vireonines
 vireos
