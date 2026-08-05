@@ -25429,15 +25429,6 @@ arvos
 arx
 ary
 arya
-aryan
-aryanise
-aryanised
-aryanises
-aryanising
-aryanized
-aryanizes
-aryanizinglrrx
-aryans
 aryballi
 aryballoi
 aryballoid
@@ -262807,8 +262798,8 @@ nessberry
 nesselrode
 nesselrodes
 nesses
-nessie
 nesslerisation
+nesslerisations
 nesslerise
 nesslerised
 nesslerising
@@ -263810,7 +263801,6 @@ neyanda
 neys
 nez
 nf
-ng
 ngaanyatjarra
 ngaanyatjarras
 ngai
@@ -263832,7 +263822,6 @@ ngarinyin
 ngarrindjeri
 ngati
 ngatis
-ngavite
 ngbaka
 ngbakas
 ngbandi
@@ -263868,6 +263857,7 @@ ngwato
 ngwatos
 ngwee
 ngwees
+nhan
 nhandu
 nhandus
 nheengatu
