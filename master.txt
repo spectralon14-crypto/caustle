@@ -2695,7 +2695,6 @@ acheilia
 acheilous
 acheiria
 acheirous
-acheirus
 achelousaurus
 achen
 achene
@@ -9873,7 +9872,6 @@ algist
 algivorous
 algo
 algocyan
-algodon
 algodoncillo
 algodonite
 algoesthesiometer
@@ -12356,7 +12354,6 @@ amblosis
 amblotic
 amblyacousia
 amblyaphia
-amblycephalus
 amblychromatic
 amblydactyla
 amblygeusia
@@ -13956,7 +13953,6 @@ amyls
 amylum
 amylums
 amyluria
-amynodon
 amynodont
 amyosthenia
 amyosthenic
@@ -14563,7 +14559,6 @@ anaptyxes
 anaptyxis
 anaqua
 anarcestean
-anarcestes
 anarch
 anarchal
 anarchial
@@ -15607,7 +15602,6 @@ angiostomize
 angiostomous
 angiostomy
 angiostrophy
-angiosymphysis
 angiotasis
 angiotelectasia
 angiotenosis
@@ -16679,7 +16673,6 @@ anomalist
 anomalistic
 anomalistical
 anomalistically
-anomalocephalus
 anomaloflorous
 anomalogonatae
 anomalogonatous
@@ -18344,7 +18337,6 @@ anticynical
 anticynically
 anticynicism
 anticytotoxin
-antidactyl
 antidancing
 antidandruff
 antidazzle
@@ -22099,7 +22091,6 @@ aptate
 apted
 aptenodytes
 apter
-aptera
 apteral
 apteran
 apteria
@@ -22859,7 +22850,6 @@ archaeoceratops
 archaeoceti
 archaeocyathus
 archaeocyte
-archaeodontosaurus
 archaeogeology
 archaeographic
 archaeographical
@@ -23986,7 +23976,6 @@ argyroneta
 argyropelecus
 argyrophil
 argyrophilic
-argyrosaurus
 argyrosauruses
 argyrose
 argyrosis
@@ -27290,7 +27279,6 @@ asylees
 asyllabia
 asyllabic
 asyllabical
-asylosaurus
 asylum
 asylums
 asymbiotic
@@ -27696,7 +27684,6 @@ atlantoaxial
 atlantodidymus
 atlantomastoid
 atlantoodontoid
-atlantosaurus
 atlas
 atlasaurus
 atlascopcosaurus
@@ -30570,8 +30557,6 @@ avunculates
 avunculize
 avvogadore
 avvogadores
-avyayibhava
-avys
 avyze
 avyzed
 avyzes
@@ -161457,7 +161442,6 @@ gedanken
 gedankenexperiment
 gedankenexperiments
 gedd
-gedda
 gedder
 geddit
 gedds
@@ -161467,6 +161451,7 @@ gedecktwork
 gederathite
 gederite
 gedrite
+gedrites
 geds
 gedunk
 gee
@@ -163157,7 +163142,6 @@ gershom
 gershon
 gershonite
 gershonites
-gershwin
 gersum
 gert
 gertcha
@@ -206141,6 +206125,7 @@ ionophorous
 ionoregulation
 ionoregulations
 ionoregulatory
+ionornis
 ionosonde
 ionosondes
 ionosorb
@@ -219848,7 +219833,6 @@ laities
 laits
 laity
 laius
-lajasvenator
 lak
 lakarpite
 lakatan
@@ -220124,7 +220108,6 @@ lamester
 lamestery
 lamestream
 lamestreams
-lametasaurus
 lameter
 lameters
 lametta
@@ -220896,7 +220879,6 @@ lapacho
 lapachol
 lapactic
 lapageria
-lapampasaurus
 laparectomy
 laparocele
 laparocholecystotomy
@@ -221020,7 +221002,6 @@ laplanders
 laplandian
 laplandic
 laplandish
-laplatasaurus
 lapling
 lapon
 laportea
@@ -222236,7 +222217,6 @@ lavishment
 lavishments
 lavishness
 lavishnesses
-lavocatisaurus
 lavoisier
 lavolt
 lavolta
@@ -225140,8 +225120,6 @@ lianoid
 lianqiao
 liaoceratops
 liaoningosaurus
-liaoningotitan
-liaoningvenator
 liar
 liard
 liards
@@ -225761,7 +225739,6 @@ lifull
 lig
 ligable
 ligabueino
-ligabuesaurus
 ligament
 ligamenta
 ligamental
@@ -226760,7 +226737,6 @@ linguoversion
 lingwort
 lingwulong
 lingy
-lingyuanosaurus
 linha
 linhay
 linhays
@@ -227330,7 +227306,6 @@ liquory
 lir
 lira
 liraglutide
-lirainosaurus
 liras
 lirate
 liration
@@ -227971,7 +227946,6 @@ litvak
 lity
 lityerses
 litz
-liubangosaurus
 liukiu
 liuqin
 liuqiu
@@ -228188,12 +228162,9 @@ lloyds
 lludd
 llyn
 llyns
-lm
 lmao
 lmfao
-lmft
 lmk
-lmm
 lms
 ln
 lndg
@@ -229060,7 +229031,6 @@ lohar
 lohengrin
 lohoch
 lohock
-lohuecotitan
 loiases
 loiasis
 loiasises
@@ -229209,7 +229179,6 @@ lomwe
 lonafarnib
 lonchocarpus
 lonchopteridae
-loncosaurus
 lond
 londinensian
 londinium
@@ -229839,7 +229808,6 @@ lorication
 lorications
 loricatosaurus
 loricoid
-loricosaurus
 lorics
 lorien
 lories
@@ -229902,7 +229870,6 @@ loses
 losey
 losh
 loshes
-losillasaurus
 losing
 losingest
 losingly
@@ -230693,7 +230660,6 @@ luchuan
 lucia
 lucian
 luciana
-lucianovenator
 lucible
 lucid
 lucida
@@ -231466,7 +231432,6 @@ lusian
 lusitania
 lusitanian
 lusitano
-lusitanosaurus
 lusk
 lusked
 lusking
@@ -231477,7 +231442,6 @@ lusks
 lusky
 lusory
 lusotitan
-lusovenator
 lussac
 lust
 lusted
@@ -259641,6 +259605,7 @@ nagas
 nagasaki
 nagasari
 nagatelite
+nagatitan
 nagel
 nagelschmidtite
 nagelschmidtites
@@ -261580,7 +261545,15 @@ neddies
 neddiest
 neddish
 neddy
+neddylate
+neddylated
+neddylates
+neddylating
+neddylation
+neddylations
+nederbeat
 nederlands
+nederpop
 nedette
 nedettes
 neds
@@ -282548,6 +282521,7 @@ ornithomantic
 ornithomantist
 ornithomimid
 ornithomimidae
+ornithomimosaur
 ornithomimosauria
 ornithomimus
 ornithomorph
@@ -309501,6 +309475,7 @@ physicotheology
 physicotherapeutic
 physicotherapeutics
 physicotherapy
+physis
 phytalbumose
 phytane
 phytanes
@@ -415478,6 +415453,7 @@ tamer
 tamerlane
 tamerlanism
 tamers
+tameryraptor
 tames
 tamest
 tamias
@@ -417089,6 +417065,7 @@ taurophobe
 taurophobia
 tauropolos
 taurotragus
+taurovenator
 taurus
 tauruses
 tauryl
@@ -420521,7 +420498,6 @@ terser
 tersest
 tersion
 tersions
-terskite
 tersulfid
 tersulfide
 tersulphate
@@ -481393,7 +481369,6 @@ xiangfu
 xiangjiangite
 xiangqi
 xianhuaite
-xianshanosaurus
 xiao
 xiao'erjing
 xiao-chai-hu-tang
@@ -483603,6 +483578,7 @@ zalabia
 zalambdodonts
 zaleplon
 zalmoxes
+Zalophus
 zalophus
 zalutumumab
 zaman
