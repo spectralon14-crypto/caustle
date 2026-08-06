@@ -216594,6 +216594,7 @@ klister
 klisters
 kln
 klockmannite
+klockmannites
 kloesse
 klom
 klondike
@@ -216626,8 +216627,11 @@ klop
 klops
 klosh
 klosse
-klosters
+klotski
 klowet
+kloyz
+kloyzim
+kloyzn
 kluck
 klucker
 kludge
