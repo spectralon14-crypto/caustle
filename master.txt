@@ -94924,6 +94924,7 @@ cuprammonia
 cuprammonium
 cuprammoniums
 cuprate
+cupredoxin
 cuprein
 cupreine
 cuprene
@@ -420826,6 +420827,7 @@ tetrachlorides
 tetrachloro
 tetrachlorodibenzo-p-dioxin
 tetrachlorodibenzo-p-dioxins
+tetrachlorodibenzodioxin
 tetrachloroethane
 tetrachloroethylene
 tetrachloromethane
@@ -471366,6 +471368,7 @@ vomicae
 vomicas
 vomicin
 vomicine
+vomiotoxin
 vomit
 vomitable
 vomited
