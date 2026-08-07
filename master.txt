@@ -8,6 +8,7 @@
 'sblood
 'zounds
 -
+@delete-suffix
 a-bomb
 a-ok
 aa
@@ -12982,7 +12983,6 @@ amlet
 amli
 amlikar
 amlodipine
-amlodipine-valsartan
 amlong
 amma
 amman
@@ -27419,7 +27419,6 @@ ataxite
 ataxonomic
 ataxophemia
 ataxy
-atazanavir
 atazir
 atbash
 atchieve
@@ -97429,7 +97428,6 @@ dackering
 dackers
 dacking
 dacks
-daclatasvir
 daclizumab
 dacoit
 dacoitage
@@ -98783,7 +98781,6 @@ darzee
 darzi
 darzis
 das
-dasabuvir
 dasatinib
 daschagga
 dase
@@ -124087,6 +124084,7 @@ ecdyson
 ecdysone
 ecdysones
 ecdysons
+ecept
 ecesic
 ecesis
 ecesises
@@ -126211,7 +126209,6 @@ elb
 elba
 elbaite
 elbaites
-elbasvir
 elbe
 elbert
 elberta
@@ -171425,7 +171422,6 @@ guadagnini
 guadalajara
 guadalcanal
 guadalcazarite
-guadalquivir
 guadeloup
 guadeloupe
 guadeloupean
@@ -189639,6 +189635,7 @@ hyoglossal
 hyoglossi
 hyoglossus
 hyoglycocholic
+hyogo
 hyoid
 hyoidal
 hyoidan
@@ -189656,7 +189653,6 @@ hyomental
 hyoplastra
 hyoplastral
 hyoplastron
-hyoplastrons
 hyoscapular
 hyoscine
 hyoscines
@@ -222470,7 +222466,6 @@ lazarus
 lazary
 laze
 lazed
-lazertinib
 lazes
 lazied
 lazier
@@ -229134,7 +229129,6 @@ lollypops
 lolo
 lolog
 lologs
-lolol
 lolz
 loma
 lomas
@@ -309823,7 +309817,6 @@ piblockto
 piblokto
 pibloktoq
 pibloktos
-pibrentasvir
 pibroch
 pibroches
 pibrochs
@@ -350389,7 +350382,6 @@ remet
 remetal
 remex
 remi
-remibrutinib
 remica
 remicate
 remication
@@ -351936,7 +351928,6 @@ repostulation
 reposure
 reposures
 repot
-repotrectinib
 repots
 repotted
 repotting
@@ -357858,7 +357849,6 @@ rilly
 rilonacept
 rilotumumab
 riluzole
-rilzabrutinib
 rim
 rima
 rimae
@@ -358330,7 +358320,6 @@ ritenuto
 ritenutos
 rites
 rithe
-ritlecitinib
 ritling
 ritmaster
 ritonavir
@@ -381764,7 +381753,6 @@ simenon
 simeon
 simeonism
 simeonite
-simeprevir
 simethicone
 simeticone
 simi
@@ -388109,8 +388097,6 @@ soffritto
 sofia
 sofkee
 sofoklis
-sofosbuvir-velpatasvir
-sofosbuvir-velpatasvir-voxilaprevir
 sofrito
 sofritos
 sofronia
@@ -426765,7 +426751,6 @@ tityre
 tiu
 tivaevae
 tivaivai
-tivantinib
 tiver
 tiverton
 Tivoli
@@ -462329,7 +462314,6 @@ up-to-dateness
 up-to-datenesses
 up-to-the-minute
 up-valley
-upadacitinib
 upadaisies
 upadaisy
 upaisle
@@ -466933,7 +466917,6 @@ veloute
 veloutes
 veloutine
 veloutines
-velpatasvir
 velskoen
 velskoens
 velte
@@ -469776,7 +469759,6 @@ vipolitic
 vipresident
 vips
 viqueen
-vir
 vira
 viraemia
 viraemias
@@ -484161,7 +484143,6 @@ zezes
 zhajiangmian
 zhamanshinite
 zhamanshinites
-zhanghenglong
 zhanmadao
 zhejiang
 zhejiangosaurus
@@ -484709,7 +484690,6 @@ zones
 zonesthesia
 zonetime
 zonetimes
-zongertinib
 zongora
 zongzi
 zongzis
