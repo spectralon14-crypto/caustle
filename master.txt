@@ -17893,7 +17893,6 @@ antianthropocentric
 antianthropomorphism
 antiantibody
 antiantidote
-antiantienzyme
 antiantitoxin
 antianxiety
 antiapartheid
@@ -44453,15 +44452,11 @@ bizzo
 bizzos
 bizzy
 bjorne
-bkbndr
 bkcy
-bkg
 bkgd
 bklr
 bkpr
 bkpt
-bks
-bkt
 bl
 blaan
 blaasop
@@ -137444,6 +137439,7 @@ euhyostylic
 euhyostyly
 euk
 eukairite
+eukaryogenesis
 eukaryon
 eukaryons
 eukaryot
@@ -191815,7 +191811,6 @@ hyracotherium
 hyrate
 hyrax
 hyraxes
-hyraxs
 hyrcan
 hyrcanian
 hyrse
@@ -212663,8 +212658,6 @@ kafa
 kaferita
 kaffeeklatsch
 kaffeeklatsches
-kaffirboom
-kaffirbooms
 kaffirs
 kaffiyah
 kaffiyahs
@@ -212674,7 +212667,6 @@ kaffraria
 kaffrarian
 kafila
 kafilas
-kafir
 kafiri
 kafirin
 kafirs
@@ -213779,7 +213771,6 @@ kavasses
 kaver
 kavi
 kavika
-kavum
 kaw
 kawa
 kawaii
@@ -217261,7 +217252,6 @@ koffs
 koft
 kofta
 koftas
-kofte
 koftgar
 koftgari
 koftgaris
@@ -218156,7 +218146,6 @@ kufis
 kufiyah
 kufiyahs
 kufiyeh
-kufta
 kuge
 kugel
 kugelhof
@@ -312574,10 +312563,10 @@ pizzicato
 pizzicatos
 pizzle
 pizzles
-pk
 pkgs
 pkhali
 pkhalis
+pku
 pkwy
 pl
 plaas
@@ -478881,7 +478870,6 @@ wizzes
 wjc
 wk
 wkly
-wl
 wlatful
 wlatsome
 wlecche
@@ -481486,12 +481474,8 @@ xuites
 xun
 xurel
 xuwulong
-xv
 xvalue
 xvalues
-xvi
-xvii
-xviii
 xwla
 xyla
 xylan
