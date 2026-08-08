@@ -18115,7 +18115,6 @@ anticker
 antickes
 anticking
 anticks
-antickt
 anticlactic
 anticlassical
 anticlassicalism
@@ -53216,6 +53215,7 @@ bryum
 bs
 bsc
 bsf
+bskt
 bst
 bt
 btise
@@ -157375,6 +157375,7 @@ funditores
 fundless
 fundmonger
 fundmongering
+fundoshi
 fundraise
 fundraised
 fundraiser
@@ -163619,6 +163620,7 @@ giblets
 gibli
 giblis
 giboia
+giboshi
 gibraltar
 gibraltarian
 gibraltarians
@@ -177333,7 +177335,6 @@ hcb
 hcf
 hcl
 hconvert
-hd
 hdbk
 hdkf
 hdlc
@@ -213035,6 +213036,7 @@ kamerading
 kamerads
 kames
 kami
+kami-oshi
 kami-oshis
 kamian
 kamias
@@ -213047,6 +213049,7 @@ kamikazes
 kamiks
 kamila
 kamilas
+kamioshi
 kamis
 kamises
 kamiya
@@ -225024,14 +225027,14 @@ lfg
 lfm
 lg
 lgth
-lhasa
+lhd
 lherzite
 lherzolite
 lherzolites
 lherzolitic
 lhiamba
 lhoba
-lhomwe
+lhokpu
 lhop
 lhota
 lhotshampa
@@ -246242,6 +246245,7 @@ miki
 mikie
 miking
 mikir
+mikoshi
 mikra
 mikrkra
 mikron
@@ -250567,7 +250571,6 @@ mizzonites
 mizzy
 mk
 mks
-mkt
 mktg
 ml
 mlabri
@@ -263846,6 +263849,7 @@ niblike
 nibling
 niblings
 nibong
+niboshi
 nibs
 nibsome
 nibung
@@ -331076,7 +331080,6 @@ prospectus
 prospectuses
 prospectusless
 prospeculation
-prospekt
 prosper
 prosperation
 prospered
@@ -425821,6 +425824,7 @@ timists
 timmer
 timmy
 timne
+timo
 timocracies
 timocracy
 timocratic
@@ -426744,7 +426748,6 @@ tjurunga
 tjvjik
 tk
 tkemali
-tkt
 tla-o-qui-aht
 tlaco
 tlacoyo
