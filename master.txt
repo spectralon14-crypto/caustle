@@ -98576,6 +98576,9 @@ darabukka
 darac
 daraf
 darafs
+darapladib
+darapskite
+darapskites
 darapti
 darat
 daratumumab
@@ -108281,12 +108284,9 @@ dgag
 dghaisa
 dghajjes
 dghajsa
-dha
 dhaba
 dhabas
 dhabb
-dhabi
-dhahran
 dhai
 dhak
 dhaka
@@ -108308,6 +108308,7 @@ dhanurasanas
 Dhanush
 dhanush
 dhanvantari
+dharamshala
 dharana
 dharani
 dharma
@@ -108333,7 +108334,6 @@ dhikr
 dhikrs
 dhimmi
 dhimmis
-dhindo
 dhivehi
 dhobee
 dhobey
@@ -108342,7 +108342,6 @@ dhobie
 dhobies
 dhobis
 dhoby
-dhokla
 dhol
 dholak
 dholaks
@@ -108373,8 +108372,8 @@ dhourras
 dhow
 dhows
 dhritarashtra
-dhss
-dhu
+dhrupad
+dhrupads
 dhu'l-hijja
 dhu'l-hijjah
 dhuhr
@@ -108388,9 +108387,9 @@ dhurras
 dhurrie
 dhurries
 dhurry
-dhus
 dhuti
 dhutis
+dhyal
 dhyana
 dhyanas
 di
@@ -183602,11 +183601,9 @@ hmm
 hmmm
 hmong
 hmongs
-hmos
 hmph
 hmphing
 hmphs
-hmso
 hmu
 hny
 ho
@@ -187139,7 +187136,9 @@ hp
 hpital
 hq
 hr
+hrdwre
 hrimfaxi
+hrothgar
 hrs
 hru
 hrudka
@@ -187150,6 +187149,7 @@ hryvnia
 hryvnias
 hryvnya
 hryvnyas
+hrzn
 hsianghualite
 hsianghualites
 hsien
@@ -264666,8 +264666,10 @@ nimmer
 nimmers
 nimming
 nimodipine
+nimonic
+nimono
+nimorazole
 nimotuzumab
-nimoy
 nimporte
 nimps
 nimrod
@@ -309230,6 +309232,10 @@ phthinoid
 phthiocol
 phthiriases
 phthiriasis
+phthiriophobe
+phthiriophobes
+phthiriophobia
+phthiriophobic
 phthirius
 phthirophagous
 phthises
@@ -309243,6 +309249,7 @@ phthisiogenic
 phthisiologist
 phthisiology
 phthisiophobia
+phthisiotherapeutic
 phthisiotherapy
 phthisipneumonia
 phthisipneumony
@@ -380300,6 +380307,7 @@ shrunk
 shrunken
 shrups
 shruti
+shtchee
 shtchi
 shtchis
 shtetel
@@ -380308,6 +380316,7 @@ shtetels
 shtetl
 shtetlach
 shtetls
+shtg
 shtick
 shtickier
 shtickiest
@@ -383320,6 +383329,9 @@ sjamboks
 sjoe
 sjogrenite
 sjogrenites
+sjomil
+sjomila
+sjouke
 sk
 ska
 skaalpund
@@ -427122,10 +427134,8 @@ tjandi
 tjanting
 tjantings
 tjenkal
-tji
 tjosite
 tjurunga
-tjvjik
 tk
 tkemali
 tla-o-qui-aht
@@ -483106,8 +483116,7 @@ yizhousaurus
 yizkor
 yk
 ykw
-ylang-ylang
-ylang-ylangs
+ylahayll
 ylem
 ylems
 ylene
@@ -485542,7 +485551,6 @@ zuffolo
 zufoli
 zufolo
 zufolos
-zug
 zugtierlast
 zugtierlaster
 zugunruhe
