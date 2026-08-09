@@ -192555,6 +192555,8 @@ icy
 icymi
 id
 ida
+idaean
+idaein
 idaho
 idahoan
 idahoans
@@ -421737,7 +421739,8 @@ tezcucan
 tezepelumab
 tezkere
 tezkirah
-tfr
+tfw
+tfym
 tgif
 th
 tha
