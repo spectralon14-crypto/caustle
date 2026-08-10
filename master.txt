@@ -135258,6 +135258,7 @@ ern
 erne
 erned
 ernes
+ernesse
 ernest
 ernestine
 ernie
@@ -217130,10 +217131,10 @@ knowledges-as-a-service
 knowledging
 known
 knownothingism
+knownothingisms
 knowns
 knowperts
 knows
-knowsley
 knox
 knoxian
 knoxville
@@ -234775,7 +234776,7 @@ malkins
 malkite
 mall
 malladrite
-mallaig
+malladrites
 mallam
 mallams
 mallander
@@ -234783,8 +234784,8 @@ mallanders
 mallangong
 mallard
 mallardite
+mallardites
 mallards
-mallarme
 mallcore
 mallcores
 malleabilities
@@ -234844,10 +234845,6 @@ mallings
 mallophaga
 mallophagan
 mallophagous
-mallorca
-mallorcan
-mallorcans
-mallory
 malloseismic
 mallotus
 mallow
@@ -234857,8 +234854,8 @@ mallows
 mallowwort
 malloy
 malls
+mallsoft
 mallum
-mallung
 mallus
 malm
 malmag
@@ -291959,7 +291956,6 @@ owrewords
 owrie
 owrier
 owriest
-ows
 owse
 owsen
 owser
@@ -426420,6 +426416,8 @@ tinselwork
 tinsely
 tinsey
 tinseys
+tinsleyite
+tinsleyites
 tinsman
 tinsmen
 tinsmith
