@@ -108256,8 +108256,7 @@ dfault
 dfc
 dfm
 dft
-dg
-dgag
+dgaf
 dghaisa
 dghajjes
 dghajsa
@@ -151348,9 +151347,7 @@ flywheels
 flywinch
 flywire
 flywort
-fm
 fml
-fmt
 fn
 fname
 fnese
@@ -239275,10 +239272,9 @@ mckinstryites
 mcleod
 mcleods
 mcphail
-md
 mdewakanton
+mdnt
 mdse
-mdv
 me
 me-self
 me-selves
