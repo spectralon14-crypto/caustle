@@ -36576,6 +36576,7 @@ bbc
 bbg
 bbl
 bbls
+bbq
 bbs
 bc
 bcuz
@@ -86497,7 +86498,6 @@ copywriter
 copywriters
 copywriting
 copywritings
-coq
 coque
 coquecigrue
 coquelicot
@@ -90588,7 +90588,6 @@ cpt
 cpu
 cpus
 cputime
-cq
 cr
 craal
 craaled
@@ -199505,7 +199504,6 @@ inflicts
 inflight
 infliximab
 infliximab-abda
-infliximab-axxq
 inflood
 inflooding
 inflorescence
@@ -225092,6 +225090,7 @@ lf
 lfg
 lfm
 lg
+lgbtq
 lgth
 lhd
 lherzite
@@ -321300,7 +321299,6 @@ ppr
 pps
 ppt
 pptn
-pq
 pr
 praam
 praams
@@ -361010,6 +361008,7 @@ rpg
 rpm
 rps
 rpt
+rq
 rrhiza
 rs
 rspca
@@ -395311,9 +395310,7 @@ spyship
 spytower
 spyware
 spywares
-sq
 sqd
-sqq
 sqrt
 squab
 squabash
@@ -428775,15 +428772,10 @@ torics
 tories
 toriest
 torified
-torifies
-torify
-torifying
 torii
-toriis
 torilis
 torinese
 toriness
-torino
 toripalimab
 torly
 torma
@@ -481963,7 +481955,6 @@ yabble
 yabby
 yabbying
 yaboo
-yabraq
 yabu
 yabusame
 yacal
