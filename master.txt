@@ -8031,12 +8031,8 @@ agutis
 agutter
 agy
 agyieus
-agyiomania
-agynarious
 agynary
-agynic
 agynous
-agyrate
 agyria
 agyrias
 agyrophobia
@@ -9927,7 +9923,6 @@ algos
 algosis
 algospeak
 algous
-algovite
 algraphic
 algraphy
 alguacil
@@ -10546,7 +10541,6 @@ alleyway
 alleyways
 allez
 allgood
-allgovite
 allhallond
 allhallow
 allhallowen
@@ -34342,6 +34336,7 @@ barathron
 barathrum
 barathrums
 barato
+baratovite
 baratte
 barauna
 baraza
@@ -39039,6 +39034,7 @@ beloved
 beloveds
 beloves
 beloving
+belovite
 below
 below-the-radar
 belowdecks
@@ -53834,6 +53830,7 @@ bukh
 bukidnon
 bukkake
 bukkakes
+bukovite
 bukshee
 bukshees
 bukshi
@@ -135152,7 +135149,6 @@ ericoid
 ericolin
 ericophyte
 erics
-ericsson
 eridanid
 erie
 erigenia
@@ -145960,6 +145956,7 @@ feruled
 ferules
 ferulic
 feruling
+feruvite
 ferv
 fervanite
 fervence
@@ -162290,6 +162287,7 @@ genteelly
 genteelness
 genteelnesses
 gentes
+genthelvite
 genthite
 gentian
 gentiana
@@ -166782,6 +166780,7 @@ godmothering
 godmothers
 godmothership
 godot
+godovikovite
 godown
 godowns
 godpapa
@@ -172635,6 +172634,7 @@ gustatorially
 gustatorily
 gustatory
 gustav
+gustavite
 gustavus
 gusted
 gustful
@@ -217353,6 +217353,7 @@ kokanee
 kokanees
 kokang
 kokas
+kokchetavite
 kokedama
 kokedamas
 koker
@@ -217753,6 +217754,7 @@ kossaean
 kossean
 kosses
 kosteletzkya
+kostovite
 koswite
 kota
 kotahitanga
@@ -218959,6 +218961,7 @@ labs-on-a-molecule
 labs-on-chip
 labs-on-chips
 labskaus
+labuntsovite
 laburnum
 laburnums
 labyrinth
@@ -229183,6 +229186,7 @@ lomita
 lommock
 lomond
 lomonite
+lomonosovite
 lompish
 lomta
 lomu
@@ -237819,6 +237823,7 @@ masks
 maslenitsa
 maslin
 maslins
+maslovite
 masochism
 masochisms
 masochist
@@ -241002,6 +241007,7 @@ mellowspeaks
 mellowy
 mells
 mellsman
+melnikovite
 melocactus
 melocoton
 melocotons
@@ -363550,7 +363556,6 @@ saiths
 saitic
 saiva
 saivism
-saivite
 saiyid
 saiyids
 saj
@@ -415215,6 +415220,7 @@ takkanah
 takkies
 takky
 takosis
+takovite
 takoyaki
 takoyakis
 takrouri
@@ -436773,6 +436779,7 @@ tufts
 tufty
 tug
 tug-of-war
+tugarinovite
 tugboat
 tugboatman
 tugboatmen
@@ -481526,8 +481533,6 @@ xeransis
 xeranthemum
 xeranthemums
 xerantic
-xeraphim
-xeraphims
 xeraphin
 xeraphins
 xerarch
