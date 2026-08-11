@@ -8655,7 +8655,6 @@ aizles
 aizoaceae
 aizoaceous
 aizoon
-ajaccio
 ajaja
 ajangle
 ajapsandali
@@ -8665,8 +8664,6 @@ ajatasatru
 ajava
 ajax
 ajee
-ajenjo
-ajhar
 aji
 ajies
 ajimez
@@ -8676,12 +8673,15 @@ ajiva
 ajivas
 ajivika
 ajkaceratops
+ajkaceratopses
+ajmer
+ajmoda
+ajmodas
 ajog
 ajoint
 ajoite
 ajoites
 ajonjoli
-ajoure
 ajowan
 ajowans
 ajuga
@@ -8689,12 +8689,10 @@ ajugas
 ajumma
 ajutage
 ajutages
-ajutment
 ajwain
 ajwains
 ajwan
 ajwans
-ajza
 ak
 aka
 akaakai
