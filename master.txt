@@ -21052,8 +21052,6 @@ apoise
 apojove
 apokatastasis
 apokatastatic
-apokrea
-apokreos
 apolar
 apolarity
 apolaustic
