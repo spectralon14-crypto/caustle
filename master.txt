@@ -5820,7 +5820,6 @@ aemuled
 aemules
 aemuling
 aenach
-aenean
 aeneas
 aenei
 aeneid
@@ -36725,8 +36724,7 @@ bbq
 bbs
 bc
 bcuz
-bd
-bde
+bday
 bdellatomy
 bdellid
 bdellidae
@@ -36742,12 +36740,11 @@ bdellotomy
 bdelloura
 bdellouridae
 bdellovibrio
+bdellovibrios
 bdft
-bdl
 bdle
 bdls
 bdrm
-bds
 be
 bea
 beach
@@ -46651,7 +46648,6 @@ blutwursts
 blvd
 blype
 blypes
-blyton
 bm
 bma
 bmx
@@ -96088,10 +96084,9 @@ cuzzos
 cv
 cvos
 cwierc
+cwikla
 cwm
-cwmbran
 cwms
-cwo
 cwrite
 cwt
 cwtch
@@ -224125,7 +224120,6 @@ leonbergers
 leoncavallo
 leoncito
 leone
-leonean
 leoneans
 leonerasaurus
 leones
@@ -226985,7 +226979,6 @@ linnaeanism
 linnaeite
 linnaeus
 linne
-linnean
 linned
 linneon
 linnet
@@ -261231,6 +261224,7 @@ neanderthal
 neanderthaler
 neanderthalers
 neanderthaloid
+neanderthaloids
 neanderthals
 neanic
 neanthropic
@@ -339354,6 +339348,7 @@ queer
 queer-baiting
 queer-baitings
 queer-looking
+queerbaiting
 queercore
 queercores
 queerdom
@@ -418261,9 +418256,12 @@ tazzas
 tazze
 tba
 tbd
+tbf
 tbh
 tbilisi
 tbs
+tbsp
+tbssaraglot
 tc
 tcawi
 tchagra
@@ -482102,6 +482100,7 @@ xenotimes
 xenotransplant
 xenotransplantation
 xenotransplantations
+xenotransplanting
 xenotransplants
 xenotropic
 xenurine
