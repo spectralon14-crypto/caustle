@@ -56161,11 +56161,17 @@ buzzwords
 buzzy
 bv
 bvt
+bwa
 bwahaha
+bwamba
+bwamu
 bwana
 bwanas
+bwatiye
 bwazi
 bwazis
+bwe
+bwisi
 bx
 bxs
 by
@@ -207604,6 +207610,7 @@ ishtar
 isiac
 isiacal
 isicathamiya
+isicathamiyas
 isicholo
 isicle
 isidae
@@ -208946,6 +208953,7 @@ izzards
 izzat
 izzats
 izzy
+iʼd
 j-aggregate
 j-aggregated
 j-aggregates
@@ -215559,7 +215567,6 @@ khvat
 khwarazmian
 khyal
 khyals
-khyber
 ki
 ki-yi
 ki-yied
@@ -361834,9 +361841,6 @@ rpg
 rpm
 rq
 rrhiza
-rs
-rspca
-rsum
 rsvp
 rt
 rte
@@ -396913,11 +396917,11 @@ ssambap
 ssamjang
 ssamjangs
 ssams
-sse
 ssed
+ssing
 ssireum
+ssort
 sstor
-ssw
 st
 st'at'imc
 st'at'imcets
@@ -475600,6 +475604,7 @@ wazzes
 wazzing
 wazzock
 wazzocks
+wazzup
 wb
 wbu
 wc
@@ -484390,10 +484395,7 @@ yrivd
 yrneh
 yrnehs
 yrs
-ys
 ysame
-yseult
-ysexogaycom
 yshend
 yshending
 yshends
