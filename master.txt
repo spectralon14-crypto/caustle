@@ -4576,7 +4576,6 @@ adermine
 adermins
 adesmy
 adespota
-adespoton
 adessenarian
 adessive
 adessives
@@ -100098,12 +100097,12 @@ deanery
 deaness
 deanimalize
 deaning
-deanna
 deans
 deanship
 deanships
 deanthropomorphic
 deanthropomorphism
+deanthropomorphisms
 deanthropomorphization
 deanthropomorphize
 deappetizing
@@ -107960,6 +107959,7 @@ deunam
 deuniting
 deurbanize
 deurmekaar
+deurwaarder
 deus
 deusan
 deutencephalic
@@ -200835,7 +200835,6 @@ injustices
 injustifiable
 injustly
 ink
-inkatha
 inkberries
 inkberry
 inkblot
@@ -200852,6 +200851,7 @@ inkholder
 inkholders
 inkhorn
 inkhornism
+inkhornisms
 inkhornist
 inkhornize
 inkhornizer
