@@ -8,7 +8,6 @@
 'sblood
 'zounds
 -
-0-mannosyltransferase
 @delete-suffix
 a-begging
 a-bomb
@@ -276494,6 +276493,7 @@ o-desmethyltramadol
 o-desmethyltramadols
 o-hydroxyacetophenone
 o-hydroxyacetophenones
+o-mannosyltransferase
 o-mannosyltransferases
 o-methyltransferase
 o-methyltransferases
