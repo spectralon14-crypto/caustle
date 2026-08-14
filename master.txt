@@ -1565,12 +1565,10 @@ acalepha
 acalephae
 acalephan
 acalephans
-acalephas
 acalephe
 acalephes
 acalephoid
 acalephs
-acalkyamiacination
 acalycal
 acalycine
 acalycinous
@@ -26646,7 +26644,6 @@ askant
 askanted
 askanting
 askants
-askapart
 askar
 askarel
 askari
@@ -40282,7 +40279,6 @@ beneplacit
 beneplacito
 beneplacity
 benes
-benesh
 benet
 benetnasch
 benets
@@ -134222,6 +134218,7 @@ ephedrin
 ephedrine
 ephedrines
 ephedrins
+ephedrone
 ephelcystic
 ephelides
 ephelis
@@ -134260,7 +134257,6 @@ ephesians
 ephesine
 ephestia
 ephestian
-ephesus
 ephetae
 ephete
 ephetic
@@ -136957,11 +136953,8 @@ eserine
 eserines
 eses
 esexual
-esfahan
 esguard
-esher
 eshin
-eshkeneh
 esile
 esiles
 esiphonal
@@ -136979,6 +136972,8 @@ eskimo
 eskimoes
 eskimoic
 eskimoid
+eskimoite
+eskimoites
 eskimoized
 eskimos
 eskolaite
@@ -137039,9 +137034,18 @@ esophagitises
 esophago
 esophagocele
 esophagodynia
+esophagogastric
 esophagogastroduodenoscopies
+esophagogastroduodenoscopy
 esophagogastroscopy
+esophagogastrostomies
 esophagogastrostomy
+esophagojejunostomies
+esophagojejunostomy
+esophagologies
+esophagologist
+esophagologists
+esophagology
 esophagomalacia
 esophagometer
 esophagomycosis
@@ -137103,7 +137107,6 @@ espalier
 espaliered
 espaliering
 espaliers
-espana
 espanol
 espanoles
 espantoon
@@ -137111,7 +137114,6 @@ esparcet
 esparsette
 esparto
 espartos
-espasol
 espathate
 espave
 espavel
@@ -137127,6 +137129,7 @@ esperantic
 esperantidist
 esperantido
 esperantism
+esperantisms
 esperantist
 esperanto
 esphresis
@@ -137140,8 +137143,6 @@ espiegleries
 espier
 espiers
 espies
-espigle
-espiglerie
 espinal
 espinel
 espinette
@@ -137171,7 +137172,6 @@ espouser
 espousers
 espouses
 espousing
-espressione
 espressivo
 espresso
 espressos
@@ -137191,7 +137191,6 @@ esquamate
 esquamulose
 esquiline
 esquimau
-esquimaux
 esquire
 esquirearchy
 esquired
@@ -206414,6 +206413,7 @@ intwist
 intwisted
 intwisting
 intwists
+inuinnaqtun
 inuit
 inuit-yupik-unangan
 inuits
@@ -210529,7 +210529,6 @@ jardinieres
 jardon
 jared
 jareed
-jareesh
 jarfly
 jarful
 jarfuls
@@ -211815,7 +211814,6 @@ jirbles
 jirbling
 jird
 jirds
-jireesh
 jirga
 jirgah
 jirgas
@@ -216174,7 +216172,6 @@ khopesh
 khopeshes
 khor
 khorassan
-khoresh
 khorkhog
 khorovats
 khors
@@ -301236,7 +301233,6 @@ payen
 payeny
 payer
 payers
-payesh
 payess
 payfone
 payfones
@@ -322588,7 +322584,6 @@ practolol
 practolols
 prad
 pradeep
-pradesh
 pradhan
 pradhana
 pradhans
@@ -359786,6 +359781,7 @@ risers
 riserva
 rises
 rishi
+rishikesh
 rishis
 rishtadar
 risibilities
@@ -366250,7 +366246,6 @@ sanderses
 sanderson
 sanderswood
 sanderswoods
-sandesh
 sandfish
 sandfishes
 sandflies
