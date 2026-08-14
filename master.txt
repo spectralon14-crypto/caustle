@@ -921,6 +921,7 @@ abounding
 aboundingly
 abounds
 about
+about-face
 abouts
 above
 aboveboard
@@ -4082,6 +4083,12 @@ acyrology
 acystia
 ad
 ad'iyah
+ad-hocracies
+ad-hocracy
+ad-lib
+ad-libbed
+ad-libbing
+ad-libs
 ada
 adactyl
 adactylia
@@ -5932,6 +5939,7 @@ aerifying
 aerily
 aeriness
 aero
+aero-hydro-servo-elastic
 aeroacoustic
 aeroacoustics
 aerobacter
@@ -10629,6 +10637,10 @@ alleviator
 alleviators
 alleviatory
 alley
+alley-oop
+alley-ooped
+alley-ooping
+alley-oops
 alleycat
 alleycats
 alleyed
@@ -14378,6 +14390,10 @@ anakes
 anakrousis
 anaktoron
 anal
+anal-retentive
+anal-retentiveness
+anal-retentivenesses
+anal-retentives
 analabos
 analagous
 analav
@@ -17377,6 +17393,8 @@ anterointerior
 anterointernal
 anterolateral
 anterolaterally
+anterolistheses
+anterolisthesis
 anteromedial
 anteromedian
 anteroom
@@ -25630,6 +25648,9 @@ arsyl
 arsylene
 arsyversy
 art
+art-rock
+art-rocker
+art-rockers
 artaba
 artabe
 artal
@@ -26454,6 +26475,8 @@ asgmt
 ash
 ash'arisms
 ash'arites
+ash-blond
+ash-blonde
 asha
 ashake
 ashame
@@ -38946,6 +38969,7 @@ befur
 befurbelowed
 befurred
 beg
+beg-off
 begabled
 begad
 begall
@@ -53111,6 +53135,7 @@ brockhampton
 brockish
 brockit
 brockle
+brockle-face
 brockle-faced
 brockram
 brockrams
@@ -53982,6 +54007,7 @@ bruschettas
 bruschette
 bruscus
 brush
+brush-off
 brushabilities
 brushability
 brushable
@@ -55893,6 +55919,7 @@ burnables
 burnbeat
 burne
 burned
+burned-out
 burner
 burners
 burnet
@@ -55944,6 +55971,7 @@ burnsian
 burnside
 burnsides
 burnt
+burnt-out
 burntly
 burntness
 burntweed
@@ -56569,6 +56597,7 @@ buttocking
 buttocks
 button
 button-downs
+button-on
 buttonball
 buttonballs
 buttonbur
@@ -57824,6 +57853,7 @@ caganers
 cagayan
 cagayans
 cage
+cage-bird
 cagebird
 cagebirds
 caged
@@ -58616,6 +58646,7 @@ calkings
 calkins
 calks
 call
+call-out
 calla
 callable
 callaesthetic
@@ -62898,6 +62929,7 @@ carrs
 carrus
 carruthers
 carry
+carry-on
 carryable
 carryall
 carryalls
@@ -62909,7 +62941,9 @@ carryed
 carryforward
 carryforwards
 carrying
+carrying-on
 carryings
+carryings-on
 carryke
 carryon
 carryons
@@ -63116,9 +63150,11 @@ carvacryl
 carvage
 carval
 carve
+carve-out
 carved
 carvedilol
 carvel
+carvel-built
 carvels
 carven
 carvene
@@ -63321,6 +63357,7 @@ caseworm
 caseworms
 casey
 cash
+cash-out
 casha
 cashable
 cashableness
@@ -75324,6 +75361,7 @@ clapometers
 clapotis
 clappe
 clapped
+clapped-out
 clapper
 clapperboard
 clapperboards
@@ -76472,6 +76510,7 @@ cliometry
 cliona
 clione
 clip
+clip-on
 clipart
 cliparts
 clipboard
@@ -77376,6 +77415,7 @@ cnidosis
 cnm
 cnut
 co
+co-driven
 co-ordinate
 co-ordinates
 coabode
@@ -81099,6 +81139,7 @@ comdt
 come
 come-all-ye's
 come-all-you's
+come-on
 comeatable
 comeback
 comebacker
@@ -81239,6 +81280,7 @@ cominform
 cominformist
 cominformists
 coming
+coming-out
 comingle
 comingled
 comingles
@@ -81804,6 +81846,7 @@ communities
 communitive
 communitorium
 community
+community-wide
 communitys
 communitywide
 communization
@@ -86765,6 +86808,7 @@ cooingly
 cooings
 cooja
 cook
+cook-off
 cookable
 cookables
 cookbook
@@ -86810,6 +86854,7 @@ cookware
 cookwares
 cooky
 cool
+cool-off
 coolabah
 coolabahs
 coolaman
@@ -86841,6 +86886,7 @@ coolie
 coolies
 cooliman
 cooling
+cooling-off
 coolingly
 coolingness
 coolingnesses
@@ -87006,6 +87052,7 @@ coowners
 cooze
 coozes
 cop
+cop-out
 copa
 copable
 copacetic
@@ -88412,6 +88459,7 @@ corporalships
 corporas
 corporases
 corporate
+corporate-wide
 corporately
 corporateness
 corporatenesses
@@ -94488,6 +94536,7 @@ cruses
 cruset
 crusets
 crush
+crush-out
 crushabilities
 crushability
 crushable
@@ -262013,15 +262062,16 @@ nazifies
 nazify
 nazifying
 naziism
+naziisms
 nazim
 nazir
 nazirate
 nazirite
-nazirites
 naziritic
 nazirs
 nazis
 nazism
+nazisms
 nazuki
 nb
 nbd
@@ -314884,6 +314934,7 @@ playdoughs
 playdown
 playdowns
 played
+played-out
 player
 playerdom
 playeress
@@ -335163,6 +335214,7 @@ psts
 psuedo
 psw
 psych
+psych-out
 psychagogic
 psychagogos
 psychagogue
@@ -336692,6 +336744,7 @@ pummelos
 pummels
 pummice
 pump
+pump-action
 pumpable
 pumpage
 pumped
@@ -337650,6 +337703,7 @@ pustulose
 pustulous
 puszta
 put
+put-on
 putage
 putain
 putamen
@@ -374116,6 +374170,8 @@ seleucidian
 seleucidic
 selexipag
 self
+self-action
+self-driven
 self-inflict
 self-infliction
 self-inflictions
@@ -376085,6 +376141,7 @@ senci
 sencio
 sencion
 send
+send-off
 sendable
 sendai
 sendak
@@ -377850,6 +377907,7 @@ sestuor
 sesuto
 sesuvium
 set
+set-off
 set-to
 seta
 setaceous
@@ -379735,6 +379793,7 @@ shelpek
 shelta
 sheltas
 shelter
+shelter-in-place
 shelterage
 shelterbelt
 shelterbelts
@@ -380880,6 +380939,7 @@ shonkiest
 shonkinite
 shonky
 shoo
+shoo-fly
 shood
 shooed
 shoofa
@@ -380920,6 +380980,7 @@ shooshed
 shooshes
 shooshing
 shoot
+shoot-out
 shootable
 shootaround
 shootarounds
@@ -381324,6 +381385,7 @@ shoves
 shoving
 shovings
 show
+show-off
 showable
 showance
 showbird
@@ -386752,6 +386814,7 @@ slinters
 sliotar
 sliotars
 slip
+slip-on
 slipback
 slipband
 slipboard
@@ -392570,6 +392633,7 @@ spammings
 spammy
 spams
 span
+span-new
 spanaemia
 spanaemias
 spanaemic
@@ -394560,6 +394624,7 @@ spimming
 spimmings
 spims
 spin
+spin-off
 spina
 spinacene
 spinacenes
@@ -395475,6 +395540,7 @@ splished
 splishes
 splishing
 split
+split-off
 splitbeak
 splite
 splitfinger
@@ -401639,6 +401705,7 @@ stoozing
 stoozings
 stop
 stop-and-go
+stop-off
 stopa
 stopback
 stopband
@@ -402267,6 +402334,7 @@ stranner
 stranraer
 strany
 strap
+strap-on
 straphang
 straphanged
 straphanger
@@ -475381,6 +475449,7 @@ washdish
 washdown
 washdowns
 washed
+washed-out
 washen
 washer
 washered
@@ -476129,6 +476198,7 @@ waxworm
 waxworms
 waxy
 way
+way-out
 wayaka
 wayang
 wayangs
@@ -477054,6 +477124,8 @@ welkins
 welks
 welkt
 well
+well-off
+well-to-pass
 wellacquainted
 welladay
 welladays
@@ -478494,6 +478566,7 @@ whister
 whisterpoop
 whisting
 whistle
+whistle-stop
 whistleable
 whistlebelly
 whistleblower
@@ -481911,6 +481984,7 @@ wormwood
 wormwoods
 wormy
 worn
+worn-out
 wornil
 wornness
 wornnesses
@@ -482420,6 +482494,7 @@ writable
 writation
 writative
 write
+write-off
 writeable
 writedown
 writedowns
