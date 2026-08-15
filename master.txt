@@ -8316,7 +8316,6 @@ aims
 aimworthiness
 ain
 ain't
-ainaleh
 aine
 ainee
 ainga
@@ -8326,7 +8325,6 @@ ainoi
 ains
 ainsell
 ainsells
-aintree
 ainu
 ainus
 aioli
@@ -54675,12 +54673,12 @@ bufties
 bufty
 bufu
 bug
+bug-eyed
 bugaboo
 bugaboos
 bugala
 bugan
 bugara
-bugatti
 bugbane
 bugbanes
 bugbear
@@ -54693,6 +54691,8 @@ bugeye
 bugeyed
 bugeyes
 bugfish
+bugfix
+bugfixes
 buggan
 buggane
 bugganes
@@ -54717,7 +54717,6 @@ buggins
 buggy
 buggyman
 buggymen
-buggys
 bughead
 bughouse
 bughouses
@@ -199822,7 +199821,6 @@ inerm
 inermes
 inermi
 inermia
-inermis
 inermous
 inerrabilities
 inerrability
