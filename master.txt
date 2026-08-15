@@ -117685,8 +117685,12 @@ dlr
 dlvy
 dm
 dming
+dmisokolovite+
 dmisteinbergite
 dmisteinbergites
+dmitrievite+
+dmitryivanovite+
+dmitryvarlamovite+
 dms
 dn
 dna
@@ -135355,6 +135359,7 @@ epityphlitis
 epityphlon
 epiural
 epivalve
+epixylic+
 epixylous
 epizeuxes
 epizeuxis
@@ -136951,6 +136956,7 @@ eserine
 eserines
 eses
 esexual
+esflurbiprofen+
 esguard
 eshin
 esile
@@ -138130,6 +138136,9 @@ etiologist
 etiologists
 etiologue
 etiology
+etiopathogeneses
+etiopathogenesis
+etiopathogenic
 etiophyllin
 etioporphyrin
 etiotropic
@@ -138148,11 +138157,11 @@ etoiles
 etomidate
 eton
 etonian
-etonians
 etonogestrel
 etonogestrels
-etons
+etoperidone+
 etoposide
+etoposide+
 etoricoxib
 etouffe
 etouffee
@@ -138161,6 +138170,7 @@ etourderie
 etourderies
 etourdi
 etourdie
+etoxadrol+
 etoxazole
 etoxeridine
 etranger
@@ -145202,6 +145212,7 @@ fatly
 fatness
 fatnesses
 fator
+fatostatine+
 fats
 fatshedera
 fatshederas
@@ -194776,7 +194787,7 @@ ilysia
 ilysiidae
 ilysioid
 ilysm
-ilyushin
+ilyt
 im
 ima
 image
@@ -258769,8 +258780,6 @@ musically
 musicalness
 musicalnesses
 musicals
-musicassette
-musicassettes
 musicate
 musician
 musician-in-residence
@@ -281894,6 +281903,9 @@ ophthalmocopia
 ophthalmodiagnosis
 ophthalmodiastimeter
 ophthalmodynamometer
+ophthalmodynamometers
+ophthalmodynamometries
+ophthalmodynamometry
 ophthalmodynia
 ophthalmography
 ophthalmol
@@ -281911,19 +281923,27 @@ ophthalmometer
 ophthalmometers
 ophthalmometric
 ophthalmometrical
+ophthalmometries
 ophthalmometry
 ophthalmomycosis
+ophthalmomyiases
+ophthalmomyiasis
 ophthalmomyositis
 ophthalmomyotomy
 ophthalmoneuritis
+ophthalmopathies
 ophthalmopathy
 ophthalmophlebotomy
+ophthalmophobe
+ophthalmophobes
 ophthalmophobia
+ophthalmophobic
 ophthalmophore
 ophthalmophorous
 ophthalmophthisis
 ophthalmoplasty
 ophthalmoplegia
+ophthalmoplegias
 ophthalmoplegic
 ophthalmopod
 ophthalmoptosis
@@ -281931,6 +281951,7 @@ ophthalmorrhagia
 ophthalmorrhea
 ophthalmorrhexis
 ophthalmosaurus
+ophthalmosauruses
 ophthalmoscope
 ophthalmoscopes
 ophthalmoscopic
@@ -285272,7 +285293,6 @@ ourself
 oursels
 ourselves
 ous
-ouse
 ousel
 ousels
 ousia
@@ -415737,8 +415757,8 @@ taaffeites
 taal
 taalbond
 taals
-taameya
 taar
+taarab
 taata
 taatas
 tab
@@ -419995,6 +420015,7 @@ teevee
 teevees
 teewhaap
 tef
+tefazoline+
 teff
 teffs
 tefillah
@@ -423332,6 +423353,8 @@ texturous
 textus
 tez
 tezacaftor
+tezacitabine+
+tezampanel+
 tezcatlipoca
 tezcatzoncatl
 tezcucan
@@ -428657,6 +428680,7 @@ tiyn
 tiyns
 tiz
 tiza
+tizanidine+
 tizes
 tizeur
 tizwas
@@ -466849,7 +466873,9 @@ vae
 vaes
 vaesite
 vaesites
+vafidemstat+
 vafrous
+vafzelin+
 vag
 vagabond
 vagabondage
@@ -479271,7 +479297,6 @@ wienie
 wienies
 wierangle
 wierd
-wiesbaden
 wiesenboden
 wife
 wifecarl
@@ -486519,10 +486544,12 @@ zola
 zolaesque
 zolaism
 zolaisms
+zolamine+
 zolazepam
 zolbetuximab
 zoledronate
 zoledronic
+zolenzepine+
 zoll
 zolle
 zollernia
