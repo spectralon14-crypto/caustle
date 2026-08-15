@@ -302334,6 +302334,9 @@ peewees
 peewit
 peewits
 peez
+peficitinib+
+pefloxacin+
+peforelin+
 peg
 pega
 pegador
@@ -306968,6 +306971,7 @@ peuple
 peut
 peutingerian
 pevensey
+pevonedistat+
 pevsner
 pew
 pewage
@@ -423254,8 +423258,6 @@ teutophobia
 teutophobism
 tevatron
 tevatrons
-tevet
-teviot
 teviss
 tew
 tewa
