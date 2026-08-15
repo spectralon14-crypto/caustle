@@ -117684,7 +117684,6 @@ dlcs
 dlr
 dlvy
 dm
-dmed
 dming
 dmisteinbergite
 dmisteinbergites
@@ -251613,6 +251612,7 @@ mizzonite
 mizzonites
 mizzy
 mkates
+mkhedruli
 mktg
 ml
 mlabri
@@ -316453,7 +316453,6 @@ plyscore
 plywood
 plywoods
 pm
-pmk
 pmo
 pmsg
 pmt
@@ -344521,7 +344520,6 @@ razzles
 razzly
 razzmatazz
 razzmatazzes
-rbmk
 rbound
 rc
 rcd
