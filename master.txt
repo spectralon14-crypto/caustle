@@ -8,6 +8,7 @@
 'sblood
 'zounds
 -
+@delet-prefix
 @delete-suffix
 a-begging
 a-bomb
@@ -138542,7 +138543,6 @@ eulamellibranch
 eulamellibranchia
 eulamellibranchiata
 eulamellibranchiate
-eulenspiegel
 euler
 eulerian
 eulima
@@ -138563,6 +138563,7 @@ eulogisers
 eulogises
 eulogising
 eulogism
+eulogisms
 eulogist
 eulogistic
 eulogistical
@@ -138584,6 +138585,7 @@ eulytin
 eulytine
 eulytite
 eumelanin
+eumelaninogenesis
 eumelanins
 eumemorrhea
 eumenes
@@ -194298,6 +194300,7 @@ ikbal
 ike
 ikebana
 ikebanas
+ikejime
 ikey
 ikeyness
 ikhwan
@@ -367347,7 +367350,6 @@ sarsparilla
 sart
 sartage
 sartain
-sarthe
 sartish
 sartor
 sartoriad
@@ -367356,11 +367358,10 @@ sartorially
 sartorian
 sartorii
 sartorite
+sartorites
 sartorius
 sartoriuses
 sartors
-sartre
-sartrian
 saruk
 sarum
 sarus
