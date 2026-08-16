@@ -483005,7 +483005,6 @@ xavante
 xaverian
 xaxado
 xbox
-xc
 xcl
 xctl
 xd
@@ -483393,7 +483392,6 @@ xr
 xray
 xrays
 xref
-xs
 xuanhanosaurus
 xuanhanosauruses
 xuanhuaceratops
