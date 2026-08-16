@@ -8,9 +8,6 @@
 'sblood
 'zounds
 -
-@delet-prefix
-@delete-prefic
-@delete-suffix
 a-begging
 a-bomb
 a-bombs
