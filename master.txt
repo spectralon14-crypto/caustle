@@ -26571,9 +26571,6 @@ ashrams
 ashstone
 ashtanga
 ashtangas
-ashtaroth
-ashthroat
-ashton
 ashtoreth
 ashtray
 ashtrays
@@ -193774,7 +193771,6 @@ idesia
 idest
 ideta
 idgah
-idianapolis
 idiasm
 idic
 idigbo
@@ -230935,7 +230931,6 @@ losenger
 loser
 losers
 loses
-losey
 losh
 loshes
 losing
@@ -278914,7 +278909,6 @@ odeons
 oder
 odes
 odessa
-odessadale
 odette
 odeum
 odeums
@@ -283392,9 +283386,7 @@ orixas
 oriya
 orkey
 orkhon
-orkney
 orkneyan
-orkneys
 orkoraptor
 orkoraptors
 orl
@@ -474391,6 +474383,8 @@ wakari
 wakas
 wakashan
 wake
+wake-robin
+wake-robins
 wakeboard
 wakeboarded
 wakeboarder
@@ -474400,7 +474394,8 @@ wakeboardings
 wakeboards
 waked
 wakeel
-wakefield
+wakefieldite
+wakefieldites
 wakeful
 wakefully
 wakefulness
@@ -474423,7 +474418,6 @@ wakers
 wakes
 waketime
 wakeup
-wakey
 wakf
 wakfs
 wakhi
