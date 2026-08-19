@@ -372567,7 +372567,6 @@ scytonematous
 scytopetalaceae
 scytopetalaceous
 scytopetalum
-sd
 sdain
 sdaine
 sdained
@@ -372577,8 +372576,6 @@ sdayn
 sdayned
 sdayning
 sdayns
-sdcard
-sdcards
 sdeath
 sdeign
 sdeigne
@@ -372594,7 +372591,6 @@ sdeining
 sdeins
 sdlc
 sdrucciola
-sds
 sdump
 se
 se'i
@@ -472614,6 +472610,7 @@ vizzied
 vizzieing
 vizzies
 vizzy
+vl
 vlaamperd
 vlaamperds
 vlach
@@ -483957,7 +483954,6 @@ yarners
 yarning
 yarns
 yarnwindle
-yaroslavl
 yarovization
 yarovize
 yarovized
