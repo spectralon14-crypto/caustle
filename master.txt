@@ -6397,7 +6397,6 @@ afars
 afatinib
 afawld
 afb
-afd
 afdecho
 afear
 afeard
@@ -26445,6 +26444,7 @@ asexualized
 asexualizing
 asexually
 asexuals
+asf
 asfast
 asfetida
 asg
@@ -67049,7 +67049,6 @@ cezannesque
 cezve
 cezves
 cf
-cfd
 cfh
 cfi
 cfm
@@ -162398,10 +162397,8 @@ gbaya
 gbe
 gc
 gcalekas
-gd
 gdansk
 gdinfo
-gds
 ge
 geadephaga
 geadephagous
@@ -214339,6 +214336,7 @@ kapeika
 kapelle
 kapellmeister
 kapellmeisters
+kapelusz
 kapeyka
 kaph
 kaphs
@@ -245504,7 +245502,6 @@ mezzotinto
 mezzotintos
 mezzotints
 mf
-mfd
 mfg
 mfr
 mgal
@@ -335060,7 +335057,6 @@ pseudozoea
 pseudozoogloeal
 pseudozoological
 pseuds
-psf
 psha
 pshav
 pshaw
@@ -378374,7 +378370,6 @@ sezes
 sezession
 sezzes
 sezzing
-sf
 sfeeha
 sfenj
 sferics
