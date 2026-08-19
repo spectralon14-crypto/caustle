@@ -13757,6 +13757,7 @@ amphoteric
 amphotericin
 amphrysian
 ampicillin
+ampicillin-sulbactams
 ampicillins
 amping
 ampitheater
@@ -79657,6 +79658,7 @@ cojuror
 cojusticiar
 coke
 coked
+coked-up
 cokehead
 cokeheads
 cokelike
@@ -164427,6 +164429,7 @@ ghastnesses
 ghasts
 ghat
 ghatam
+ghatams
 ghats
 ghatti
 ghatwal
@@ -218359,7 +218362,6 @@ kojiki
 kojima
 kojiri
 kojis
-kok
 kok-saghyz
 koka
 kokako
@@ -218373,6 +218375,7 @@ kokanees
 kokang
 kokas
 kokchetavite
+kokchetavites
 kokedama
 kokedamas
 koker
@@ -218384,7 +218387,6 @@ kokila
 kokio
 kokiri
 kokiris
-kokis
 koklas
 koklass
 koko
@@ -218395,9 +218397,9 @@ kokoon
 kokoona
 kokopu
 kokopus
-kokorec
 kokoromiko
 kokos
+kokotxas
 kokowai
 kokowais
 kokra
@@ -218406,6 +218408,7 @@ koksaghyz
 koksagyz
 kokstad
 koktaite
+koktaites
 koku
 kokuji
 kokum
@@ -218514,10 +218517,13 @@ kompromats
 komsomol
 komtok
 kon
+kona
 konak
 konaki
 konakis
 konariot
+konbini
+konbinis
 konbu
 konbus
 kond
@@ -218529,7 +218535,11 @@ konekes
 konfyt
 konfyts
 kong
+kongguksu
 konghou
+konghous
+kongnamul
+kongnamuls
 kongo
 kongoese
 kongolese
@@ -218543,6 +218553,7 @@ konilite
 konimeter
 konimeters
 koninckite
+koninckites
 konini
 koninis
 koniologies
@@ -218550,6 +218561,7 @@ koniology
 koniophobia
 koniscope
 koniscopes
+konjac
 konjacs
 konjak
 konk
@@ -218558,8 +218570,11 @@ konked
 konking
 konks
 konning
+konnyaku
 konohiki
 konomihu
+konpeito
+konpeitos
 konrad
 kons
 konseal
@@ -218567,6 +218582,9 @@ konstantin
 konstantinos
 kontakia
 kontakion
+konya
+konyaite
+konyaites
 konyak
 koodoo
 koodoos
@@ -312816,6 +312834,7 @@ piperaceae
 piperaceous
 piperacillin
 piperacillin-tazobactam
+piperacillin-tazobactams
 piperales
 piperate
 piperazin
@@ -316407,8 +316426,10 @@ plymouthist
 plymouthite
 plymouths
 plynlymmon
+plyo
 plyometric
 plyometrics
+plyos
 plyscore
 plywood
 plywoods
@@ -365975,6 +365996,7 @@ samoyedic
 samoyeds
 samp
 sampaguita
+sampaguitas
 sampaloc
 sampan
 sampans
@@ -365986,6 +366008,7 @@ sampires
 sampis
 sample
 sampled
+sampledelia
 sampleman
 samplemen
 sampler
@@ -365995,10 +366018,8 @@ samplery
 samples
 sampling
 samplings
-sampras
 samps
 sampsaean
-sampson
 sams
 samsa
 samsam
@@ -484628,7 +484649,6 @@ ylids
 ylike
 ylke
 ylkes
-ym
 ymca
 ymolt
 ymolten
