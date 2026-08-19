@@ -12010,15 +12010,11 @@ alwite
 alxasaurus
 alxasauruses
 aly
-alya
 alyawarr
+alyawarre
 alycompaine
 alycompaines
-alymphia
-alymphopotent
 alypin
-alypine
-alypum
 alysson
 alyssum
 alyssums
@@ -484653,6 +484649,7 @@ ympes
 ymping
 ympt
 ynambu
+ynambus
 ynamide
 ynamides
 ynamine
