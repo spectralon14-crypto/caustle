@@ -5,6 +5,7 @@
 'iwa
 'kay
 'nam
+'phags-pa
 'sblood
 'zounds
 -
@@ -73726,7 +73727,6 @@ cierge
 cierges
 cierzo
 cierzos
-cies
 cif
 cig
 cigala
@@ -128147,7 +128147,6 @@ eliad
 eliads
 elian
 elianic
-elians
 elias
 eliasite
 eliche
@@ -158018,10 +158017,7 @@ fukuoka
 ful
 fula
 fulah
-fulahs
 fulani
-fulanis
-fulas
 fulbright
 fulciform
 fulciment
@@ -233223,7 +233219,6 @@ lyte
 lyted
 lyterian
 lytes
-lytham
 lythe
 lythes
 lythraceae
@@ -233237,8 +233232,6 @@ lyting
 lytta
 lyttae
 lyttas
-lyttleton
-lytton
 lyxopyranose
 lyxopyranoses
 lyxose
@@ -279589,8 +279582,6 @@ ogygian
 oh
 oh-oh
 oh-so
-ohagi
-ohagis
 ohare
 ohed
 ohelo
@@ -279602,7 +279593,6 @@ ohing
 ohio
 ohioan
 ohioans
-ohios
 ohm
 ohmage
 ohmages
@@ -279611,11 +279601,8 @@ ohmically
 ohmmeter
 ohmmeters
 ohms
-ohne
 oho
 ohone
-ohones
-ohos
 ohoy
 ohs
 ohv
@@ -361923,7 +361910,6 @@ roturier
 roturiers
 rouault
 roub
-roubaix
 rouble
 roubles
 roubouh
@@ -418143,6 +418129,7 @@ tarentala
 tarente
 tarentine
 tarentism
+tarentisms
 tarentola
 tarepatch
 tareq
@@ -427817,7 +427804,6 @@ tinerer
 tines
 tinetare
 tinety
-tinewald
 tineweed
 tinfoil
 tinfoils
@@ -441010,13 +440996,13 @@ uh-oh
 uh-uh
 uhadi
 uhadis
+uhh
 uhhh
 uhlan
 uhlans
 uhllo
 uhm
 uhs
-uht
 uhtensang
 uhtsong
 uhuru
@@ -441078,15 +441064,7 @@ ukranian
 ukranians
 ukulele
 ukuleles
-ula
-ulam
-ulama
-ulamas
-ulan
-ulans
-ulatrophia
-ulatrophy
-ulaula
+ulaanbaatar
 ulcer
 ulcerable
 ulcerate
@@ -466111,7 +466089,6 @@ ushabtiu
 ushak
 ushanka
 ushankas
-ushant
 ushas
 usheen
 usher
@@ -467013,6 +466990,7 @@ vajra
 vajra-mushti
 vajrasana
 vajrasanas
+vajrayana
 vakas
 vakases
 vakass
