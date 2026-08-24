@@ -9,7 +9,6 @@
 'tis
 'twas
 -
-@delete-prefic
 a
 a-begging
 a-bomb
