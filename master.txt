@@ -209689,7 +209689,6 @@ izzards
 izzat
 izzats
 izzy
-iʼd
 j-aggregate
 j-aggregated
 j-aggregates
@@ -429808,7 +429807,6 @@ tonalite
 tonalite-trondhjemite-granodiorite
 tonalite-trondhjemite-granodiorites
 tonalites
-tonalite—trondhjemite-granodiorites
 tonalitic
 tonalities
 tonalitive
@@ -487733,5 +487731,3 @@ zyzzyva
 zyzzyvas
 zzz
 zzzs
-ауу
-соссух
