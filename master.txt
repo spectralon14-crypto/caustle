@@ -251755,9 +251755,11 @@ mmo
 mmorpg
 mna
 mnas
+mnem
 mneme
 mnemes
 mnemic
+mnemiopsis
 mnemon
 mnemonic
 mnemonical
