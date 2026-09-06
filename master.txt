@@ -31080,6 +31080,7 @@ aviatrices
 aviatrix
 aviatrixes
 aviatyrannis
+avibactam
 avicennia
 avicenniaceae
 avicennism
@@ -409015,6 +409016,7 @@ sulaba
 sulafat
 sulaib
 sulaimanisaurus
+sulbactam
 sulbasutra
 sulcal
 sulcalise
@@ -467475,6 +467477,7 @@ vaal
 vaalite
 vaalpens
 vaasa
+vaborbactam
 vac
 vacabond
 vacance
