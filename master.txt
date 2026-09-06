@@ -28052,6 +28052,8 @@ asystolism
 asystolisms
 asyzygetic
 at
+at-bat
+at-bats
 at-home
 at-homeness
 at-homenesses
