@@ -128824,6 +128824,8 @@ ely
 elychnious
 elydoric
 elymi
+elymoclavine
+elymoclavines
 elymus
 elysee
 elysees
@@ -128839,6 +128841,7 @@ elytral
 elytriferous
 elytriform
 elytrigerous
+elytrigia
 elytrin
 elytrocele
 elytroclasia
@@ -209935,6 +209938,8 @@ ixtle
 ixtles
 iyar
 iyashikei
+iykwim
+iykyk
 iyo
 iyokan
 iyokans
@@ -216640,6 +216645,9 @@ kiabooca
 kiack
 kiacks
 kiai
+kiaki
+kialee
+kialkee
 kiang
 kiangan
 kiangs
@@ -252164,6 +252172,7 @@ mizzly
 mizzonite
 mizzonites
 mizzy
+mjolnir
 mkates
 mkhedruli
 mktg
@@ -484708,6 +484717,7 @@ ximelagatran
 ximenia
 ximmer
 xina
+xinafoates
 xinca
 xing
 xingshu
