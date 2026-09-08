@@ -10,6 +10,7 @@
 'twas
 -
 1gbtq
+1hd
 a
 a-begging
 a-bomb
@@ -10203,6 +10204,7 @@ alisanders
 aliseptal
 alisertib
 alish
+aliskiren
 alisma
 alismaceous
 alismas
@@ -124401,6 +124403,7 @@ dyvour
 dyvouries
 dyvours
 dyvoury
+dzala
 dzeren
 dzerens
 dzerin
@@ -169089,9 +169092,11 @@ gor
 gora
 goracco
 goral
+goralog
 gorals
 goramies
 goramy
+goran
 goras
 gorb
 gorbachev
@@ -169132,19 +169137,6 @@ gordonia
 gordons
 gordunite
 gordyaean
-gore
-gorebill
-gorecki
-gored
-gorefest
-gorefests
-gorefish
-goregrind
-gorehound
-gorehounds
-gorer
-gores
-gorevan
 gorfly
 gorge
 gorgeable
@@ -174178,11 +174170,18 @@ guzzlers
 guzzles
 guzzling
 gv
+gwag
 gwalior
+gwangbokjeol
+gwantus
 gweduc
 gweduck
 gweducks
 gweducs
+gweed
+gweeon
+gwely
+gwen
 gwendolen
 gwendolyn
 gwent
@@ -174191,6 +174190,7 @@ gwich'in
 gwine
 gwiniad
 gwiniads
+gwiyagal
 gwlad
 gws
 gwyddbwyll
@@ -182333,6 +182333,8 @@ heryes
 herying
 herzegovinian
 herzegovinians
+herzenbergite
+herzenbergites
 hes
 heseltine
 heshvan
@@ -184929,6 +184931,7 @@ hlithskjalf
 hlonipha
 hlorrithi
 hlubi
+hlubis
 hm
 hmm
 hmmm
@@ -217324,6 +217327,7 @@ king-of-the-salmon
 king-of-the-salmons
 king-size
 king-sized
+kinga
 kingbird
 kingbirds
 kingbolt
@@ -339943,6 +339947,7 @@ qabalistic
 qabalists
 qabbala
 qabbalah
+qabili
 qadarite
 qadarites
 qaddafi
@@ -340037,6 +340042,7 @@ qibla
 qiblah
 qiblahs
 qiblas
+qid
 qidreh
 qigong
 qigongs
@@ -340096,6 +340102,7 @@ qophs
 qorma
 qormah
 qormas
+qotd
 qp
 qpac
 qptr
@@ -342540,6 +342547,7 @@ quott
 quotum
 quotums
 ququart
+qur'an
 qur'anic
 qur'ans
 quran
@@ -344301,6 +344309,7 @@ ramuliferous
 ramulose
 ramulous
 ramulus
+ramune
 ramus
 ramuscule
 ramusi
@@ -487790,6 +487799,7 @@ zlotych
 zlotys
 zman
 zmanim
+zmudz
 zn
 zo
 zoa
