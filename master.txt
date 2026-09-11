@@ -370,8 +370,6 @@ abdominocardiac
 abdominocentesis
 abdominocystic
 abdominogenital
-abdominohysterectomy
-abdominohysterotomy
 abdominoplasty
 abdominoposterior
 abdominoscope
@@ -2475,7 +2473,6 @@ acescents
 acesodyne
 acespec
 acestes
-acesulfame
 aceta
 acetable
 acetabula
@@ -4458,7 +4455,6 @@ adenauer
 adendric
 adendritic
 adenectomies
-adenectomy
 adenectopia
 adenectopic
 adenemphractic
@@ -4505,7 +4501,6 @@ adenohypophysis
 adenoid
 adenoidal
 adenoidectomies
-adenoidectomy
 adenoidism
 adenoiditis
 adenoids
@@ -4559,7 +4554,6 @@ adenostemonous
 adenostoma
 adenotome
 adenotomic
-adenotomy
 adenotyphoid
 adenotyphus
 adenous
@@ -5258,7 +5252,6 @@ adrenalectomies
 adrenalectomize
 adrenalectomized
 adrenalectomizing
-adrenalectomy
 adrenalin
 adrenaline
 adrenalines
@@ -6209,7 +6202,6 @@ aeroplanist
 aeroplankton
 aeroplanktons
 aeropleustic
-aeroporotomy
 aeropulse
 aeropulses
 aeros
@@ -12007,7 +11999,6 @@ alveolated
 alveolation
 alveolations
 alveole
-alveolectomy
 alveoles
 alveoli
 alveoliform
@@ -12022,7 +12013,6 @@ alveololabial
 alveololingual
 alveolonasal
 alveolosubnasal
-alveolotomy
 alveolus
 alveus
 alvia
@@ -12966,36 +12956,44 @@ amiloun
 amimia
 amimide
 amin
+aminal
+aminals
 aminase
 aminate
 aminated
+aminates
 aminating
 amination
+aminations
 aminded
 amine
 amines
-amini
 aminic
-aminish
 aminities
 aminity
-aminization
-aminize
 amino
+amino-terminal
+amino-terminals
 aminoacetal
 aminoacetanilide
+aminoacetanilides
 aminoacetic
 aminoacetone
-aminoacetophenetidine
+aminoacetones
 aminoacetophenone
+aminoacetophenones
+aminoacidaemia
+aminoacidaemias
 aminoacidemia
+aminoacidemias
 aminoaciduria
 aminoacidurias
+aminoacylation
+aminoacylations
 aminoanthraquinone
-aminoazo
+aminoanthraquinones
 aminoazobenzene
-aminobarbituric
-aminobenzaldehyde
+aminoazobenzenes
 aminobenzamide
 aminobenzene
 aminobenzine
@@ -13003,20 +13001,23 @@ aminobenzoic
 aminobutene
 aminobutenes
 aminocaproic
-aminodiphenyl
-aminoethionic
-aminoformic
-aminogen
+aminocyclopyrachlor
+aminocyclopyrachlors
+aminoethoxyvinylglycine
+aminoethoxyvinylglycines
 aminoglutaric
+aminoglutethimide
 aminoguanidine
-aminoid
 aminoketone
-aminolipin
+aminolevulinate
+aminolevulinic
 aminolysis
 aminolytic
-aminomalonic
+aminomethylated
+aminomethylation
+aminomethylations
 aminomethyltransferase
-aminomyelin
+aminomethyltransferases
 aminopeptidase
 aminopeptidases
 aminophenazone
@@ -13030,30 +13031,27 @@ aminoplast
 aminoplastic
 aminopolypeptidase
 aminopropionic
+aminopropyltriethoxysilane
+aminopropyltriethoxysilanes
 aminopterin
 aminopterins
 aminopurine
 aminopyrine
 aminopyrines
-aminoquin
 aminoquinoline
 aminos
-aminosalicylic
-aminosis
-aminosuccinamic
-aminosulphonic
-aminothiophen
+aminoterminal
+aminoterminals
+aminotetrazoles
 aminotoluene
 aminotoluenes
 aminotransaminase
+aminotransaminases
 aminotransferase
 aminotransferases
 aminotriazole
-aminovaleric
-aminoxylol
 amins
 aminta
-amintor
 amiodarone
 amioidei
 amir
@@ -13268,7 +13266,6 @@ amniotin
 amniotitis
 amniotome
 amniotomies
-amniotomy
 amnt
 amobarbital
 amobarbitals
@@ -13987,7 +13984,6 @@ amygdalas
 amygdalase
 amygdalate
 amygdale
-amygdalectomy
 amygdales
 amygdalic
 amygdaliferous
@@ -13999,7 +13995,6 @@ amygdalins
 amygdalitis
 amygdalohippocampal
 amygdalohippocampectomies
-amygdalohippocampectomy
 amygdaloid
 amygdaloidal
 amygdaloids
@@ -14008,7 +14003,6 @@ amygdaloncus
 amygdalopathy
 amygdalothripsis
 amygdalotome
-amygdalotomy
 amygdals
 amygdalus
 amygdonitrile
@@ -14894,7 +14888,6 @@ anatomizes
 anatomizing
 anatomopathologic
 anatomopathological
-anatomy
 anatopism
 anatosaurus
 anatotitan
@@ -15174,7 +15167,6 @@ andover
 andradite
 andradites
 andragogy
-andranatomy
 andrarchy
 andre
 andrea
@@ -15282,7 +15274,6 @@ androsporangium
 androspore
 androsterone
 androsterones
-androtomy
 ands
 anduoite
 anduoites
@@ -15664,7 +15655,6 @@ angiographies
 angiography
 angiohemophilia
 angiohyalinosis
-angiohydrotomy
 angiohypertonia
 angiohypotonia
 angioid
@@ -15735,7 +15725,6 @@ angiosteosis
 angiostomatous
 angiostomize
 angiostomous
-angiostomy
 angiostrophy
 angiotasis
 angiotelectasia
@@ -15745,7 +15734,6 @@ angiotensinase
 angiotensins
 angiothlipsis
 angiotome
-angiotomy
 angiotonic
 angiotonin
 angiotribe
@@ -17854,7 +17842,6 @@ anthropotheistic
 anthropotomical
 anthropotomies
 anthropotomist
-anthropotomy
 anthropotoxin
 anthropozoic
 anthropurgic
@@ -20829,7 +20816,6 @@ antra
 antral
 antralgia
 antre
-antrectomy
 antres
 antrim
 antrin
@@ -20845,7 +20831,6 @@ antroscope
 antroscopy
 antrostomus
 antrotome
-antrotomy
 antrotympanic
 antrotympanitis
 antroversion
@@ -20990,7 +20975,6 @@ aortoptosis
 aortorrhaphy
 aortosclerosis
 aortostenosis
-aortotomy
 aorun
 aosmic
 aotea
@@ -21104,7 +21088,6 @@ apaying
 apays
 ape
 apeak
-apectomy
 aped
 apedom
 apedoms
@@ -21405,7 +21388,6 @@ apicitis
 apickaback
 apickback
 apickpack
-apicoectomy
 apicolysis
 apicula
 apicular
@@ -21513,7 +21495,6 @@ aplopappus
 aploperistomatous
 aplostemonous
 aplotaxene
-aplotomy
 apluda
 aplustra
 aplustre
@@ -21781,7 +21762,6 @@ aponeurosis
 aponeurositis
 aponeurotic
 aponeurotome
-aponeurotomy
 aponia
 aponic
 aponogeton
@@ -22202,7 +22182,6 @@ appendancy
 appendant
 appendants
 appendectomies
-appendectomy
 appended
 appendence
 appendency
@@ -22217,7 +22196,6 @@ appendice
 appendiceal
 appendicectasis
 appendicectomies
-appendicectomy
 appendices
 appendicial
 appendicious
@@ -22227,8 +22205,7 @@ appendicitis
 appendicitises
 appendicle
 appendicles
-appendicocaecostomy
-appendicostomy
+appendicovesicostomy
 appendicular
 appendicularia
 appendicularian
@@ -25708,7 +25685,6 @@ arteriarctia
 arteriasis
 arteriectasia
 arteriectasis
-arteriectomy
 arteriectopia
 arteried
 arteries
@@ -25739,7 +25715,6 @@ arteriomotor
 arterionecrosis
 arteriopalmus
 arteriopathy
-arteriophlebotomy
 arterioplania
 arterioplasty
 arteriopressor
@@ -25755,10 +25730,8 @@ arteriospasm
 arteriostenosis
 arteriostosis
 arteriostrepsis
-arteriosympathectomy
 arteriotome
 arteriotomies
-arteriotomy
 arteriotrepsis
 arterious
 arteriovenous
@@ -25793,7 +25766,6 @@ arthralgia
 arthralgias
 arthralgic
 arthrectomies
-arthrectomy
 arthredema
 arthrempyesis
 arthresthesia
@@ -25892,13 +25864,11 @@ arthrosporous
 arthrosteitis
 arthrosterigma
 arthrostome
-arthrostomy
 arthrostraca
 arthrosynovitis
 arthrosyrinx
 arthrotome
 arthrotomies
-arthrotomy
 arthrotrauma
 arthrotropic
 arthrotyphoid
@@ -27712,7 +27682,6 @@ astraeid
 astraeiform
 astragal
 astragalar
-astragalectomy
 astragali
 astragalocalcaneal
 astragalocentral
@@ -28534,7 +28503,6 @@ atomizes
 atomizing
 atomology
 atoms
-atomy
 atonable
 atonal
 atonalism
@@ -28950,7 +28918,6 @@ attometer
 attometers
 attometre
 attometres
-attomy
 attonce
 attone
 attoned
@@ -29982,7 +29949,6 @@ autoceptive
 autochanger
 autochangers
 autochemical
-autocholecystectomy
 autochrome
 autochromy
 autochronograph
@@ -30401,7 +30367,6 @@ automysophobia
 autonavigator
 autonavigators
 autonegation
-autonephrectomy
 autonephrotoxin
 autonetics
 autoneurotoxin
@@ -30668,7 +30633,6 @@ autotomized
 autotomizes
 autotomizing
 autotomous
-autotomy
 autotoxaemia
 autotoxaemias
 autotoxemia
@@ -35111,7 +35075,10 @@ baobabs
 baobing
 baos
 baotau
+baotite
+baotites
 baozi
+baozis
 bap
 baphia
 baphomet
@@ -37442,7 +37409,6 @@ bbs
 bc
 bcuz
 bday
-bdellatomy
 bdellid
 bdellidae
 bdellium
@@ -37453,7 +37419,6 @@ bdellometer
 bdellostoma
 bdellostomatidae
 bdellostomidae
-bdellotomy
 bdelloura
 bdellouridae
 bdellovibrio
@@ -38233,6 +38198,7 @@ bedaggle
 bedaggled
 bedaggles
 bedaggling
+bedah
 bedamn
 bedamned
 bedamning
@@ -40930,6 +40896,7 @@ beriberis
 beribers
 beride
 berigora
+Berikut
 berimbau
 berimbaus
 berime
@@ -44340,7 +44307,6 @@ biotite
 biotites
 biotitic
 biotome
-biotomy
 biotope
 biotopes
 biotoxin
@@ -46297,13 +46263,11 @@ blepharorrhaphy
 blepharospasm
 blepharospasms
 blepharospath
-blepharosphincterectomy
 blepharostat
 blepharostenosis
 blepharosymphysis
 blepharosyndesmitis
 blepharosynechia
-blepharotomy
 blepharydatis
 blephillia
 blepped
@@ -50868,7 +50832,6 @@ brachiosaur
 brachiosaurus
 brachiosauruses
 brachiostrophosis
-brachiotomy
 brachistocephali
 brachistocephalic
 brachistocephalous
@@ -53536,11 +53499,9 @@ bronchospasms
 bronchospastic
 bronchostenosis
 bronchostomies
-bronchostomy
 bronchotetany
 bronchotome
 bronchotomist
-bronchotomy
 bronchotracheal
 bronchotyphoid
 bronchotyphus
@@ -56106,7 +56067,6 @@ burschen
 burschenism
 burschenschaft
 burse
-bursectomy
 burseed
 burseeds
 bursera
@@ -57770,7 +57730,6 @@ cadying
 caeca
 caecal
 caecally
-caecectomy
 caecias
 caeciform
 caecilia
@@ -57782,8 +57741,6 @@ caecitis
 caecitises
 caecity
 caecocolic
-caecostomy
-caecotomy
 caecum
 caedmon
 caedmonian
@@ -57837,7 +57794,6 @@ caesaropapism
 caesaropapisms
 caesaropapist
 caesaropopism
-caesarotomy
 caesars
 caesarship
 caese
@@ -60529,7 +60485,6 @@ canthaxanthin
 canthaxanthine
 canthaxanthines
 canthaxanthins
-canthectomy
 canthi
 canthic
 canthitis
@@ -60539,7 +60494,6 @@ canthook
 canthooks
 canthoplasty
 canthorrhaphy
-canthotomy
 canthus
 canthuthi
 cantic
@@ -61223,7 +61177,6 @@ capsulated
 capsulation
 capsulations
 capsule
-capsulectomy
 capsuled
 capsuler
 capsules
@@ -61246,7 +61199,6 @@ capsulolenticular
 capsulopupillary
 capsulorrhaphy
 capsulotome
-capsulotomy
 capsumin
 capt
 captacula
@@ -61976,7 +61928,6 @@ cardias
 cardiasthenia
 cardiasthma
 cardiataxia
-cardiatomy
 cardiatrophia
 cardiauxe
 cardiazol
@@ -61984,7 +61935,6 @@ cardicentesis
 cardie
 cardiectasis
 cardiectomize
-cardiectomy
 cardielcosis
 cardiemphraxia
 cardies
@@ -62116,7 +62066,6 @@ cardiosymphysis
 cardiotherapies
 cardiotherapy
 cardiothoracic
-cardiotomy
 cardiotonic
 cardiotonics
 cardiotoxic
@@ -65348,8 +65297,6 @@ cecograph
 cecomorphae
 cecomorphic
 cecopexy
-cecostomy
-cecotomy
 cecropia
 cecropias
 cecropin
@@ -65566,36 +65513,25 @@ celibatory
 celidographer
 celidography
 celiectasia
-celiectomy
 celiemia
 celiitis
 celiocele
 celiocentesis
-celiocolpotomy
 celiocyesis
 celiodynia
-celioelytrotomy
-celioenterotomy
-celiogastrotomy
-celiohysterotomy
 celiolymph
 celiomyalgia
 celiomyodynia
-celiomyomectomy
-celiomyomotomy
 celiomyositis
 celioncus
 celioparacentesis
 celiopyosis
 celiorrhaphy
 celiorrhea
-celiosalpingectomy
-celiosalpingotomy
 celioschisis
 celioscope
 celioscopy
 celiotomies
-celiotomy
 celite
 cell
 cell-mediated
@@ -65721,7 +65657,6 @@ celosias
 celotex
 celotexes
 celotomies
-celotomy
 cels
 celsia
 celsian
@@ -66413,7 +66348,6 @@ cephalothorax
 cephalothoraxes
 cephalotome
 cephalotomies
-cephalotomy
 cephalotractor
 cephalotribe
 cephalotripsy
@@ -66473,7 +66407,6 @@ cerasus
 cerat
 cerata
 cerate
-ceratectomy
 cerated
 cerates
 ceratiasis
@@ -66679,7 +66612,6 @@ cerebrosis
 cerebrospinal
 cerebrospinant
 cerebrosuria
-cerebrotomy
 cerebrotonia
 cerebrotonias
 cerebrotonic
@@ -66913,7 +66845,6 @@ cervezas
 cervical
 cervicapra
 cervicaprine
-cervicectomy
 cervices
 cervicicardiac
 cervicide
@@ -69410,7 +69341,6 @@ cheiloplasty
 cheilostomata
 cheilostomatous
 cheilotomies
-cheilotomy
 cheimaphobia
 cheimatophobia
 cheir
@@ -69649,7 +69579,6 @@ chemonasties
 chemonasty
 chemonite
 chemopallidectomies
-chemopallidectomy
 chemopause
 chemophysiological
 chemophysiology
@@ -70579,7 +70508,6 @@ chilostomata
 chilostomatous
 chilostome
 chilotomies
-chilotomy
 chilte
 chiltepin
 chiltepins
@@ -71780,6 +71708,7 @@ cholangiographic
 cholangiographies
 cholangiography
 cholangioitis
+cholangiojejunostomy
 cholangiopancreatographic
 cholangiopancreatographically
 cholangiopancreatographies
@@ -71803,52 +71732,35 @@ cholecystalgia
 cholecystectasia
 cholecystectomies
 cholecystectomized
-cholecystectomy
 cholecystenterorrhaphy
-cholecystenterostomy
-cholecystgastrostomy
 cholecystic
 cholecystis
 cholecystites
 cholecystitides
 cholecystitis
 cholecystitises
-cholecystnephrostomy
-cholecystocolostomy
-cholecystocolotomy
 cholecystoduodenostomies
-cholecystoduodenostomy
-cholecystogastrostomy
 cholecystogram
 cholecystography
-cholecystoileostomy
 cholecystojejunostomies
-cholecystojejunostomy
 cholecystokinin
 cholecystokinins
 cholecystolithiasis
 cholecystolithotripsy
-cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomies
-cholecystostomy
 cholecystotomies
-cholecystotomy
 cholecysts
 choledoch
 choledochal
-choledochectomy
 choledochitis
 choledochocholedochostomies
-choledochocholedochostomy
 choledochoduodenostomies
-choledochoduodenostomy
 choledochoenterostomies
-choledochoenterostomy
 choledochojejunostomies
+choledochojejunostomy
 choledocholithiasis
-choledocholithotomy
 choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
@@ -71858,9 +71770,7 @@ choledochoscopic
 choledochoscopies
 choledochoscopy
 choledochostomies
-choledochostomy
 choledochotomies
-choledochotomy
 choledography
 cholee
 cholehematin
@@ -71871,7 +71781,6 @@ cholelith
 cholelithiases
 cholelithiasis
 cholelithic
-cholelithotomy
 cholelithotripsy
 cholelithotrity
 choleliths
@@ -71992,7 +71901,6 @@ chondral
 chondralgia
 chondrarsenite
 chondre
-chondrectomy
 chondrenchyma
 chondres
 chondri
@@ -72114,7 +72022,6 @@ chondrosternal
 chondrostian
 chondrostians
 chondrotome
-chondrotomy
 chondroxiphoid
 chondrule
 chondrules
@@ -72256,7 +72163,6 @@ chordophone
 chordophones
 chordophonic
 chordotomies
-chordotomy
 chordotonal
 chords
 chordwise
@@ -73879,7 +73785,6 @@ ciguatoxins
 cilantro
 cilantros
 cilazapril
-cilectomy
 cilery
 cilgavimab
 cilia
@@ -73896,7 +73801,6 @@ cilices
 cilician
 cilicious
 cilicism
-ciliectomy
 ciliella
 ciliferous
 ciliform
@@ -73913,7 +73817,6 @@ ciliophora
 cilioretinal
 cilioscleral
 ciliospinal
-ciliotomy
 cilium
 cill
 cillosis
@@ -74141,7 +74044,6 @@ cingular
 cingulate
 cingulated
 cingulectomies
-cingulectomy
 cingulum
 ciniphes
 cinna
@@ -74205,14 +74107,12 @@ cinuran
 cinurous
 cinzano
 cion
-cionectomy
 cionitis
 cionocranial
 cionocranian
 cionoptosis
 cionorrhaphia
 cionotome
-cionotomy
 cions
 cioppino
 cioppinos
@@ -74723,7 +74623,6 @@ cirrous
 cirrus
 cirruses
 cirsectomies
-cirsectomy
 cirsium
 cirsocele
 cirsoid
@@ -74731,7 +74630,6 @@ cirsomphalos
 cirsophthalmia
 cirsotome
 cirsotomies
-cirsotomy
 cirterion
 ciruela
 cirurgian
@@ -75820,7 +75718,6 @@ clavicornate
 clavicornes
 clavicornia
 clavicorns
-clavicotomy
 clavicula
 claviculae
 clavicular
@@ -76085,7 +75982,6 @@ cleidomastoid
 cleidorrhexis
 cleidoscapular
 cleidosternal
-cleidotomy
 cleidotripsy
 cleik
 cleiks
@@ -76682,16 +76578,13 @@ clition
 clitocybe
 clitoral
 clitorectomies
-clitorectomy
 clitoria
 clitoric
 clitoridauxe
 clitoridean
 clitoridectomies
-clitoridectomy
 clitorides
 clitoriditis
-clitoridotomy
 clitoris
 clitorises
 clitorism
@@ -77496,8 +77389,6 @@ cnidopod
 cnidosac
 cnidoscolus
 cnidosis
-cnm
-cnut
 co
 co-driven
 co-occur
@@ -78229,7 +78120,6 @@ coccydynia
 coccygalgia
 coccygeal
 coccygean
-coccygectomy
 coccygei
 coccygerector
 coccyges
@@ -78240,7 +78130,6 @@ coccygodynia
 coccygomorph
 coccygomorphae
 coccygomorphic
-coccygotomy
 coccyodynia
 coccyx
 coccyxes
@@ -78926,7 +78815,6 @@ coeliorrhea
 coeliorrhoea
 coelioscopies
 coelioscopy
-coeliotomy
 coeloblastic
 coeloblastula
 coelococcus
@@ -79900,7 +79788,6 @@ coleads
 colecalciferol
 colecannon
 colectomies
-colectomy
 coled
 coleen
 colegatee
@@ -80621,7 +80508,6 @@ colonus
 colony
 colonys
 colopexia
-colopexotomy
 colopexy
 colophan
 colophane
@@ -80685,7 +80571,6 @@ colorcasting
 colorcasts
 colorectal
 colorectitis
-colorectostomy
 colored
 coloreds
 colorer
@@ -80775,7 +80660,6 @@ colossus
 colossuses
 colossuswise
 colostomies
-colostomy
 colostral
 colostration
 colostric
@@ -80783,7 +80667,6 @@ colostrous
 colostrum
 colostrums
 colotomies
-colotomy
 colotyphoid
 colour
 colourabilities
@@ -80876,7 +80759,6 @@ colpocystodefaecographies
 colpocystodefaecography
 colpocystodefecographies
 colpohyperplasia
-colpohysterotomy
 colpoperineoplasty
 colpoperineorrhaphies
 colpoperineorrhaphy
@@ -80901,7 +80783,6 @@ colposcopies
 colposcopy
 colpostat
 colpotomies
-colpotomy
 colpus
 cols
 colstaff
@@ -81689,7 +81570,6 @@ commissural
 commissure
 commissures
 commissurotomies
-commissurotomy
 commistion
 commit
 commitment
@@ -83756,7 +83636,6 @@ condylarthra
 condylarthrosis
 condylarthrous
 condyle
-condylectomy
 condyles
 condylion
 condyloid
@@ -83769,7 +83648,6 @@ condylopod
 condylopoda
 condylopodous
 condylos
-condylotomy
 condylura
 condylure
 cone
@@ -87826,7 +87704,6 @@ cordately
 cordax
 cordeau
 cordectomies
-cordectomy
 corded
 cordel
 cordelia
@@ -87898,7 +87775,6 @@ cordonnet
 cordonnets
 cordons
 cordotomies
-cordotomy
 cordova
 cordovan
 cordovans
@@ -87931,7 +87807,6 @@ corecipient
 corecipients
 coreciprocal
 corectome
-corectomy
 corector
 cored
 coredeem
@@ -88012,7 +87887,6 @@ corespect
 corespondency
 corespondent
 corespondents
-coretomy
 coreveler
 coreveller
 corevolve
@@ -88520,7 +88394,6 @@ corotates
 corotating
 corotation
 corotations
-corotomy
 coroun
 coroutine
 coroutines
@@ -89473,7 +89346,6 @@ costeaning
 costeanings
 costeans
 costectomies
-costectomy
 costed
 costeen
 costellate
@@ -89531,10 +89403,10 @@ costosuperior
 costothoracic
 costotome
 costotomies
-costotomy
 costotrachelian
 costotransversal
 costotransverse
+costotransversectomy
 costovertebral
 costoxiphoid
 costraight
@@ -92068,7 +91940,6 @@ craniate
 craniates
 cranic
 craniectomies
-craniectomy
 craning
 craninia
 craniniums
@@ -92131,7 +92002,6 @@ craniota
 craniotabes
 craniotome
 craniotomies
-craniotomy
 craniotopography
 craniotympanic
 craniovertebral
@@ -93205,15 +93075,11 @@ cricoarytenoid
 cricohyoidoepiglottopexies
 cricohyoidoepiglottopexy
 cricoid
-cricoidectomy
 cricoids
 cricopharyngeal
 cricothyreoid
-cricothyreotomy
 cricothyroid
 cricothyroidean
-cricotomy
-cricotracheotomy
 cricotus
 criddle
 cried
@@ -94850,6 +94716,7 @@ cryotherapies
 cryotherapy
 cryotron
 cryotrons
+cryoultramicrotomy
 crypses
 crypsis
 crypt
@@ -95173,9 +95040,6 @@ csect
 csects
 csmp
 csnet
-ct
-cte
-ctelette
 ctenacanthus
 ctene
 ctenes
@@ -95197,6 +95061,7 @@ ctenoid
 ctenoidean
 ctenoidei
 ctenoidian
+ctenoids
 ctenolium
 ctenophora
 ctenophoral
@@ -95210,17 +95075,10 @@ ctenoplana
 ctenostomata
 ctenostomatous
 ctenostome
-ctesiphon
 ctetology
-ctf
-ctg
 ctge
 ctimo
-ctn
-cto
-ctr
 ctrl
-cts
 cu
 cuadra
 cuadrilla
@@ -97669,7 +97527,6 @@ cyclothymics
 cyclotome
 cyclotomic
 cyclotomies
-cyclotomy
 cyclotosaurus
 cyclotrimethylenetrinitramine
 cyclotrimethylenetrinitramines
@@ -98077,7 +97934,6 @@ cysteamines
 cystectasia
 cystectasy
 cystectomies
-cystectomy
 cysted
 cystein
 cysteine
@@ -98138,7 +97994,6 @@ cystocarpic
 cystocarps
 cystocele
 cystoceles
-cystocolostomy
 cystocyte
 cystodynia
 cystoelytroplasty
@@ -98158,7 +98013,6 @@ cystoidea
 cystoidean
 cystoids
 cystolith
-cystolithectomy
 cystolithiases
 cystolithiasis
 cystolithic
@@ -98182,7 +98036,7 @@ cystophotography
 cystophthisis
 cystoplasty
 cystoplegia
-cystoproctostomy
+cystoprostatectomy
 cystopteris
 cystoptosis
 cystopus
@@ -98205,12 +98059,9 @@ cystospasm
 cystospastic
 cystospore
 cystostomies
-cystostomy
 cystosyrinx
 cystotome
 cystotomies
-cystotomy
-cystotrachelotomy
 cystoureteritis
 cystourethritis
 cystourethrography
@@ -98684,15 +98535,13 @@ dacryoblenorrhea
 dacryocele
 dacryocyst
 dacryocystalgia
+dacryocystectomy
 dacryocystitis
 dacryocystoblennorrhea
 dacryocystocele
 dacryocystoptosis
 dacryocystorhinostomies
-dacryocystorhinostomy
-dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohelcosis
 dacryohemorrhea
 dacryolin
@@ -103177,7 +103026,6 @@ deference
 deferences
 deferens
 deferent
-deferentectomy
 deferentia
 deferential
 deferentiality
@@ -107234,7 +107082,6 @@ dermatosis
 dermatoskeleton
 dermatotherapy
 dermatotome
-dermatotomy
 dermatotropic
 dermatoxerasia
 dermatozoon
@@ -107271,7 +107118,6 @@ dermohemia
 dermohumeral
 dermoid
 dermoidal
-dermoidectomy
 dermoids
 dermol
 dermolysis
@@ -107922,7 +107768,6 @@ desmosomal
 desmosome
 desmosomes
 desmothoraca
-desmotomy
 desmotrope
 desmotropic
 desmotropism
@@ -110636,7 +110481,6 @@ dichotomous
 dichotomously
 dichotomousness
 dichotomousnesses
-dichotomy
 dichotriaene
 dichroic
 dichroiscope
@@ -111683,14 +111527,19 @@ dihydroxytoluene
 dihysteria
 diiamb
 diiambus
+diimidazole
+diimide
+diimides
 diimine
 diimines
 diindenoperylene
 diindenoperylenes
+diiodid
 diiodide
 diiodides
 diiodine
 diiodines
+diiodo
 diiodoform
 diiodohydroxyquin
 diiodohydroxyquinoline
@@ -111700,10 +111549,15 @@ diiodomethane
 diiodomethanes
 diiodotyrosine
 diiodotyrosines
+diipenates
+diipolia
 diiridium
 diiridiums
 diiron
 diirons
+diisatogen
+diisobutylcarbamoylmethylphosphine
+diisobutylcarbamoylmethylphosphines
 diisocyanate
 diisocyanates
 diisopropanolamine
@@ -111715,6 +111569,8 @@ diisopropylamide
 diisopropylamides
 diisopropylamine
 diisopropylamines
+diisopropylfluorophosphate
+diisopropylfluorophosphates
 diisopropylphosphorofluoridate
 diisopropylphosphorofluoridates
 diisopropyls
@@ -113043,6 +112899,7 @@ dirac
 diradiation
 diram
 dirams
+dirapikan
 dirca
 dircaean
 dird
@@ -113470,6 +113327,7 @@ disapprovingly
 disaproned
 disarchbishop
 disard
+disaring
 disarm
 disarmament
 disarmaments
@@ -123414,22 +123272,14 @@ duodenate
 duodenation
 duodene
 duodenectomies
-duodenectomy
 duodenitis
 duodenitises
 duodenocholangitis
-duodenocholecystostomy
-duodenocholedochotomy
-duodenocystostomy
-duodenoenterostomy
+duodenoduodenoctomy
 duodenogram
 duodenojejunal
 duodenojejunostomies
-duodenojejunostomy
-duodenopancreatectomy
 duodenoscopy
-duodenostomy
-duodenotomy
 duodenum
 duodenums
 duodial
@@ -126133,7 +125983,6 @@ edeodynia
 edeology
 edeomania
 edeoscopy
-edeotomy
 edessan
 edestan
 edestin
@@ -128855,7 +128704,6 @@ elytrorhagia
 elytrorrhagia
 elytrorrhaphy
 elytrostenosis
-elytrotomy
 elytrous
 elytrtra
 elytrum
@@ -129239,7 +129087,6 @@ emboldening
 emboldens
 embole
 embolectomies
-embolectomy
 embolemia
 emboli
 embolic
@@ -129412,7 +129259,6 @@ embreathed
 embreathement
 embreathes
 embreathing
-embrectomy
 embrew
 embrica
 embright
@@ -129470,7 +129316,6 @@ embruted
 embrutes
 embruting
 embryectomies
-embryectomy
 embryo
 embryocardia
 embryoctonic
@@ -129528,7 +129373,6 @@ embryotic
 embryotically
 embryotome
 embryotomies
-embryotomy
 embryotroph
 embryotrophe
 embryotrophic
@@ -130744,7 +130588,6 @@ encephalospinal
 encephalothlipsis
 encephalotome
 encephalotomies
-encephalotomy
 encephalous
 enchafe
 enchafed
@@ -131200,7 +131043,6 @@ endark
 endart
 endarted
 endarterectomies
-endarterectomy
 endarteria
 endarterial
 endarteritis
@@ -133324,7 +133166,6 @@ enterdealed
 enterdeales
 enterdealing
 enterectomies
-enterectomy
 entered
 enterer
 enterers
@@ -133356,7 +133197,6 @@ enterocentesis
 enteroceptor
 enterochirurgia
 enterochlorophyll
-enterocholecystostomy
 enterochromaffin
 enterocinesia
 enterocinetic
@@ -133376,12 +133216,12 @@ enterocoels
 enterocolitides
 enterocolitis
 enterocolitises
-enterocolostomy
 enterocrinin
 enterocyst
 enterocystoma
 enterodelous
 enterodynia
+enteroenterostomy
 enteroepiplocele
 enterogastritis
 enterogastrone
@@ -133450,11 +133290,9 @@ enterostasis
 enterostenosis
 enterostomal
 enterostomies
-enterostomy
 enterosyphilis
 enterotome
 enterotomies
-enterotomy
 enterotoxemia
 enterotoxication
 enterotoxin
@@ -133711,7 +133549,6 @@ entomostracans
 entomostracous
 entomotaxy
 entomotomist
-entomotomy
 entone
 entonement
 entonic
@@ -134724,7 +134561,6 @@ epicycloidal
 epicycloids
 epicyemate
 epicyesis
-epicystotomy
 epicyte
 epideictic
 epideictical
@@ -134789,7 +134625,6 @@ epidiascopic
 epidictic
 epidictical
 epididymal
-epididymectomy
 epididymides
 epididymis
 epididymite
@@ -134797,9 +134632,7 @@ epididymites
 epididymitides
 epididymitis
 epididymitises
-epididymodeferentectomy
 epididymodeferential
-epididymovasostomy
 epidiorite
 epidiorites
 epidiorthosis
@@ -135287,7 +135120,6 @@ episiorrhagia
 episiorrhaphy
 episiostenosis
 episiotomies
-episiotomy
 episkeletal
 episkotister
 episodal
@@ -137266,7 +137098,6 @@ esophagalgia
 esophageal
 esophagean
 esophagectasia
-esophagectomy
 esophagi
 esophagism
 esophagismus
@@ -137281,9 +137112,7 @@ esophagogastroduodenoscopies
 esophagogastroduodenoscopy
 esophagogastroscopy
 esophagogastrostomies
-esophagogastrostomy
 esophagojejunostomies
-esophagojejunostomy
 esophagologies
 esophagologist
 esophagologists
@@ -137303,9 +137132,7 @@ esophagoscopies
 esophagoscopy
 esophagospasm
 esophagostenosis
-esophagostomy
 esophagotome
-esophagotomy
 esophagus
 esophaguses
 esophoria
@@ -144269,7 +144096,6 @@ fallback
 fallbacks
 fallboard
 fallboards
-fallectomy
 fallen
 fallency
 fallenness
@@ -144292,8 +144118,6 @@ fallings
 falloff
 falloffs
 fallopian
-fallostomy
-fallotomy
 fallout
 fallouts
 fallow
@@ -145190,7 +145014,6 @@ fascioliasis
 fasciolidae
 fascioloid
 fascioplasty
-fasciotomy
 fascis
 fascism
 fascismi
@@ -147898,13 +147721,10 @@ fibromucous
 fibromuscular
 fibromyalgia
 fibromyalgias
-fibromyectomy
 fibromyitis
 fibromyoma
 fibromyomatous
-fibromyomectomy
 fibromyositis
-fibromyotomy
 fibromyxoma
 fibromyxosarcoma
 fibronectin
@@ -150908,7 +150728,6 @@ fleawort
 fleaworts
 fleay
 flebile
-flebotomy
 fleche
 fleches
 flechette
@@ -161137,7 +160956,6 @@ gangliar
 gangliasthenia
 gangliate
 gangliated
-gangliectomy
 ganglier
 gangliest
 gangliform
@@ -161157,7 +160975,6 @@ ganglionary
 ganglionate
 ganglionated
 ganglionectomies
-ganglionectomy
 ganglioneural
 ganglioneure
 ganglioneuroblastomas
@@ -161996,7 +161813,6 @@ gastreas
 gastrectasia
 gastrectasis
 gastrectomies
-gastrectomy
 gastrelcosis
 gastric
 gastricism
@@ -162037,9 +161853,6 @@ gastrocoel
 gastrocoele
 gastrocolic
 gastrocoloptosis
-gastrocolostomy
-gastrocolotomy
-gastrocolpotomy
 gastrocystic
 gastrocystis
 gastrodermal
@@ -162053,10 +161866,7 @@ gastroduodenal
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomies
-gastroduodenostomy
-gastroduodenotomy
 gastrodynia
-gastroelytrotomy
 gastroenteralgia
 gastroenteric
 gastroenteritic
@@ -162066,7 +161876,6 @@ gastroenteritises
 gastroenteroanastomoses
 gastroenteroanastomosis
 gastroenterocolitis
-gastroenterocolostomy
 gastroenterologic
 gastroenterological
 gastroenterologically
@@ -162077,12 +161886,8 @@ gastroenterology
 gastroenteropancreatic
 gastroenteroptosis
 gastroenterostomies
-gastroenterostomy
-gastroenterotomy
 gastroepiploic
 gastroesophageal
-gastroesophagostomy
-gastrogastrotomy
 gastrogenic
 gastrogenital
 gastrogenous
@@ -162093,15 +161898,12 @@ gastrohepatitis
 gastrohydrorrhea
 gastrohyperneuria
 gastrohypertonic
-gastrohysterectomy
 gastrohysteropexy
 gastrohysterorrhaphy
-gastrohysterotomy
 gastroid
 gastrointestinal
 gastrojejunal
 gastrojejunostomies
-gastrojejunostomy
 gastrolater
 gastrolatrous
 gastrolavage
@@ -162206,7 +162008,6 @@ gastrostenosis
 gastrostomies
 gastrostomize
 gastrostomus
-gastrostomy
 gastrosuccorrhea
 gastrotaxis
 gastrotheca
@@ -162214,12 +162015,10 @@ gastrothecal
 gastrotome
 gastrotomic
 gastrotomies
-gastrotomy
 gastrotrich
 gastrotricha
 gastrotrichan
 gastrotrichs
-gastrotubotomy
 gastrotympanites
 gastrovascular
 gastroxynsis
@@ -165530,7 +165329,6 @@ gingivae
 gingival
 gingivalgia
 gingivectomies
-gingivectomy
 gingivites
 gingivitides
 gingivitis
@@ -166975,7 +166773,6 @@ glossator
 glossatorial
 glossators
 glossectomies
-glossectomy
 glossed
 glossem
 glossematic
@@ -167072,7 +166869,6 @@ glossospasm
 glossosteresis
 glossotherium
 glossotomies
-glossotomy
 glossotype
 glossy
 glost
@@ -168572,7 +168368,6 @@ gonadectomies
 gonadectomised
 gonadectomized
 gonadectomizing
-gonadectomy
 gonadial
 gonadic
 gonadotrope
@@ -172821,13 +172616,17 @@ guaiacum
 guaiacums
 guaiaretic
 guaiasanol
+guaiazulene
+guaiazulenes
 guaibasaurus
+guaibasauruses
 guaican
 guaifenesin
 guaiocum
 guaiocums
 guaiol
 guaiphenesin
+guaiphenesins
 guajajara
 guajillo
 guajira
@@ -174612,7 +174411,6 @@ gyrators
 gyratory
 gyre
 gyrectomies
-gyrectomy
 gyred
 gyrencephala
 gyrencephalate
@@ -175277,7 +175075,6 @@ haemorrhagings
 haemorrhagy
 haemorrhoid
 haemorrhoidal
-haemorrhoidectomy
 haemorrhoids
 haemosiderin
 haemosiderins
@@ -177086,6 +176883,7 @@ hanukiahs
 hanukkah
 hanuman
 hanumans
+hanya
 hao
 haole
 haoles
@@ -179458,7 +179256,6 @@ heben
 hebenon
 hebenons
 hebens
-hebeosteotomy
 hebepetalous
 hebephrenia
 hebephreniac
@@ -179477,14 +179274,12 @@ hebetations
 hebetative
 hebete
 hebetic
-hebetomy
 hebetude
 hebetudes
 hebetudinosity
 hebetudinous
 hebona
 hebonas
-hebotomy
 hebraean
 hebraic
 hebraica
@@ -180437,7 +180232,6 @@ helotages
 helotism
 helotisms
 helotize
-helotomy
 helotries
 helotry
 helots
@@ -180810,6 +180604,7 @@ hemichromatopsia
 hemicircle
 hemicircular
 hemiclastic
+hemicolectomy
 hemicollin
 hemicrane
 hemicrania
@@ -180849,7 +180644,6 @@ hemiform
 hemigale
 hemigalus
 hemiganus
-hemigastrectomy
 hemigeusia
 hemiglobin
 hemiglossal
@@ -180882,8 +180676,6 @@ hemihypoesthesia
 hemihypotonia
 hemikaryon
 hemikaryotic
-hemilaminectomy
-hemilaryngectomy
 hemileia
 hemilethargy
 hemiligulate
@@ -181011,7 +180803,6 @@ hemistater
 hemistich
 hemistichal
 hemistichs
-hemistrumectomy
 hemisymmetrical
 hemisymmetry
 hemisystematic
@@ -181023,7 +180814,6 @@ hemiteria
 hemiterpene
 hemiterpenes
 hemitery
-hemithyroidectomy
 hemitone
 hemitremor
 hemitrichous
@@ -181221,7 +181011,6 @@ hemorrhoid
 hemorrhoidal
 hemorrhoidals
 hemorrhoidectomies
-hemorrhoidectomy
 hemorrhoids
 hemosalpinx
 hemoscope
@@ -181460,24 +181249,20 @@ hepatectomised
 hepatectomize
 hepatectomized
 hepatectomizing
-hepatectomy
 hepatic
 hepatica
 hepaticae
 hepatical
 hepaticas
-hepaticoduodenostomy
+hepaticocholangiocholecystenterostomy
 hepaticoenterostomies
-hepaticoenterostomy
-hepaticogastrostomy
+hepaticojejunostomy
 hepaticological
 hepaticologies
 hepaticologist
 hepaticologists
 hepaticology
 hepaticopulmonary
-hepaticostomy
-hepaticotomy
 hepatics
 hepatisation
 hepatisations
@@ -181504,7 +181289,6 @@ hepatocystic
 hepatocyte
 hepatocytes
 hepatoduodenal
-hepatoduodenostomy
 hepatodynia
 hepatodysentery
 hepatoenteric
@@ -181541,10 +181325,10 @@ hepatoperitonitis
 hepatopexia
 hepatopexy
 hepatophlebitis
-hepatophlebotomy
 hepatophyma
 hepatopneumonic
 hepatoportal
+hepatoportoenterostomy
 hepatoptosia
 hepatoptosis
 hepatopulmonary
@@ -181556,9 +181340,7 @@ hepatorrhexis
 hepatorrhoea
 hepatoscopies
 hepatoscopy
-hepatostomy
 hepatotherapy
-hepatotomy
 hepatotoxemia
 hepatotoxic
 hepatotoxicities
@@ -182142,7 +181924,6 @@ herniates
 herniating
 herniation
 herniations
-hernioenterotomy
 hernioid
 herniology
 hernioplasties
@@ -182153,7 +181934,6 @@ herniorrhaphy
 herniotome
 herniotomies
 herniotomist
-herniotomy
 herns
 hernsew
 hernshaw
@@ -182281,7 +182061,6 @@ herpetophobes
 herpetophobia
 herpetophobic
 herpetotomist
-herpetotomy
 herping
 herpings
 herpolhode
@@ -184442,7 +184221,6 @@ hippotigrine
 hippotigris
 hippotomical
 hippotomist
-hippotomy
 hippotragine
 hippotragus
 hippurate
@@ -184810,7 +184588,6 @@ histotherapy
 histothrombin
 histotome
 histotomies
-histotomy
 histotrophic
 histotrophy
 histotropic
@@ -190642,7 +190419,6 @@ hydrotical
 hydrotimeter
 hydrotimetric
 hydrotimetry
-hydrotomy
 hydrotropic
 hydrotropically
 hydrotropism
@@ -190990,7 +190766,6 @@ hymenopterous
 hymenopttera
 hymenotome
 hymenotomies
-hymenotomy
 hymens
 hymettian
 hymettic
@@ -192554,7 +192329,6 @@ hypocrystalline
 hypocycloid
 hypocycloidal
 hypocycloids
-hypocystotomy
 hypocytosis
 hypodactylum
 hypoderm
@@ -192564,7 +192338,6 @@ hypodermas
 hypodermatic
 hypodermatically
 hypodermatoclysis
-hypodermatomy
 hypodermella
 hypodermic
 hypodermically
@@ -192804,7 +192577,6 @@ hypophysectomize
 hypophysectomized
 hypophysectomizes
 hypophysectomizing
-hypophysectomy
 hypophyseoprivic
 hypophyseoprivous
 hypophyses
@@ -193248,7 +193020,6 @@ hysterectomize
 hysterectomized
 hysterectomizes
 hysterectomizing
-hysterectomy
 hysterelcosis
 hystereses
 hysteresial
@@ -193272,9 +193043,7 @@ hysteritises
 hystero-epilepsies
 hystero-epilepsy
 hystero-salpingo-oophorectomies
-hystero-salpingo-oophorectomy
 hystero-salpingoophorectomies
-hystero-salpingoophorectomy
 hysterocarpus
 hysterocatalepsy
 hysterocele
@@ -193290,7 +193059,6 @@ hysterogenous
 hysterogeny
 hysteroid
 hysteroidal
-hysterolaparotomy
 hysterolith
 hysterolithiasis
 hysterology
@@ -193303,7 +193071,6 @@ hysterometer
 hysterometry
 hysteromorphous
 hysteromyoma
-hysteromyomectomy
 hysteron
 hysteroneurasthenia
 hysteropathy
@@ -193318,14 +193085,14 @@ hysteroptosia
 hysteroptosis
 hysterorrhaphy
 hysterorrhexis
+hysterosalpingectomy
 hysterosalpingo-oophorectomies
-hysterosalpingo-oophorectomy
+hysterosalpingostomy
 hysteroscope
 hysterosis
 hysterotely
 hysterotome
 hysterotomies
-hysterotomy
 hysterotraumatism
 hystriciasis
 hystricid
@@ -193773,7 +193540,6 @@ ichthyotic
 ichthyotomi
 ichthyotomist
 ichthyotomous
-ichthyotomy
 ichthyotoxin
 ichthyotoxism
 ichthyovenator
@@ -194683,22 +194449,18 @@ ile
 ilea
 ileac
 ileal
-ileectomy
 ileitides
 ileitis
 ileitises
 ileocaecal
+ileocaecectomy
 ileocaecum
 ileocecal
+ileocecectomy
 ileocolic
 ileocolitis
-ileocolostomy
-ileocolotomy
 ileon
-ileosigmoidostomy
 ileostomies
-ileostomy
-ileotomy
 ilesite
 ilesites
 ileum
@@ -198899,7 +198661,6 @@ incubus
 incubuses
 incudal
 incudate
-incudectomy
 incudes
 incudomalleal
 incudostapedial
@@ -203451,7 +203212,6 @@ inta
 intablature
 intabulate
 intact
-intacta
 intactible
 intactile
 intactly
@@ -207759,7 +207519,6 @@ iridectomising
 iridectomize
 iridectomized
 iridectomizing
-iridectomy
 iridectropium
 iridemia
 iridencleisis
@@ -207830,7 +207589,6 @@ iridoplegia
 iridoptosis
 iridopupillary
 iridorhexis
-iridosclerotomy
 iridosmine
 iridosmines
 iridosmium
@@ -207838,7 +207596,6 @@ iridosmiums
 iridotasis
 iridotome
 iridotomies
-iridotomy
 iridous
 irids
 irimshik
@@ -209555,7 +209312,6 @@ isth
 isthm
 isthmal
 isthmectomies
-isthmectomy
 isthmi
 isthmia
 isthmial
@@ -209579,6 +209335,7 @@ istighfar
 istihadah
 istijabah
 istikhara
+istilah
 istinja
 istiophorid
 istiophoridae
@@ -211411,7 +211168,6 @@ jejunal
 jejunator
 jejune
 jejunectomies
-jejunectomy
 jejunely
 jejuneness
 jejunenesses
@@ -211421,10 +211177,7 @@ jejunity
 jejunoduodenal
 jejunoileitis
 jejunojejunostomies
-jejunojejunostomy
 jejunostomies
-jejunostomy
-jejunotomy
 jejunum
 jejunums
 jekyll
@@ -213572,7 +213325,6 @@ juneatings
 juneau
 juneberry
 junebud
-junectomy
 junefish
 juneflower
 junes
@@ -214408,6 +214160,7 @@ kalgoorlie
 kalguksu
 kalhari
 kali
+kali:
 kalian
 kaliana
 kalians
@@ -215655,7 +215408,6 @@ keloid
 keloidal
 keloids
 kelotomies
-kelotomy
 kelowna
 kelp
 kelped
@@ -215883,7 +215635,6 @@ keratalgia
 keratectacia
 keratectasia
 keratectomies
-keratectomy
 keraterpeton
 keratin
 keratinisation
@@ -215963,7 +215714,6 @@ keratosropy
 keratotic
 keratotome
 keratotomies
-keratotomy
 keratto
 keraulophon
 keraulophone
@@ -216003,7 +215753,6 @@ kerchieves
 kerchoo
 kerchug
 kerchunk
-kerectomy
 kerel
 kerels
 kereru
@@ -217523,16 +217272,13 @@ kinura
 kioea
 kioko
 kionectomies
-kionectomy
 kionotomies
-kionotomy
 kiore
 kiores
 kiosk
 kiosks
 kiotome
 kiotomies
-kiotomy
 kiowa
 kiowan
 kioway
@@ -219350,6 +219096,7 @@ koyemshi
 kozhikode
 kozo
 kozuka
+kpelle
 kpop
 kpops
 kpuesi
@@ -220888,7 +220635,10 @@ lactodensimeter
 lactoflavin
 lactoflavins
 lactogen
+lactogeneses
+lactogenesis
 lactogenic
+lactogens
 lactoglobulin
 lactoglobulins
 lactoid
@@ -220914,6 +220664,8 @@ lactosid
 lactoside
 lactosuria
 lactosurias
+lactosylceramide
+lactosylceramides
 lactothermometer
 lactotoxin
 lactovegetarian
@@ -221745,7 +221497,6 @@ laminator
 laminators
 laminboard
 laminectomies
-laminectomy
 laming
 lamington
 lamingtons
@@ -221787,7 +221538,6 @@ lammings
 lammock
 lammy
 lamna
-lamnectomy
 lamnid
 lamnidae
 lamnoid
@@ -222464,34 +222214,11 @@ lapacho
 lapachol
 lapactic
 lapageria
-laparectomy
 laparocele
-laparocholecystotomy
-laparocolectomy
-laparocolostomy
-laparocolotomy
-laparocolpohysterotomy
-laparocolpotomy
-laparocystectomy
-laparocystotomy
-laparoelytrotomy
-laparoenterostomy
-laparoenterotomy
 laparogastroscopy
-laparogastrotomy
-laparohepatotomy
-laparohysterectomy
 laparohysteropexy
-laparohysterotomy
-laparoileotomy
 laparomyitis
-laparomyomectomy
-laparomyomotomy
-laparonephrectomy
-laparonephrotomy
 laparorrhaphy
-laparosalpingectomy
-laparosalpingotomy
 laparoscope
 laparoscopes
 laparoscopic
@@ -222499,8 +222226,6 @@ laparoscopies
 laparoscopist
 laparoscopists
 laparoscopy
-laparosplenectomy
-laparosplenotomy
 laparostict
 laparosticti
 laparothoracoscopy
@@ -222510,8 +222235,6 @@ laparotomist
 laparotomize
 laparotomized
 laparotomizing
-laparotomy
-laparotrachelotomy
 lapatinib
 lapb
 lapboard
@@ -222924,7 +222647,6 @@ laryngectomised
 laryngectomize
 laryngectomized
 laryngectomizing
-laryngectomy
 laryngemphraxis
 laryngendoscope
 larynges
@@ -222954,6 +222676,7 @@ laryngometry
 laryngoparalysis
 laryngopathy
 laryngopharyngeal
+laryngopharyngectomy
 laryngopharynges
 laryngopharyngitis
 laryngopharynx
@@ -222979,16 +222702,13 @@ laryngospasm
 laryngospasms
 laryngostasis
 laryngostenosis
-laryngostomy
 laryngostroboscope
 laryngotome
 laryngotomies
-laryngotomy
 laryngotracheal
 laryngotracheitis
 laryngotracheobronchitis
 laryngotracheoscopy
-laryngotracheotomy
 laryngotyphoid
 laryngovestibulitis
 larynx
@@ -223423,7 +223143,6 @@ lative
 latke
 latkes
 latomia
-latomy
 laton
 latona
 latonian
@@ -226261,7 +225980,6 @@ leucotic
 leucotome
 leucotomes
 leucotomies
-leucotomy
 leucotoxic
 leucous
 leucoxene
@@ -226347,7 +226065,6 @@ leukotic
 leukotome
 leukotomes
 leukotomies
-leukotomy
 leukotriene
 leukotrienes
 leuma
@@ -227156,7 +226873,6 @@ lienal
 lienculi
 lienculus
 lienectomies
-lienectomy
 lienee
 lienees
 lienholder
@@ -228585,7 +228301,6 @@ lipase
 lipases
 lipe
 lipectomies
-lipectomy
 lipemia
 lipemias
 lipemic
@@ -228704,7 +228419,6 @@ liposoluble
 liposomal
 liposome
 liposomes
-lipostomy
 liposuck
 liposucked
 liposucking
@@ -229137,7 +228851,6 @@ lithates
 lithatic
 lithe
 lithectasy
-lithectomy
 lithed
 lithely
 lithemia
@@ -229203,7 +228916,6 @@ lithoclasts
 lithoclasty
 lithoculture
 lithocyst
-lithocystotomy
 lithocysts
 lithodes
 lithodesma
@@ -229274,7 +228986,6 @@ lithometer
 lithonephria
 lithonephritis
 lithonephrotomies
-lithonephrotomy
 lithonthryptic
 lithonthryptics
 lithontriptic
@@ -229346,7 +229057,6 @@ lithotomist
 lithotomists
 lithotomize
 lithotomous
-lithotomy
 lithotony
 lithotresis
 lithotripsies
@@ -229705,6 +229415,8 @@ liza
 lizard
 lizardfish
 lizardfishes
+lizardite
+lizardites
 lizardlike
 lizards
 lizardtail
@@ -229712,7 +229424,6 @@ lizary
 lizu
 lizzie
 lizzies
-lizzy
 ljubljana
 llajua
 llajwa
@@ -229914,7 +229625,6 @@ lobcock
 lobcokt
 lobe
 lobectomies
-lobectomy
 lobed
 lobefin
 lobefins
@@ -229963,7 +229673,6 @@ lobotomize
 lobotomized
 lobotomizes
 lobotomizing
-lobotomy
 lobs
 lobscourse
 lobscouse
@@ -232087,7 +231796,6 @@ loxoscelisms
 loxosoma
 loxosomidae
 loxotic
-loxotomy
 loxygen
 loxygens
 loy
@@ -232586,8 +232294,6 @@ lumbersomeness
 lumberyard
 lumberyards
 lumbi
-lumbocolostomy
-lumbocolotomy
 lumbocostal
 lumbodorsal
 lumbodynia
@@ -232680,7 +232386,6 @@ lummoxes
 lummy
 lump
 lumpectomies
-lumpectomy
 lumped
 lumpen
 lumpenly
@@ -233444,7 +233149,6 @@ lymph
 lymphad
 lymphadenectasia
 lymphadenectasis
-lymphadenectomy
 lymphadenia
 lymphadenitis
 lymphadenitises
@@ -233485,7 +233189,6 @@ lymphangiomatous
 lymphangiophlebitis
 lymphangioplasty
 lymphangiosarcoma
-lymphangiotomy
 lymphangitic
 lymphangitides
 lymphangitis
@@ -233546,7 +233249,6 @@ lymphographies
 lymphography
 lymphohistiocytosis
 lymphoid
-lymphoidectomy
 lymphoidocyte
 lymphokine
 lymphokines
@@ -233581,7 +233283,6 @@ lymphosporidiosis
 lymphostasis
 lymphotaxis
 lymphotome
-lymphotomy
 lymphotoxemia
 lymphotoxin
 lymphotrophic
@@ -236731,7 +236432,6 @@ mammatocumulus
 mammatus
 mammea
 mammectomies
-mammectomy
 mammee
 mammees
 mammer
@@ -236809,7 +236509,6 @@ mammose
 mammoth
 mammothrept
 mammoths
-mammotomy
 mammotropin
 mammula
 mammulae
@@ -239594,7 +239293,6 @@ mastauxe
 mastava
 mastax
 mastectomies
-mastectomy
 masted
 master
 masterable
@@ -239740,7 +239438,6 @@ mastoidale
 mastoideal
 mastoidean
 mastoidectomies
-mastoidectomy
 mastoideocentesis
 mastoideosquamous
 mastoidites
@@ -239749,7 +239446,6 @@ mastoiditis
 mastoiditises
 mastoidohumeral
 mastoidohumeralis
-mastoidotomy
 mastoids
 mastological
 mastologist
@@ -239766,7 +239462,6 @@ mastoplastia
 mastorrhagia
 mastoscirrhus
 mastosquamose
-mastotomy
 mastotympanic
 mastras
 masts
@@ -241096,7 +240791,6 @@ meatorrhaphy
 meatoscope
 meatoscopy
 meatotome
-meatotomy
 meatpacker
 meatpackers
 meatpacking
@@ -241232,7 +240926,6 @@ mechoui
 mechouis
 mechs
 meck
-meckelectomy
 meckelian
 mecklenburgian
 mecks
@@ -241365,7 +241058,6 @@ mediastina
 mediastinal
 mediastine
 mediastinitis
-mediastinotomy
 mediastinum
 mediate
 mediated
@@ -241557,6 +241249,7 @@ mediosilicic
 mediostapedial
 mediotarsal
 medioventral
+medis
 medisance
 medisect
 medisection
@@ -243132,7 +242825,6 @@ meninx
 meniscal
 meniscate
 meniscectomies
-meniscectomy
 menisci
 menisciform
 meniscitis
@@ -243888,7 +243580,6 @@ merosymmetrical
 merosymmetry
 merosystematic
 merotomize
-merotomy
 merotropism
 merotropy
 merovingian
@@ -245791,7 +245482,6 @@ metre
 metre-kilogram-second
 metrectasia
 metrectatic
-metrectomy
 metrectopia
 metrectopic
 metrectopy
@@ -245966,7 +245656,6 @@ metrotherapist
 metrotherapy
 metrotome
 metrotometry
-metrotomy
 metroxylon
 mets
 metsulfuron-methyl
@@ -246261,7 +245950,6 @@ micracoustic
 micraesthete
 micramock
 micrampelis
-micranatomy
 micrander
 micrandrous
 micraner
@@ -246319,7 +246007,6 @@ microanalytic
 microanalytical
 microanatomical
 microanatomies
-microanatomy
 microangiopathic
 microangiopathy
 microangstrom
@@ -247350,7 +247037,6 @@ microtomical
 microtomies
 microtomist
 microtomists
-microtomy
 microtonal
 microtonalities
 microtonality
@@ -258705,6 +258391,7 @@ munchkin
 munchkins
 munchy
 muncie
+muncul
 muncupate
 mund
 munda
@@ -260057,7 +259744,6 @@ mydriatic
 mydriatics
 mydriatine
 myectomize
-myectomy
 myectopia
 myectopy
 myel
@@ -260281,7 +259967,6 @@ myoedema
 myoelectric
 myoelectrical
 myoendocarditis
-myoenotomy
 myoepicardial
 myoepithelial
 myofibril
@@ -260346,17 +260031,14 @@ myomas
 myomata
 myomatous
 myomectomies
-myomectomy
 myomelanosis
 myomere
 myomeres
 myometritis
 myometrium
-myomohysterectomy
 myomorph
 myomorpha
 myomorphic
-myomotomy
 myonema
 myoneme
 myoneural
@@ -260439,7 +260121,6 @@ myotacismus
 myotalpa
 myotalpinae
 myotasis
-myotenotomy
 myothermic
 myotic
 myotics
@@ -260447,7 +260128,6 @@ myotome
 myotomes
 myotomic
 myotomies
-myotomy
 myotonia
 myotonias
 myotonic
@@ -260509,10 +260189,8 @@ myricylic
 myrientomata
 myringa
 myringas
-myringectomy
 myringitis
 myringitises
-myringodectomy
 myringodermatitis
 myringomycosis
 myringoplasty
@@ -260520,7 +260198,6 @@ myringoscope
 myringoscopes
 myringotome
 myringotomies
-myringotomy
 myriological
 myriologist
 myriologue
@@ -263232,7 +262909,6 @@ neckweed
 neckweeds
 neckyoke
 necraemia
-necrectomy
 necremia
 necro
 necrobacillary
@@ -263333,7 +263009,6 @@ necrotizing
 necrotomic
 necrotomies
 necrotomist
-necrotomy
 necrotroph
 necrotrophic
 necrotrophs
@@ -264323,7 +263998,6 @@ nephrectomize
 nephrectomized
 nephrectomizes
 nephrectomizing
-nephrectomy
 nephrelcosis
 nephremia
 nephremphraxis
@@ -264373,7 +264047,6 @@ nephrolith
 nephrolithic
 nephrolithosis
 nephrolithotomies
-nephrolithotomy
 nephrological
 nephrologies
 nephrologist
@@ -264419,14 +264092,12 @@ nephrostome
 nephrostomes
 nephrostomial
 nephrostomous
-nephrostomy
 nephrotic
 nephrotics
 nephrotome
 nephrotomies
 nephrotomise
 nephrotomize
-nephrotomy
 nephrotoxic
 nephrotoxicities
 nephrotoxicity
@@ -264840,7 +264511,6 @@ neurectasy
 neurectome
 neurectomic
 neurectomies
-neurectomy
 neurectopia
 neurectopy
 neurenteric
@@ -264884,8 +264554,6 @@ neuroanatomical
 neuroanatomies
 neuroanatomist
 neuroanatomists
-neuroanatomy
-neuroanotomy
 neurobiological
 neurobiologies
 neurobiologist
@@ -265236,7 +264904,6 @@ neurotomies
 neurotomist
 neurotomists
 neurotomize
-neurotomy
 neurotonic
 neurotoxia
 neurotoxic
@@ -278018,7 +277685,6 @@ nymphon
 nymphonacea
 nymphos
 nymphosis
-nymphotomy
 nymphs
 nymphwise
 nymss
@@ -278198,7 +277864,6 @@ oaring
 oariocele
 oariopathic
 oariopathy
-oariotomy
 oaritic
 oaritis
 oarium
@@ -279435,6 +279100,7 @@ ochymy
 ocicat
 ocicats
 ocimum
+ocinaplon
 ock
 ockenden
 ocker
@@ -280023,7 +279689,6 @@ odontosyllis
 odontotechny
 odontotherapia
 odontotherapy
-odontotomy
 odontotormae
 odontotripsis
 odontotrypy
@@ -280233,7 +279898,6 @@ oesophagogastroduodenoscopies
 oesophagogastroduodenoscopy
 oesophagogastrostomies
 oesophagojejunostomies
-oesophagojejunostomy
 oesophagoscope
 oesophagoscopes
 oesophagoscopy
@@ -281438,7 +281102,6 @@ omenology
 omens
 omenta
 omental
-omentectomy
 omentitis
 omentocele
 omentofixation
@@ -281446,7 +281109,6 @@ omentopexy
 omentoplasty
 omentorrhaphy
 omentosplenopexy
-omentotomy
 omentulum
 omentum
 omentums
@@ -281690,7 +281352,6 @@ omphacine
 omphacite
 omphacites
 omphacy
-omphalectomy
 omphali
 omphalic
 omphalism
@@ -281721,7 +281382,6 @@ omphalosite
 omphaloskepses
 omphaloskepsis
 omphalospinous
-omphalotomy
 omphalotripsy
 omphalus
 omrah
@@ -281829,7 +281489,6 @@ oncostmen
 oncosts
 oncotic
 oncotomies
-oncotomy
 oncovirus
 oncoviruses
 oncus
@@ -282383,9 +282042,7 @@ oophorectomize
 oophorectomized
 oophorectomizes
 oophorectomizing
-oophorectomy
 oophoreocele
-oophorhysterectomy
 oophoric
 oophoridia
 oophoridium
@@ -282394,7 +282051,6 @@ oophoritic
 oophoritis
 oophoritises
 oophorocele
-oophorocystectomy
 oophoroepilepsy
 oophoroma
 oophoromalacia
@@ -282403,9 +282059,6 @@ oophoron
 oophorons
 oophoropexy
 oophororrhaphy
-oophorosalpingectomy
-oophorostomy
-oophorotomy
 oophyte
 oophytes
 oophytic
@@ -282839,7 +282492,6 @@ ophthalmagra
 ophthalmalgia
 ophthalmalgic
 ophthalmatrophia
-ophthalmectomy
 ophthalmencephalon
 ophthalmetrical
 ophthalmia
@@ -282888,11 +282540,9 @@ ophthalmomycosis
 ophthalmomyiases
 ophthalmomyiasis
 ophthalmomyositis
-ophthalmomyotomy
 ophthalmoneuritis
 ophthalmopathies
 ophthalmopathy
-ophthalmophlebotomy
 ophthalmophobe
 ophthalmophobes
 ophthalmophobia
@@ -282922,7 +282572,6 @@ ophthalmostasis
 ophthalmostat
 ophthalmostatometer
 ophthalmothermometer
-ophthalmotomy
 ophthalmotonometer
 ophthalmotonometry
 ophthalmotrope
@@ -283644,7 +283293,6 @@ orbitopathy
 orbitosphenoid
 orbitosphenoidal
 orbitostat
-orbitotomy
 orbitozygomatic
 orbits
 orbitude
@@ -283677,7 +283325,6 @@ orchardmen
 orchards
 orchat
 orchats
-orchectomy
 orcheitis
 orchel
 orchella
@@ -283731,7 +283378,6 @@ orchidales
 orchidalgia
 orchidean
 orchidectomies
-orchidectomy
 orchideous
 orchideously
 orchidist
@@ -283754,10 +283400,8 @@ orchidoptosis
 orchidorrhaphy
 orchidotherapy
 orchidotomies
-orchidotomy
 orchids
 orchiectomies
-orchiectomy
 orchiencephaloma
 orchiepididymitis
 orchil
@@ -283776,14 +283420,12 @@ orchioplasty
 orchiorrhaphy
 orchioscheocele
 orchioscirrhus
-orchiotomy
 orchis
 orchises
 orchitic
 orchitis
 orchitises
 orchotomies
-orchotomy
 orcin
 orcine
 orcines
@@ -284524,7 +284166,6 @@ ornithosis
 ornithotic
 ornithotomical
 ornithotomist
-ornithotomy
 ornithotrophy
 ornithurae
 ornithuric
@@ -285114,6 +284755,10 @@ osaka
 osamin
 osamine
 osar
+osarizawaite
+osarizawaites
+osarsite
+osarsites
 osazone
 osbert
 osborn
@@ -285435,8 +285080,6 @@ ossicular
 ossiculate
 ossiculated
 ossicule
-ossiculectomy
-ossiculotomy
 ossiculum
 ossie
 ossies
@@ -285481,11 +285124,8 @@ ostealgia
 osteanabrosis
 osteanagenesis
 ostearthritis
-ostearthrotomy
 ostectomies
-ostectomy
 osteectomies
-osteectomy
 osteectopia
 osteectopy
 osteichthyan
@@ -285536,7 +285176,6 @@ osteoarthritis
 osteoarthropathy
 osteoarthroses
 osteoarthrosis
-osteoarthrotomy
 osteoblast
 osteoblastic
 osteoblastoma
@@ -285705,7 +285344,6 @@ osteotome
 osteotomes
 osteotomies
 osteotomist
-osteotomy
 osteotribe
 osteotrite
 osteotrophic
@@ -285742,7 +285380,6 @@ ostomate
 ostomates
 ostomatid
 ostomies
-ostomy
 ostoses
 ostosis
 ostosises
@@ -285863,7 +285500,6 @@ otate
 otates
 otc
 otchipwe
-otectomy
 otelcosis
 otelixizumab
 otello
@@ -286016,7 +285652,6 @@ otomitlan
 otomucormycosis
 otomyces
 otomycosis
-otonecrectomy
 otoneuralgia
 otoneurasthenia
 otoneurology
@@ -286055,7 +285690,6 @@ otosphenal
 otosteal
 otosteon
 ototoi
-ototomy
 ototoxic
 ototoxicities
 ototoxicity
@@ -288689,7 +288323,6 @@ ovariectomised
 ovariectomize
 ovariectomized
 ovariectomizing
-ovariectomy
 ovaries
 ovarin
 ovarioabdominal
@@ -288697,19 +288330,15 @@ ovariocele
 ovariocentesis
 ovariocyesis
 ovariodysneuria
-ovariohysterectomy
 ovariole
 ovarioles
 ovariolumbar
 ovariorrhexis
-ovariosalpingectomy
 ovariosteresis
-ovariostomy
 ovariotomies
 ovariotomist
 ovariotomists
 ovariotomize
-ovariotomy
 ovariotubal
 ovarious
 ovaritides
@@ -293788,7 +293417,6 @@ ovist
 ovistic
 ovists
 ovivorous
-ovo
 ovocyte
 ovoelliptic
 ovoflavin
@@ -293811,6 +293439,8 @@ ovologist
 ovology
 ovolos
 ovolytic
+ovomucin
+ovomucins
 ovomucoid
 ovonic
 ovonics
@@ -297120,13 +296750,12 @@ pancreatalgia
 pancreatectomies
 pancreatectomize
 pancreatectomized
-pancreatectomy
 pancreatemphraxis
 pancreathelcosis
 pancreatic
 pancreaticoduodenal
-pancreaticoduodenostomy
-pancreaticogastrostomy
+pancreaticoduodenectomy
+pancreaticojejunostomy
 pancreaticosplenic
 pancreatin
 pancreatins
@@ -297137,20 +296766,16 @@ pancreatitis
 pancreatitises
 pancreatization
 pancreatize
-pancreatoduodenectomy
-pancreatoenterostomy
 pancreatogenic
 pancreatogenous
 pancreatoid
 pancreatolipase
 pancreatolith
-pancreatomy
 pancreatoncus
 pancreatopathy
 pancreatorrhagia
+pancreatosplenectomy
 pancreatotomies
-pancreatotomy
-pancreectomy
 pancreozymin
 pancreozymins
 panctia
@@ -297430,7 +297055,6 @@ panhuman
 panhygrous
 panhyperemia
 panhypopituitarism
-panhysterectomy
 pani
 panic
 panical
@@ -298189,7 +297813,6 @@ papillar
 papillary
 papillate
 papillated
-papillectomy
 papilledema
 papilliferous
 papilliform
@@ -299467,7 +299090,6 @@ parathyroidectomies
 parathyroidectomize
 parathyroidectomized
 parathyroidectomizing
-parathyroidectomy
 parathyroids
 parathyroprival
 parathyroprivia
@@ -300255,7 +299877,6 @@ parotia
 parotic
 parotid
 parotidean
-parotidectomy
 parotides
 parotiditic
 parotiditis
@@ -300274,7 +299895,6 @@ parousia
 parousiamania
 parousias
 parovarian
-parovariotomy
 parovarium
 paroxazine
 paroxetine
@@ -301363,7 +300983,6 @@ patellaroid
 patellas
 patellate
 patellectomies
-patellectomy
 patellidae
 patellidan
 patelliform
@@ -301476,7 +301095,6 @@ pathment
 pathname
 pathnames
 pathoanatomical
-pathoanatomy
 pathobiological
 pathobiologies
 pathobiologist
@@ -303790,12 +303408,10 @@ pelvimeters
 pelvimetric
 pelvimetries
 pelvimetry
-pelviolithotomy
 pelvioperitonitis
 pelvioplasty
 pelvioradiography
 pelvioscopy
-pelviotomy
 pelviperitonitis
 pelvirectal
 pelvis
@@ -303971,7 +303587,6 @@ pendulumlike
 pendulums
 pene
 penecontemporaneous
-penectomy
 pened
 peneid
 penelope
@@ -304755,7 +304370,6 @@ peopling
 peoplish
 peoria
 peorian
-peotomy
 pep
 peperek
 peperine
@@ -305587,7 +305201,6 @@ pericardiacophrenic
 pericardial
 pericardian
 pericardicentesis
-pericardiectomy
 pericardiocentesis
 pericardiolysis
 pericardiomediastinitis
@@ -305595,14 +305208,12 @@ pericardiophrenic
 pericardiopleural
 pericardiorrhaphy
 pericardiosymphysis
-pericardiotomy
 pericarditic
 pericarditides
 pericarditis
 pericarditises
 pericardium
 pericardiums
-pericardotomy
 pericarp
 pericarpial
 pericarpic
@@ -305914,9 +305525,7 @@ perineoplastic
 perineoplasty
 perineorrhaphy
 perineoscrotal
-perineostomy
 perineosynthesis
-perineotomy
 perineovaginal
 perineovulvar
 perinephral
@@ -306037,7 +305646,6 @@ periosteomyelitis
 periosteophyte
 periosteorrhaphy
 periosteotome
-periosteotomy
 periosteous
 periosteum
 periostites
@@ -306047,7 +305655,6 @@ periostitis
 periostitises
 periostoma
 periostosis
-periostotomy
 periostraca
 periostracal
 periostracum
@@ -306332,7 +305939,6 @@ periti
 peritlia
 peritomize
 peritomous
-peritomy
 peritonaea
 peritonaeal
 peritonaeum
@@ -306354,7 +305960,6 @@ peritoneopexy
 peritoneoplasty
 peritoneoscope
 peritoneoscopy
-peritoneotomy
 peritoneum
 peritoneums
 peritonism
@@ -308069,16 +307674,19 @@ pfalzgrafs
 pfannkuchen
 pfeffernuss
 pfeffernusse
+pfeifferella
 pfennig
 pfennige
 pfennigs
 pfenning
 pfennings
 pfft
+pflag
 pfp
 pft
 pfui
 pfund
+pfunde
 phablet
 phablets
 phaca
@@ -308101,7 +307709,6 @@ phacochoerine
 phacochoeroid
 phacochoerus
 phacocyst
-phacocystectomy
 phacocystitis
 phacoglaucoma
 phacoid
@@ -308464,7 +308071,6 @@ phantomnation
 phantomry
 phantoms
 phantomship
-phantomy
 phantoplex
 phantoscope
 phantosme
@@ -308600,7 +308206,6 @@ pharyngealizations
 pharyngealized
 pharyngeals
 pharyngectomies
-pharyngectomy
 pharyngemphraxis
 pharynges
 pharyngic
@@ -308662,7 +308267,6 @@ pharyngospasm
 pharyngotherapy
 pharyngotome
 pharyngotomies
-pharyngotomy
 pharyngotonsillitis
 pharyngotyphoid
 pharyngoxerosis
@@ -309525,7 +309129,6 @@ phlebectasia
 phlebectasis
 phlebectasy
 phlebectomies
-phlebectomy
 phlebectopia
 phlebectopy
 phlebemphraxis
@@ -309587,7 +309190,6 @@ phlebotomized
 phlebotomizes
 phlebotomizing
 phlebotomus
-phlebotomy
 phlegethon
 phlegethontal
 phlegethontic
@@ -311114,7 +310716,6 @@ phreneticness
 phreneticnesses
 phrenetics
 phrenic
-phrenicectomy
 phrenicocolic
 phrenicocostal
 phrenicogastric
@@ -311123,7 +310724,6 @@ phrenicohepatic
 phrenicolienal
 phrenicopericardiac
 phrenicosplenic
-phrenicotomy
 phrenics
 phrenism
 phrenisms
@@ -311896,7 +311496,6 @@ phytotomidae
 phytotomies
 phytotomist
 phytotomists
-phytotomy
 phytotopographical
 phytotopography
 phytotoxic
@@ -313488,7 +313087,6 @@ pinealectomize
 pinealectomized
 pinealectomizes
 pinealectomizing
-pinealectomy
 pinealism
 pinealoma
 pineals
@@ -315535,7 +315133,6 @@ plasmosomas
 plasmosomata
 plasmosome
 plasmosomes
-plasmotomy
 plasms
 plasome
 plass
@@ -316587,7 +316184,6 @@ pleurapophyses
 pleurapophysial
 pleurapophysis
 pleuras
-pleurectomy
 pleurenchyma
 pleurenchymatous
 pleuric
@@ -316688,7 +316284,6 @@ pleurotomidae
 pleurotomies
 pleurotomine
 pleurotomoid
-pleurotomy
 pleurotonic
 pleurotonus
 pleurotremata
@@ -317659,7 +317254,6 @@ pneumatria
 pneumaturia
 pneume
 pneumectomies
-pneumectomy
 pneumobacilli
 pneumobacillus
 pneumobranchia
@@ -317711,7 +317305,6 @@ pneumomycosis
 pneumonalgia
 pneumonectasia
 pneumonectomies
-pneumonectomy
 pneumonedema
 pneumonia
 pneumonias
@@ -317754,7 +317347,6 @@ pneumonorrhagia
 pneumonorrhaphy
 pneumonosis
 pneumonotherapy
-pneumonotomy
 pneumonoultramicroscopicsilicovolcanoconioses
 pneumonoultramicroscopicsilicovolcanoconiosis
 pneumony
@@ -317773,7 +317365,6 @@ pneumotherapy
 pneumothoraces
 pneumothorax
 pneumothoraxes
-pneumotomy
 pneumotoxin
 pneumotropic
 pneumotropism
@@ -318289,7 +317880,6 @@ pogonophobic
 pogonophoran
 pogonophorans
 pogonotomies
-pogonotomy
 pogonotrophy
 pogos
 pogrom
@@ -319251,7 +318841,6 @@ polychoerany
 polychord
 polychotomies
 polychotomous
-polychotomy
 polychrest
 polychrestic
 polychrestical
@@ -320189,7 +319778,6 @@ polytokous
 polytoky
 polytomies
 polytomous
-polytomy
 polytonal
 polytonalism
 polytonalisms
@@ -322320,7 +321908,6 @@ posthemiplegic
 posthemorrhagic
 posthepatic
 posthetomist
-posthetomy
 posthexaplar
 posthexaplaric
 posthippocampal
@@ -322460,7 +322047,6 @@ postmarked
 postmarking
 postmarks
 postmarriage
-postmastectomy
 postmaster
 postmasterlike
 postmasters
@@ -322831,10 +322417,8 @@ posturizing
 postuterine
 postvaccinal
 postvaccination
-postvagotomy
 postvaricellar
 postvarioloid
-postvasectomy
 postvelar
 postvenereal
 postvenous
@@ -331363,7 +330947,6 @@ proctalgy
 proctatresia
 proctatresy
 proctectasia
-proctectomy
 procter
 procteurynter
 proctitides
@@ -331374,7 +330957,6 @@ proctoclysis
 proctocolitis
 proctocolonoscopy
 proctocystoplasty
-proctocystotomy
 proctodaea
 proctodaeal
 proctodaedaea
@@ -331431,19 +331013,15 @@ proctoscopic
 proctoscopically
 proctoscopies
 proctoscopy
-proctosigmoidectomy
 proctosigmoiditis
 proctospasm
 proctostenosis
-proctostomy
 proctotome
-proctotomy
 proctotresia
 proctotrypid
 proctotrypidae
 proctotrypoid
 proctotrypoidea
-proctovalvotomy
 proculcate
 proculcation
 proculian
@@ -333653,7 +333231,6 @@ prostasis
 prostatauxe
 prostate
 prostatectomies
-prostatectomy
 prostatelcosis
 prostates
 prostatic
@@ -333666,17 +333243,13 @@ prostatitides
 prostatitis
 prostatitises
 prostatocystitis
-prostatocystotomy
 prostatodynia
 prostatolith
 prostatomegaly
 prostatometer
-prostatomyomectomy
 prostatorrhea
 prostatorrhoea
-prostatotomy
 prostatovesical
-prostatovesiculectomy
 prostatovesiculitis
 prostemmate
 prostemmatic
@@ -337023,7 +336596,6 @@ pubescent
 pubian
 pubic
 pubigerous
-pubiotomy
 pubis
 pubises
 publ
@@ -337572,7 +337144,6 @@ pulmonate
 pulmonated
 pulmonates
 pulmonectomies
-pulmonectomy
 pulmones
 pulmonic
 pulmonical
@@ -337602,7 +337173,6 @@ pulpatone
 pulpatoon
 pulpboard
 pulpboards
-pulpectomy
 pulped
 pulpefaction
 pulper
@@ -337651,7 +337221,6 @@ pulpless
 pulplike
 pulpmill
 pulpmills
-pulpotomy
 pulpous
 pulpousness
 pulps
@@ -339097,7 +338666,6 @@ pyelograph
 pyelographic
 pyelographies
 pyelography
-pyelolithotomy
 pyelometry
 pyelonephritic
 pyelonephritides
@@ -339105,7 +338673,6 @@ pyelonephritis
 pyelonephrosis
 pyeloplasty
 pyeloscopy
-pyelotomy
 pyeloureterogram
 pyemesis
 pyemia
@@ -339198,14 +338765,12 @@ pylon
 pylons
 pyloralgia
 pylorectomies
-pylorectomy
 pylori
 pyloric
 pyloristenosis
 pyloritis
 pylorocleisis
 pylorodilator
-pylorogastrectomy
 pyloroplasty
 pyloroptosis
 pyloroschesis
@@ -339213,7 +338778,6 @@ pyloroscirrhus
 pyloroscopy
 pylorospasm
 pylorostenosis
-pylorostomy
 pylorous
 pylorouses
 pylorus
@@ -342948,7 +342512,6 @@ rachioplegia
 rachioscoliosis
 rachiotome
 rachiotomies
-rachiotomy
 rachipagus
 rachis
 rachischises
@@ -342962,7 +342525,6 @@ rachitism
 rachitogenic
 rachitome
 rachitomous
-rachitomy
 rachmaninoff
 rachmaninov
 rachmanism
@@ -343108,7 +342670,6 @@ rade
 radeau
 radeaux
 radectomieseph
-radectomy
 radek
 radetzky
 radeur
@@ -343229,12 +342790,10 @@ radicose
 radicula
 radicular
 radicule
-radiculectomy
 radicules
 radiculitis
 radiculose
 radidii
-radiectomy
 radient
 radiescent
 radiesthesia
@@ -344242,7 +343801,6 @@ ramipril
 ramiro
 ramis
 ramisection
-ramisectomy
 ramism
 ramist
 ramistical
@@ -348633,7 +348191,6 @@ rectangularness
 rectangulate
 rectangulometer
 rectectomies
-rectectomy
 recti
 rectifiabilities
 rectifiability
@@ -348684,7 +348241,6 @@ rectococcygeal
 rectococcygeus
 rectocolitic
 rectocolonic
-rectocystotomy
 rectogenital
 rectopexy
 rectophobia
@@ -348708,9 +348264,7 @@ rectoscope
 rectoscopy
 rectosigmoid
 rectostenosis
-rectostomy
 rectotome
-rectotomy
 rectovaginal
 rectovesical
 rectress
@@ -359468,7 +359022,6 @@ rhizote
 rhizotic
 rhizotomi
 rhizotomies
-rhizotomy
 rho
 rhoda
 rhodaline
@@ -359794,7 +359347,6 @@ rhythms
 rhythmus
 rhythmuses
 rhytidectomies
-rhytidectomy
 rhytidodon
 rhytidome
 rhytidomes
@@ -364354,7 +363906,6 @@ rumelian
 rumen
 rumenitis
 rumenocentesis
-rumenotomy
 rumens
 rumes
 rumex
@@ -364970,7 +364521,6 @@ rwandan
 rwandans
 rwandese
 rya
-ryal
 ryals
 ryania
 ryanodine
@@ -365630,7 +365180,6 @@ sacrary
 sacrate
 sacrcraria
 sacre
-sacrectomy
 sacred
 sacreder
 sacredest
@@ -365722,7 +365271,6 @@ sacrosecular
 sacrospinal
 sacrospinalis
 sacrospinous
-sacrotomy
 sacrotuberous
 sacrovertebral
 sacrum
@@ -366745,7 +366293,6 @@ salpiglosses
 salpiglossis
 salpiglossises
 salpingectomies
-salpingectomy
 salpingemphraxis
 salpinges
 salpingian
@@ -366755,6 +366302,7 @@ salpingitic
 salpingitides
 salpingitis
 salpingitises
+salpingo-oophorectomy
 salpingocatheterism
 salpingocele
 salpingocyesis
@@ -366771,11 +366319,8 @@ salpingorrhaphy
 salpingoscope
 salpingostaphyline
 salpingostenochoria
-salpingostomatomy
 salpingostomies
-salpingostomy
 salpingotomies
-salpingotomy
 salpinx
 salpinxes
 salpoid
@@ -368879,6 +368424,7 @@ sattie
 sattle
 sattva
 sattvic
+satu
 satura
 saturabilities
 saturability
@@ -370039,7 +369585,6 @@ scapulars
 scapulary
 scapulas
 scapulated
-scapulectomy
 scapulet
 scapulette
 scapulimancies
@@ -371332,7 +370877,6 @@ schwarmerisch
 schwartz
 schwartze
 schwartzes
-schwartzkopf
 schwarz
 schwarzenegger
 schwarzian
@@ -371669,7 +371213,6 @@ scleratogenous
 sclere
 sclerectasia
 sclerectomies
-sclerectomy
 scleredema
 sclereid
 sclereide
@@ -371791,11 +371334,9 @@ sclerotial
 sclerotic
 sclerotica
 sclerotical
-scleroticectomy
 scleroticochorioiditis
 scleroticochoroiditis
 scleroticonyxis
-scleroticotomy
 sclerotics
 sclerotin
 sclerotinia
@@ -371823,7 +371364,6 @@ sclerotoid
 sclerotome
 sclerotomic
 sclerotomies
-sclerotomy
 sclerous
 scleroxanthin
 sclerozone
@@ -372280,7 +371820,6 @@ scotomia
 scotomias
 scotomic
 scotomies
-scotomy
 scotophil
 scotophile
 scotophiles
@@ -373184,7 +372723,6 @@ scrorps
 scrota
 scrotal
 scrote
-scrotectomy
 scrotes
 scrotiform
 scrotitis
@@ -375034,6 +374572,7 @@ segugios
 seguidilla
 seguidillas
 seguing
+sehingga
 sehnsucht
 sehri
 sehris
@@ -377899,7 +377438,6 @@ septavalent
 septave
 septcentenary
 septectomies
-septectomy
 september
 septemberer
 septemberism
@@ -378038,7 +377576,6 @@ septomaxillary
 septonasal
 septoria
 septorias
-septotomy
 septs
 septship
 septuagenarian
@@ -378158,8 +377695,6 @@ sequestrator
 sequestrators
 sequestratrices
 sequestratrix
-sequestrectomy
-sequestrotomy
 sequestrum
 sequestrums
 sequin
@@ -379149,6 +378684,7 @@ sethead
 sethian
 sethic
 sethite
+setiap
 setibo
 setier
 setifera
@@ -384007,17 +383543,13 @@ sigmoid
 sigmoidal
 sigmoidally
 sigmoidectomies
-sigmoidectomy
 sigmoiditis
 sigmoidopexy
-sigmoidoproctostomy
-sigmoidorectostomy
 sigmoidoscope
 sigmoidoscopes
 sigmoidoscopic
 sigmoidoscopies
 sigmoidoscopy
-sigmoidostomy
 sigmoids
 sigmund
 sign
@@ -395576,13 +395108,11 @@ sphincter
 sphincteral
 sphincteralgia
 sphincterate
-sphincterectomy
 sphincterial
 sphincteric
 sphincterismus
 sphincteroscope
 sphincteroscopy
-sphincterotomy
 sphincters
 sphindid
 sphindidae
@@ -396521,7 +396051,6 @@ splanchnesthesia
 splanchnesthetic
 splanchnic
 splanchnicectomies
-splanchnicectomy
 splanchnoblast
 splanchnocele
 splanchnoceles
@@ -396552,7 +396081,6 @@ splanchnoskeletal
 splanchnoskeleton
 splanchnosomatic
 splanchnotomical
-splanchnotomy
 splanchnotribe
 splash
 splashback
@@ -396692,7 +396220,6 @@ splenectomize
 splenectomized
 splenectomizes
 splenectomizing
-splenectomy
 splenectopia
 splenectopy
 splenelcosis
@@ -396737,7 +396264,6 @@ splenodynia
 splenography
 splenohemia
 splenoid
-splenolaparotomy
 splenology
 splenolymph
 splenolymphatic
@@ -396753,6 +396279,7 @@ splenomegaly
 splenomyelogenous
 splenoncus
 splenonephric
+splenopancreatectomy
 splenopancreatic
 splenoparectama
 splenoparectasis
@@ -396766,7 +396293,6 @@ splenoptosia
 splenoptosis
 splenorrhagia
 splenorrhaphy
-splenotomy
 splenotoxin
 splenotyphoid
 splent
@@ -397065,7 +396591,6 @@ spondylosyndesis
 spondylotherapeutics
 spondylotherapist
 spondylotherapy
-spondylotomy
 spondylous
 spondyls
 spondylus
@@ -399736,7 +399261,6 @@ stanzos
 stap
 stapedectomies
 stapedectomized
-stapedectomy
 stapedes
 stapedez
 stapedial
@@ -399756,7 +399280,6 @@ staphyle
 staphylea
 staphyleaceae
 staphyleaceous
-staphylectomy
 staphyledema
 staphylematoma
 staphyles
@@ -399805,7 +399328,6 @@ staphyloschisis
 staphylosis
 staphylotome
 staphylotomies
-staphylotomy
 staphylotoxin
 staphyloxanthin
 staple
@@ -401427,7 +400949,6 @@ stereotomic
 stereotomical
 stereotomies
 stereotomist
-stereotomy
 stereotropic
 stereotropism
 stereotropisms
@@ -402726,7 +402247,6 @@ stomatologists
 stomatology
 stomatomalacia
 stomatomenia
-stomatomy
 stomatomycosis
 stomatonecrosis
 stomatopathy
@@ -402745,7 +402265,6 @@ stomatoscopy
 stomatose
 stomatosepsis
 stomatotomies
-stomatotomy
 stomatotyphus
 stomatous
 stomenorrhagia
@@ -403357,7 +402876,6 @@ strabometers
 strabometry
 strabotome
 strabotomies
-strabotomy
 stracchini
 stracchino
 strachey
@@ -404788,7 +404306,6 @@ strumae
 strumas
 strumatic
 strumaticness
-strumectomy
 strumella
 strumiferous
 strumiform
@@ -406372,7 +405889,6 @@ subdichotomies
 subdichotomize
 subdichotomous
 subdichotomously
-subdichotomy
 subdie
 subdilated
 subdirector
@@ -409087,6 +408603,7 @@ sucurujus
 sucury
 sud
 sudadero
+sudah
 sudamen
 sudamens
 sudamina
@@ -413309,7 +412826,6 @@ suprarationalism
 suprarationality
 suprarenal
 suprarenalectomize
-suprarenalectomy
 suprarenalin
 suprarenals
 suprarenin
@@ -414146,7 +413662,6 @@ sutures
 suturing
 suu
 suum
-suus
 suuwassea
 suva
 suvorexant
@@ -415724,9 +415239,7 @@ sympalmograph
 sympathectomies
 sympathectomize
 sympathectomized
-sympathectomy
 sympathetectomies
-sympathetectomy
 sympathetic
 sympathetical
 sympathetically
@@ -415831,17 +415344,14 @@ symphyogenetic
 symphyostemonous
 symphyseal
 symphyseotomies
-symphyseotomy
 symphyses
 symphysial
 symphysian
 symphysic
 symphysion
 symphysiotomies
-symphysiotomy
 symphysis
 symphysodactylia
-symphysotomy
 symphystic
 symphysy
 symphyta
@@ -416082,7 +415592,6 @@ synchondroses
 synchondrosial
 synchondrosially
 synchondrosis
-synchondrotomy
 synchoreses
 synchoresis
 synchro
@@ -416239,7 +415748,6 @@ syndactylous
 syndactyls
 syndactylus
 syndactyly
-syndectomy
 synded
 syndereses
 synderesis
@@ -416258,7 +415766,6 @@ syndesmorrhaphy
 syndesmoses
 syndesmosis
 syndesmotic
-syndesmotomy
 syndet
 syndetic
 syndetical
@@ -416315,7 +415822,6 @@ synechist
 synechistic
 synechological
 synechology
-synechotomy
 synechthran
 synechthry
 synecious
@@ -416556,7 +416062,6 @@ synostotic
 synostotical
 synostotically
 synousiacs
-synovectomy
 synovia
 synovial
 synovially
@@ -416685,7 +416190,6 @@ synthronus
 synthronuses
 synths
 syntomia
-syntomy
 syntone
 syntones
 syntonic
@@ -416828,7 +416332,6 @@ syringomyelias
 syringomyelic
 syringotome
 syringotomies
-syringotomy
 syrinx
 syrinxes
 syriologist
@@ -417482,7 +416985,6 @@ tachysystole
 tachytelic
 tachytely
 tachythanatous
-tachytomy
 tachytype
 tacit
 tacite
@@ -419726,7 +419228,6 @@ tarseal
 tarsealed
 tarsealing
 tarseals
-tarsectomy
 tarsectopia
 tarsel
 tarsels
@@ -419763,7 +419264,6 @@ tarsoptosis
 tarsorrhaphy
 tarsotarsal
 tarsotibal
-tarsotomy
 tarsus
 tart
 tartago
@@ -422619,7 +422119,6 @@ tendoor
 tendoplasty
 tendosynovitis
 tendotome
-tendotomy
 tendour
 tendovaginal
 tendovaginitis
@@ -422676,7 +422175,6 @@ tenebrous
 tenebrously
 tenebrousness
 tenebrousnesses
-tenectomy
 tenedos
 tenement
 tenemental
@@ -422780,9 +422278,7 @@ tenofovir-emtricitabine-efavirenz
 tenography
 tenology
 tenomyoplasty
-tenomyotomy
 tenon
-tenonectomy
 tenoned
 tenoner
 tenoners
@@ -422798,12 +422294,10 @@ tenontography
 tenontolemmitis
 tenontology
 tenontomyoplasty
-tenontomyotomy
 tenontophyma
 tenontoplasty
 tenontosaurus
 tenontothecitis
-tenontotomy
 tenophony
 tenophyte
 tenoplastic
@@ -422835,7 +422329,6 @@ tenotomies
 tenotomist
 tenotomists
 tenotomize
-tenotomy
 tenour
 tenours
 tenovaginitis
@@ -423807,7 +423300,6 @@ tesserarian
 tesserate
 tesserated
 tesseratomic
-tesseratomy
 tessitura
 tessituras
 tessiture
@@ -424091,7 +423583,6 @@ tetrachords
 tetrachoric
 tetrachotomies
 tetrachotomous
-tetrachotomy
 tetrachromacies
 tetrachromacy
 tetrachromat
@@ -424726,7 +424217,6 @@ thalamopeduncular
 thalamophora
 thalamotegmental
 thalamotomies
-thalamotomy
 thalamus
 thalarctos
 thalassa
@@ -426923,7 +426413,6 @@ thoracal
 thoracalgia
 thoracaorta
 thoracectomies
-thoracectomy
 thoracenteses
 thoracentesis
 thoraces
@@ -426939,7 +426428,6 @@ thoraciform
 thoracispinal
 thoracoabdominal
 thoracoacromial
-thoracobronchotomy
 thoracoceloschisis
 thoracocenteses
 thoracocentesis
@@ -426968,12 +426456,10 @@ thoracoscopy
 thoracostei
 thoracostenosis
 thoracostomies
-thoracostomy
 thoracostraca
 thoracostracan
 thoracostracous
 thoracotomies
-thoracotomy
 thoral
 thorascope
 thorax
@@ -427504,7 +426990,6 @@ throeing
 throes
 thrombase
 thrombectomies
-thrombectomy
 thrombi
 thrombin
 thrombins
@@ -427525,6 +427010,7 @@ thrombocytosis
 thromboembolic
 thromboembolism
 thromboembolisms
+thromboendarterectomy
 thrombogen
 thrombogenic
 thrombogens
@@ -428016,7 +427502,6 @@ thymectomize
 thymectomized
 thymectomizes
 thymectomizing
-thymectomy
 thymegol
 thymelaea
 thymelaeaceae
@@ -428097,14 +427582,12 @@ thyreoid
 thyreoidal
 thyreoideal
 thyreoidean
-thyreoidectomy
 thyreoiditis
 thyreoids
 thyreoitis
 thyreolingual
 thyreoprotein
 thyreosis
-thyreotomy
 thyreotoxicosis
 thyreotropic
 thyridia
@@ -428145,7 +427628,6 @@ thyroidean
 thyroidectomies
 thyroidectomize
 thyroidectomized
-thyroidectomy
 thyroidism
 thyroidites
 thyroiditides
@@ -428154,7 +427636,6 @@ thyroiditises
 thyroidization
 thyroidless
 thyroidotomies
-thyroidotomy
 thyroids
 thyroiodin
 thyrold
@@ -428164,7 +427645,6 @@ thyronine
 thyroparathyroidectomies
 thyroparathyroidectomize
 thyroparathyroidectomized
-thyroparathyroidectomy
 thyroprival
 thyroprivia
 thyroprivic
@@ -428178,7 +427658,6 @@ thyrostraca
 thyrostracan
 thyrotherapy
 thyrotome
-thyrotomy
 thyrotoxic
 thyrotoxicity
 thyrotoxicoses
@@ -429178,6 +428657,7 @@ tinctured
 tinctures
 tincturing
 tind
+tindakan
 tindal
 tindalo
 tindals
@@ -429455,9 +428935,11 @@ tiny
 tinzenite
 tioconazole
 tioguanine
+tionontates
 tionontati
 tiopronin
 tiotropium
+tiou
 tip
 tip-and-run
 tip-off
@@ -431102,7 +430584,6 @@ tonsbergite
 tonsil
 tonsilar
 tonsile
-tonsilectomy
 tonsilitic
 tonsilitis
 tonsilitises
@@ -431112,7 +430593,6 @@ tonsillectome
 tonsillectomic
 tonsillectomies
 tonsillectomize
-tonsillectomy
 tonsillites
 tonsillith
 tonsillitic
@@ -431122,7 +430602,6 @@ tonsillitises
 tonsillolith
 tonsillotome
 tonsillotomies
-tonsillotomy
 tonsilomycosis
 tonsils
 tonsor
@@ -431396,7 +430875,6 @@ topdressings
 tope
 topechee
 topectomies
-topectomy
 toped
 topee
 topees
@@ -432993,6 +432471,7 @@ trabeculate
 trabeculated
 trabeculation
 trabecule
+trabeculectomy
 trabes
 trabs
 trabu
@@ -433058,7 +432537,6 @@ tracheitises
 trachelagra
 trachelate
 trachelectomopexia
-trachelectomy
 trachelia
 trachelismus
 trachelitis
@@ -433075,7 +432553,6 @@ tracheloplasty
 trachelorrhaphy
 tracheloscapular
 trachelospermum
-trachelotomy
 trachenchyma
 tracheobronchial
 tracheobronchitis
@@ -433085,7 +432562,6 @@ tracheoesophageal
 tracheofissure
 tracheolar
 tracheolaryngeal
-tracheolaryngotomy
 tracheole
 tracheoles
 tracheolingual
@@ -433109,14 +432585,12 @@ tracheoscopist
 tracheoscopy
 tracheostenosis
 tracheostomies
-tracheostomy
 tracheotome
 tracheotomies
 tracheotomist
 tracheotomize
 tracheotomized
 tracheotomizing
-tracheotomy
 tracherous
 tracherously
 trachile
@@ -434784,6 +434258,7 @@ transuranian
 transuranic
 transuranics
 transuranium
+transureteroureterostomy
 transurethral
 transuterine
 transvaal
@@ -436295,7 +435770,6 @@ trichotomizes
 trichotomizing
 trichotomous
 trichotomously
-trichotomy
 trichroic
 trichroism
 trichroisms
@@ -437525,6 +436999,7 @@ trisect
 trisected
 trisecting
 trisection
+trisectionectomy
 trisections
 trisector
 trisectors
@@ -439295,7 +438770,6 @@ tty
 ttyl
 tu
 tua
-tual
 tualati
 tuamotu
 tuamotuan
@@ -439303,7 +438777,6 @@ tuan
 tuans
 tuant
 tuareg
-tuaregs
 tuarn
 tuart
 tuarts
@@ -439352,7 +438825,6 @@ tube
 tube-eye
 tube-eyes
 tubectomies
-tubectomy
 tubed
 tubeflower
 tubeform
@@ -440298,7 +439770,6 @@ turbinatocylindrical
 turbinatoglobose
 turbinatostipitate
 turbine
-turbinectomy
 turbined
 turbinelike
 turbinella
@@ -440311,7 +439782,6 @@ turbiniform
 turbinite
 turbinoid
 turbinotome
-turbinotomy
 turbit
 turbith
 turbiths
@@ -441691,7 +441161,6 @@ tylarus
 tylaster
 tyleberry
 tylectomies
-tylectomy
 tylenchus
 tyler
 tylerism
@@ -441739,7 +441208,6 @@ tympan
 tympana
 tympanal
 tympanam
-tympanectomy
 tympani
 tympanic
 tympanichord
@@ -441764,6 +441232,7 @@ tympanohyal
 tympanomalleal
 tympanomandibular
 tympanomastoid
+tympanomastoidectomy
 tympanomaxillary
 tympanon
 tympanoperiotic
@@ -441771,7 +441240,6 @@ tympanosis
 tympanosquamosal
 tympanostapedial
 tympanotemporal
-tympanotomy
 tympans
 tympanuchus
 tympanum
@@ -441858,7 +441326,6 @@ typhization
 typhlatonia
 typhlatony
 typhlectasis
-typhlectomy
 typhlenteritis
 typhlitic
 typhlitis
@@ -441887,8 +441354,6 @@ typhlosolar
 typhlosole
 typhlosoles
 typhlostenosis
-typhlostomy
-typhlotomy
 typhoaemia
 typhobacillosis
 typhoean
@@ -442865,7 +442330,6 @@ ultramicroscopy
 ultramicrotome
 ultramicrotomes
 ultramicrotomies
-ultramicrotomy
 ultramilitant
 ultramilitants
 ultraminiature
@@ -443152,7 +442616,6 @@ umbery
 umbeset
 umbethink
 umbibilici
-umbilectomy
 umbilic
 umbilical
 umbilically
@@ -466944,19 +466407,15 @@ uretercystoscope
 ureterectasia
 ureterectasis
 ureterectomies
-ureterectomy
 ureteric
 ureteritis
 ureteritises
 ureterocele
 ureterocervical
-ureterocolostomy
 ureterocystanastomosis
 ureterocystoscope
-ureterocystostomy
 ureterodialysis
 ureteroenteric
-ureteroenterostomy
 ureterogenital
 ureterogram
 ureterograph
@@ -466966,32 +466425,23 @@ ureterolith
 ureterolithiasis
 ureterolithic
 ureterolithotomies
-ureterolithotomy
 ureterolysis
 ureteroneocystostomies
-ureteronephrectomy
 ureterophlegma
 ureteroplasty
-ureteroproctostomy
 ureteropyelitis
 ureteropyelogram
 ureteropyelography
 ureteropyelonephritis
-ureteropyelostomy
 ureteropyosis
 ureteroradiography
-ureterorectostomy
 ureterorrhagia
 ureterorrhaphy
-ureterosalpingostomy
-ureterosigmoidostomy
 ureterostegnosis
 ureterostenoma
 ureterostenosis
 ureterostoma
 ureterostomies
-ureterostomy
-ureterotomy
 ureterouteral
 ureterovaginal
 ureterovesical
@@ -467014,7 +466464,6 @@ urethrascope
 urethratome
 urethratresia
 urethrectomies
-urethrectomy
 urethremphraxis
 urethreurynter
 urethrism
@@ -467052,10 +466501,8 @@ urethrosexual
 urethrospasm
 urethrostaxis
 urethrostenosis
-urethrostomy
 urethrotome
 urethrotomic
-urethrotomy
 urethrovaginal
 urethrovesical
 urethylan
@@ -467357,7 +466804,6 @@ urosternite
 urosthene
 urosthenic
 urostomies
-urostomy
 urostylar
 urostyle
 urostyles
@@ -467572,6 +467018,7 @@ usself
 ussels
 usselven
 ussingite
+ussingites
 ussr
 ust
 ustarana
@@ -467694,7 +467141,6 @@ utensils
 uteodon
 uteralgia
 uterectomies
-uterectomy
 uteri
 uterine
 uteritis
@@ -467703,7 +467149,6 @@ utero
 uteroabdominal
 uterocele
 uterocervical
-uterocystotomy
 uterofixation
 uterogestation
 uterogestations
@@ -467728,7 +467173,6 @@ uterosacral
 uterosclerosis
 uteroscope
 uterotomies
-uterotomy
 uterotonic
 uterotubal
 uterovaginal
@@ -467931,9 +467375,7 @@ uvularly
 uvulars
 uvulas
 uvulatomies
-uvulatomy
 uvulectomies
-uvulectomy
 uvulitis
 uvulitises
 uvulopalatopharyngoplasties
@@ -467943,7 +467385,6 @@ uvulopalatoplasty
 uvuloptosis
 uvulotome
 uvulotomies
-uvulotomy
 uvver
 uwa
 uwas
@@ -468272,7 +467713,6 @@ vagina
 vaginae
 vaginal
 vaginalectomies
-vaginalectomy
 vaginaless
 vaginalitis
 vaginally
@@ -468281,7 +467721,6 @@ vaginas
 vaginate
 vaginated
 vaginectomies
-vaginectomy
 vaginervose
 vaginicola
 vaginicoline
@@ -468311,7 +467750,6 @@ vaginoses
 vaginosis
 vaginotome
 vaginotomies
-vaginotomy
 vaginovesical
 vaginovulvar
 vaginula
@@ -468330,7 +467768,6 @@ vagolysis
 vagosympathetic
 vagotomies
 vagotomize
-vagotomy
 vagotonia
 vagotonias
 vagotonic
@@ -468726,7 +468163,6 @@ valves
 valviferous
 valviform
 valving
-valvotomy
 valvula
 valvulae
 valvular
@@ -468738,7 +468174,6 @@ valvulitides
 valvulitis
 valvulitises
 valvulotome
-valvulotomy
 valyl
 valylene
 vambrace
@@ -469222,7 +468657,6 @@ varicosis
 varicosities
 varicosity
 varicotomies
-varicotomy
 varicula
 varidical
 varied
@@ -469434,7 +468868,6 @@ vasectomize
 vasectomized
 vasectomizes
 vasectomizing
-vasectomy
 vaseful
 vasefuls
 vaselet
@@ -469477,7 +468910,6 @@ vasodilations
 vasodilator
 vasodilators
 vasodilatory
-vasoepididymostomy
 vasofactive
 vasoformative
 vasoganglion
@@ -469507,17 +468939,14 @@ vasospasm
 vasospasms
 vasospastic
 vasostimulant
-vasostomy
 vasotocin
 vasotocins
 vasotomies
-vasotomy
 vasotonic
 vasotribe
 vasotripsy
 vasotrophic
 vasovagal
-vasovesiculectomy
 vasquine
 vassail
 vassails
@@ -470283,7 +469712,6 @@ vendu
 vendue
 vendues
 vendus
-venectomy
 vened
 venedotian
 veneer
@@ -470589,6 +470017,7 @@ ventriculites
 ventriculitic
 ventriculitidae
 ventriculocisternostomies
+ventriculocisternostomy
 ventriculogram
 ventriculography
 ventriculopuncture
@@ -470660,7 +470089,6 @@ ventrose
 ventrosity
 ventrosuspension
 ventrotomies
-ventrotomy
 ventrous
 vents
 venture
@@ -471400,7 +470828,6 @@ vertebrates
 vertebration
 vertebrations
 vertebre
-vertebrectomy
 vertebriform
 vertebroarterial
 vertebrobasilar
@@ -471541,7 +470968,6 @@ vesicopubic
 vesicorectal
 vesicosigmoid
 vesicospinal
-vesicotomy
 vesicovaginal
 vesicula
 vesiculae
@@ -471561,7 +470987,6 @@ vesiculating
 vesiculation
 vesiculations
 vesicule
-vesiculectomy
 vesiculiferous
 vesiculiform
 vesiculigerous
@@ -471570,7 +470995,6 @@ vesiculobronchial
 vesiculocavernous
 vesiculopustular
 vesiculose
-vesiculotomy
 vesiculotubular
 vesiculotympanic
 vesiculotympanitic
@@ -473316,7 +472740,6 @@ visceroptotic
 viscerosensory
 visceroskeletal
 viscerosomatic
-viscerotomy
 viscerotonia
 viscerotonias
 viscerotonic
@@ -473701,7 +473124,6 @@ vitraux
 vitreal
 vitrean
 vitrectomies
-vitrectomy
 vitrella
 vitremyte
 vitreodentinal
@@ -475144,6 +474566,7 @@ vulval
 vulvar
 vulvas
 vulvate
+vulvectomy
 vulviform
 vulvitis
 vulvitises
@@ -484962,7 +484385,6 @@ xylotomies
 xylotomist
 xylotomists
 xylotomous
-xylotomy
 xylotrya
 xylotypographic
 xylotypography
@@ -485310,10 +484732,12 @@ yantras
 yao
 yaodong
 yaodongs
+yaoguai
 yaoguais
 yaoi
 yaois
 yaoort
+yaos
 yaourt
 yaourti
 yaourts
@@ -487331,7 +486755,6 @@ zendiks
 zendo
 zendos
 zenelophon
-zeneophonk
 zenick
 zenith
 zenithal
@@ -488456,7 +487879,6 @@ zootomically
 zootomies
 zootomist
 zootomists
-zootomy
 zoototemism
 zootoxic
 zootoxin
