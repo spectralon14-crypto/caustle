@@ -220080,7 +220080,6 @@ kwikwetlem
 kwintra
 kwon
 kx'a
-kxꞌa
 ky
 kyabuka
 kyack
@@ -265704,6 +265703,7 @@ neyanda
 neys
 nez
 nf
+nga'ka
 ngaanyatjarra
 ngaanyatjarras
 ngai
@@ -265731,7 +265731,6 @@ ngarluma
 ngarrindjeri
 ngati
 ngatis
-ngaʼka
 ngbaka
 ngbakas
 ngbandi
@@ -294746,7 +294745,6 @@ ozraptor
 ozs
 ozzie
 ozzies
-oꞌer
 p-adic
 p-aminohippurate
 p-azoxyanisole
@@ -380361,7 +380359,6 @@ shantytown
 shantytowns
 shanxi
 shanyao
-shanꞌt
 shaochilong
 shaolin
 shaolins
@@ -486032,7 +486029,6 @@ yesked
 yesking
 yesks
 yesn't
-yesnꞌt
 yeso
 yessed
 yesses
