@@ -9,6 +9,7 @@
 'tis
 'twas
 -
+@delete-prefis
 a
 a-begging
 a-bomb
@@ -2416,7 +2417,6 @@ acequia
 acequiador
 acequias
 acer
-aceraceae
 aceraceous
 acerae
 acerata
@@ -2425,8 +2425,6 @@ acerated
 acerates
 acerathere
 aceratherium
-aceratosis
-acerb
 acerbas
 acerbate
 acerbated
@@ -2440,11 +2438,8 @@ acerbities
 acerbitude
 acerbity
 acerbly
-acerbophobia
 acerdol
 aceric
-acerin
-acerli
 acerola
 acerolas
 acerose
@@ -2452,14 +2447,17 @@ acerous
 acerra
 acers
 acertannin
+aceruloplasminaemia
+aceruloplasminaemias
+aceruloplasminemia
+aceruloplasminemias
 acerval
 acervate
 acervately
-acervatim
+acervatin
 acervation
 acervations
 acervative
-acervose
 acervuli
 acervuline
 acervulus
@@ -2473,7 +2471,6 @@ acescents
 acesodyne
 acespec
 acestes
-acesulfame
 aceta
 acetable
 acetabula
@@ -194937,6 +194934,7 @@ illegitimatize
 illegitimatized
 illegitimatizing
 illeism
+illeisms
 illeist
 iller
 illeracy
@@ -218134,6 +218132,7 @@ klismos
 klister
 klisters
 kln
+klocki
 klockmannite
 klockmannites
 kloesse
@@ -225988,11 +225987,11 @@ lespedeza
 lespedezas
 lesquerella
 less
-less-qualified
 lessee
 lessees
 lesseeship
 lesseeships
+lessemasaurus
 lessemsaurus
 lessen
 lessened
@@ -226025,6 +226024,7 @@ lestobiosis
 lestobiotic
 lestodon
 lestosaurus
+lestosauruses
 lestrad
 lestrigon
 lestrigonian
@@ -365054,6 +365054,8 @@ ruttishness
 ruttishnesses
 ruttle
 rutty
+rutu
+rutul
 rutuli
 rutyl
 rutylene
@@ -379123,7 +379125,6 @@ sesia
 sesiidae
 seskin
 sesma
-sesotho
 sesperal
 sesqui
 sesquialter
@@ -379144,6 +379145,7 @@ sesquicentennials
 sesquichloride
 sesquiduple
 sesquiduplicate
+sesquih
 sesquihydrate
 sesquihydrated
 sesquinona
@@ -379155,8 +379157,10 @@ sesquioxides
 sesquipedal
 sesquipedalian
 sesquipedalianism
+sesquipedalianisms
 sesquipedalians
 sesquipedalism
+sesquipedalisms
 sesquipedality
 sesquipedalophobe
 sesquipedalophobes
@@ -379183,6 +379187,8 @@ sesquisulphides
 sesquisulphuret
 sesquiterpene
 sesquiterpenes
+sesquiterpenoid
+sesquiterpenoids
 sesquitertia
 sesquitertial
 sesquitertian
@@ -379198,6 +379204,7 @@ sessility
 sessiliventres
 sessing
 session
+sessionable
 sessional
 sessionally
 sessionary
@@ -414208,11 +414215,9 @@ suterberries
 suterberry
 suterbery
 suther
-sutherland
 sutherlandia
 sutile
 sutimlimab
-sutlac
 sutler
 sutlerage
 sutleress
@@ -414247,7 +414252,6 @@ suttletie
 suttleties
 suttling
 suttly
-sutton
 sutu
 sutural
 suturally
@@ -467567,6 +467571,7 @@ urunday
 urus
 uruses
 urushi
+urushic
 urushinic
 urushiol
 urushiols
@@ -467722,6 +467727,7 @@ ustulina
 usu
 usual
 usualism
+usualisms
 usually
 usualness
 usualnesses
@@ -467748,7 +467754,6 @@ usufructs
 usufructuaries
 usufructuary
 usufruit
-usum
 usun
 usure
 usured
@@ -467920,8 +467925,8 @@ utlilized
 utmost
 utmostness
 utmosts
-uto
 utomilumab
+utonagans
 utopia
 utopian
 utopianise
@@ -467950,6 +467955,7 @@ utopistic
 utopists
 utopographer
 utraquism
+utraquisms
 utraquist
 utraquistic
 utrecht
@@ -467973,10 +467979,8 @@ utriculosaccular
 utriculose
 utriculus
 utriform
-utrillo
 utrubi
 utrum
-utrumque
 uts
 utsuk
 uttapam
