@@ -11184,6 +11184,7 @@ allyltrimethylsilanes
 allylzinc
 allylzincs
 allyou
+allys
 allyship
 allyships
 allysilane
@@ -13922,7 +13923,6 @@ amsacrine
 amsinckia
 amsinckias
 amsonia
-amstar
 amsterdam
 amt
 amtman
@@ -369623,6 +369623,8 @@ sbirro
 sbiten
 sblood
 sbodikins
+sbottom
+sbottoms
 sbrinz
 sc
 scab
@@ -371443,7 +371445,6 @@ schwarmerisch
 schwartz
 schwartze
 schwartzes
-schwartzkopf
 schwarz
 schwarzenegger
 schwarzian
