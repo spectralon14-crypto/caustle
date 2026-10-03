@@ -134235,6 +134235,8 @@ enzyme
 enzymes
 enzymic
 enzymically
+enzymogeneses
+enzymogenesis
 enzymological
 enzymologies
 enzymologist
@@ -134243,6 +134245,7 @@ enzymology
 enzymolyses
 enzymolysis
 enzymolytic
+enzymopathy
 enzymosis
 enzymotic
 enzyms
@@ -225987,6 +225990,7 @@ lesleya
 leslie
 lesotho
 lesothosaurus
+lesothosauruses
 lespedeza
 lespedezas
 lesquerella
