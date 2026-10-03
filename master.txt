@@ -267144,6 +267144,7 @@ nkutu
 nkwen
 nkwobi
 nlaka'pamux
+nnam
 no
 no-go
 no-good
