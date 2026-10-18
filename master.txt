@@ -8458,7 +8458,6 @@ airedale
 airedales
 airer
 airers
-aires
 airest
 airfare
 airfares
@@ -366497,6 +366496,14 @@ sains
 saint
 saint-john's-wort
 saint-john's-worts
+saint-nectaire
+saint-nectaires
+saint-simonian
+saint-simonianism
+saint-simonianisms
+saint-simonians
+saint-simonism
+saint-simonisms
 saintdom
 saintdoms
 sainte
