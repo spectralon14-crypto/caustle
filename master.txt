@@ -109675,6 +109675,8 @@ diaceturia
 diacetyl
 diacetylene
 diacetylmorphine
+diacetylphloroglucinol
+diacetylphloroglucinols
 diacetyls
 diachaenium
 diachoresis
@@ -109742,6 +109744,8 @@ diactinism
 diactinisms
 diacts
 diaculum
+diacylglycerol
+diacylglycerols
 diadelphia
 diadelphian
 diadelphic
@@ -136490,6 +136494,8 @@ eriobotrya
 eriocaulaceae
 eriocaulaceous
 eriocaulon
+eriochalcite
+eriochalcites
 eriocomi
 eriodendron
 eriodictyon
