@@ -9,6 +9,7 @@
 'tis
 'twas
 -
+1-matrix
 @delete-prefis
 a
 a-begging
@@ -5075,7 +5076,6 @@ admonitrix
 admortization
 admov
 admove
-admrx
 adnascence
 adnascent
 adnate
@@ -5085,12 +5085,10 @@ adnephrine
 adnerval
 adnescent
 adneural
-adnex
 adnexa
 adnexal
 adnexed
 adnexitis
-adnexopexy
 adnominal
 adnominally
 adnominals
@@ -5219,7 +5217,6 @@ adoxaceae
 adoxaceous
 adoxies
 adoxography
-adoxy
 adoze
 adp
 adpao
@@ -11055,7 +11052,6 @@ alloxantin
 alloxuraemia
 alloxuremia
 alloxuric
-alloxy
 alloxyproteic
 alloy
 alloyage
@@ -11459,7 +11455,6 @@ alpaccas
 alpargata
 alpargatas
 alpasotes
-alpax
 alpeen
 alpeens
 alpelisib
@@ -12281,7 +12276,6 @@ amautik
 amautiks
 amautis
 amauts
-amax
 amaxomania
 amaxophobe
 amaxophobes
@@ -12948,7 +12942,6 @@ amidosuccinamic
 amidosulphonal
 amidothiazole
 amidoxime
-amidoxy
 amidoxyl
 amidrazone
 amids
@@ -13144,6 +13137,7 @@ amla
 amlacra
 amlas
 amlet
+amlexanox
 amli
 amlikar
 amlodipine
@@ -18931,7 +18925,6 @@ anticommutative
 anticompetitive
 anticomplement
 anticomplementary
-anticomplex
 anticonceptionist
 anticonductor
 anticonfederationism
@@ -19295,7 +19288,6 @@ antiflatulent
 antiflu
 antifluoridationist
 antifluoridationists
-antiflux
 antifoam
 antifoaming
 antifog
@@ -19894,7 +19886,6 @@ antiorganizations
 antiorgastic
 antiorthodox
 antiorthodoxly
-antiorthodoxy
 antioxidant
 antioxidants
 antioxidase
@@ -20742,7 +20733,6 @@ antivariolous
 antivax
 antivaxer
 antivaxers
-antivaxx
 antivaxxer
 antivaxxers
 antivenefic
@@ -22841,7 +22831,6 @@ apulmonic
 apulse
 apurpose
 apus
-apx
 apyrase
 apyrases
 apyrene
@@ -24036,7 +24025,6 @@ archmystagogue
 archness
 archnesses
 archocele
-archocystosyrinx
 archologies
 archology
 archon
@@ -24062,7 +24050,6 @@ archosaurians
 archosaurs
 archostegnosis
 archostenosis
-archosyrinx
 archoverseer
 archpall
 archpapist
@@ -25799,7 +25786,6 @@ arterys
 artesian
 artesonado
 artesonados
-artex
 artful
 artfully
 artfulness
@@ -25921,7 +25907,6 @@ arthrostome
 arthrostomy
 arthrostraca
 arthrosynovitis
-arthrosyrinx
 arthrotome
 arthrotomies
 arthrotomy
@@ -25985,7 +25970,6 @@ artifactitious
 artifacts
 artifactual
 artifactually
-artifex
 artifice
 artificer
 artificers
@@ -26147,7 +26131,6 @@ arviculture
 arvin
 arvo
 arvos
-arx
 ary
 arya
 aryballi
@@ -26740,7 +26723,6 @@ asouth
 asp
 aspace
 aspalathus
-aspalax
 asparagic
 asparagin
 asparaginase
@@ -27769,7 +27751,6 @@ astre
 astream
 astrean
 astrer
-astrex
 astrexes
 astrict
 astricted
@@ -30267,7 +30248,6 @@ autoimmunizing
 autoincrement
 autoincremented
 autoincrements
-autoindex
 autoindexing
 autoinduction
 autoinductive
@@ -37096,6 +37076,7 @@ batting
 battings
 battish
 battle
+battle-ax
 battle-axes
 battleax
 battleaxe
@@ -37339,7 +37320,6 @@ bawties
 bawty
 bawu
 bawus
-bax
 baxter
 baxterian
 baxterianism
@@ -37372,7 +37352,6 @@ bayesian
 bayest
 bayeta
 bayete
-bayeux
 bayfront
 bayfronts
 baygall
@@ -43445,6 +43424,7 @@ biller
 billericay
 billers
 billet
+billet-doux
 billete
 billeted
 billetee
@@ -43455,6 +43435,7 @@ billethead
 billeting
 billetings
 billets
+billets-doux
 billette
 billetty
 billetwood
@@ -53019,7 +53000,6 @@ britzska
 britzskas
 brivanib
 brivaracetam
-brix
 brixham
 brixton
 brixworth
@@ -56845,7 +56825,6 @@ bwazi
 bwazis
 bwe
 bwisi
-bx
 bxs
 by
 by-and-by
@@ -65427,7 +65406,6 @@ cedulas
 cedule
 ceduous
 cee
-ceefax
 ceennacuelum
 cees
 cefaclor
@@ -67835,7 +67813,6 @@ chamoline
 chamomile
 chamomiles
 chamomilla
-chamonix
 chamorro
 chamos
 chamosite
@@ -71259,7 +71236,6 @@ chivying
 chiweenie
 chiweenies
 chiwere
-chiwoxy
 chiyogami
 chiyogamis
 chiz
@@ -71747,7 +71723,6 @@ choirstalls
 choirwise
 choise
 choisya
-choix
 chok
 chokage
 choke
@@ -73826,6 +73801,7 @@ ciclaton
 ciclatons
 ciclatoun
 ciclatouns
+ciclopirox
 ciclosporin
 ciclosporins
 ciconia
@@ -74473,6 +74449,7 @@ circumferential
 circumferentially
 circumferentor
 circumferentors
+circumfix
 circumflant
 circumflect
 circumflected
@@ -77538,6 +77515,7 @@ co-occurring
 co-occurs
 co-ordinate
 co-ordinates
+co-vertex
 co-worker
 co-workers
 co-written
@@ -81343,7 +81321,6 @@ cometwise
 comeupance
 comeuppance
 comeuppances
-comex
 comfier
 comfiest
 comfily
@@ -83007,6 +82984,7 @@ concaving
 concavities
 concavity
 concavo
+concavo-convex
 conceal
 concealable
 concealed
@@ -86729,6 +86707,7 @@ convexly
 convexness
 convexnesses
 convexo
+convexo-convex
 convexoconcave
 convey
 conveyability
@@ -91610,6 +91589,7 @@ cowweed
 cowwheat
 cowy
 cowyard
+COX
 cox
 coxa
 coxae
@@ -93758,7 +93738,6 @@ croisette
 croissant
 croissante
 croissants
-croix
 crojack
 crojik
 crojiks
@@ -93946,9 +93925,11 @@ crosne
 crosnes
 cross
 cross-back
+cross-index
 cross-sell
 cross-selling
 cross-sells
+cross-sex
 cross-train
 cross-trained
 cross-trainer
@@ -95856,6 +95837,7 @@ culverts
 culverwort
 culzean
 cum
+cum-ex
 cumacea
 cumacean
 cumaceans
@@ -98194,6 +98176,7 @@ cystolithectomy
 cystolithiases
 cystolithiasis
 cystolithic
+cystolitholapaxy
 cystoliths
 cystoma
 cystomas
@@ -104193,7 +104176,6 @@ delabializing
 delace
 delacerate
 delacrimation
-delacroix
 delactation
 delafloxacin
 delaine
@@ -120274,7 +120256,6 @@ douleia
 douleias
 doulocracies
 doulocracy
-douloureux
 doulton
 doum
 douma
@@ -123673,7 +123654,6 @@ duresses
 duressor
 duret
 duretto
-durex
 durezza
 durg
 durgah
@@ -123975,7 +123955,6 @@ dwining
 dwt
 dwyer
 dwyka
-dx
 dy
 dyable
 dyad
@@ -131435,6 +131414,7 @@ endoceratite
 endoceratitic
 endocervical
 endocervicitis
+endocervix
 endochondral
 endochorion
 endochorionic
@@ -135683,7 +135663,6 @@ epizootology
 epizooty
 epkwele
 eplefenamide
-epleflux
 eplenone
 eplephage
 eplephagic
@@ -144079,7 +144058,6 @@ faired
 fairer
 fairest
 fairfaced
-fairfax
 fairfield
 fairfieldite
 fairford
@@ -148844,7 +148822,6 @@ filmstrip
 filmstrips
 filmy
 filo
-filofax
 filofaxes
 filoplumaceous
 filoplume
@@ -153231,6 +153208,7 @@ fondaco
 fondak
 fondant
 fondants
+fondaparinux
 fondas
 fondateur
 fonded
@@ -167545,6 +167523,7 @@ glycine
 glycines
 glycinin
 glycins
+glycocalyx
 glycocholate
 glycocholic
 glycocin
@@ -172794,7 +172773,6 @@ gruyere
 gruyeres
 gruys
 gruzz
-grx
 gry
 gryce
 gryces
@@ -180283,6 +180261,7 @@ heliotypies
 heliotyping
 heliotypography
 heliotypy
+heliox
 heliozoan
 heliozoans
 heliozoic
@@ -181416,7 +181395,6 @@ hending
 hendly
 hendness
 hendon
-hendrix
 hendry
 hends
 hendy
@@ -182410,7 +182388,6 @@ hershey
 hership
 herships
 hersir
-herstmonceux
 herstories
 herstory
 hert
@@ -188072,6 +188049,7 @@ hotels
 hotels-dieu
 hotelward
 hoten
+hotfix
 hotfoot
 hotfooted
 hotfooting
@@ -189566,7 +189544,6 @@ hurryings
 hurryproof
 hursinghar
 hurst
-hurstmonceux
 hursts
 hurt
 hurtable
@@ -191794,6 +191771,7 @@ hypermarkets
 hypermart
 hypermarts
 hypermasculine
+hypermatrix
 hypermedia
 hypermedias
 hypermedication
@@ -195319,7 +195297,6 @@ imatinib
 imaum
 imaumbarah
 imaums
-imax
 imazamox
 imazighen
 imbalance
@@ -204496,6 +204473,7 @@ interfiltrating
 interfiltration
 interfinger
 interfirm
+interfix
 interflange
 interflashing
 interflow
@@ -211566,6 +211544,7 @@ jellyroll
 jellyrolls
 jellys
 jelotong
+jelqmaxx
 jelske
 jelutong
 jelutongs
@@ -219081,6 +219060,7 @@ kompromat
 kompromats
 komsomol
 komtok
+komvux
 kon
 kona
 konak
@@ -220345,7 +220325,6 @@ l-malates
 l-mannose
 l-mannoses
 l-matrices
-l-matrix
 l-menthol
 l-meth
 l-methamphetamine
@@ -223133,7 +223112,6 @@ lascar
 lascaree
 lascarine
 lascars
-lascaux
 laschety
 lascivient
 lasciviently
@@ -223511,6 +223489,7 @@ latino
 latinos
 latins
 latinus
+latinx
 lation
 latipennate
 latipennine
@@ -228703,7 +228682,6 @@ liothyronine
 liotrichi
 liotrichidae
 liotrichine
-liotrix
 liottite
 liottites
 lip
@@ -233452,8 +233430,6 @@ lwo
 lwop
 lwp
 lwxd
-lx
-lxx
 ly
 lyam
 lyams
@@ -236070,6 +236046,7 @@ malacanthine
 malacanthus
 malacaton
 malacca
+malaccamax
 malaccan
 malaccas
 malaccident
@@ -237972,7 +237949,6 @@ mantology
 manton
 mantos
 mantou
-mantoux
 mantra
 mantram
 mantrams
@@ -240781,7 +240757,6 @@ maxters
 maxwell
 maxwellian
 maxwells
-maxy
 may
 maya
 mayaca
@@ -243161,7 +243136,6 @@ mendaciousnesses
 mendacities
 mendacity
 mendaite
-mendax
 mende
 mended
 mendee
@@ -243740,7 +243714,6 @@ mercilessness
 mercilessnesses
 merciment
 merck
-merckx
 mercouri
 mercs
 mercurate
@@ -246184,7 +246157,6 @@ mews
 mewsed
 mewses
 mewsing
-mex
 mexica
 mexical
 mexican
@@ -247687,7 +247659,6 @@ middles
 middlesail
 middlesborough
 middlesbrough
-middlesex
 middlesplitter
 middleton
 middletone
@@ -247902,7 +247873,6 @@ miersites
 mies
 miescherian
 miesian
-mieux
 mieve
 mieved
 mieves
@@ -249289,6 +249259,7 @@ minkfishes
 minkish
 minkopi
 minks
+minmax
 minmi
 minneapolis
 minnehaha
@@ -252358,7 +252329,6 @@ mlem
 mlemmed
 mlemming
 mlems
-mlx
 mm
 mm-hm
 mm-hmm
@@ -255077,7 +255047,6 @@ montesquieu
 montessori
 montessorian
 montessorianism
-monteux
 monteverdi
 montevideo
 montezuma
@@ -255138,7 +255107,6 @@ montrachet
 montre
 montreal
 montres
-montreux
 montross
 montroydite
 monts
@@ -260041,7 +260009,6 @@ mwa
 mwah
 mwalimu
 mwalimus
-mx
 mxd
 my
 mya
@@ -262995,6 +262962,7 @@ navipendular
 navipendulum
 navis
 navite
+navitoclax
 navratilova
 navroz
 navs
@@ -265635,6 +265603,7 @@ newburg
 newbury
 newcal
 newcastle
+newcastlemax
 newcome
 newcomer
 newcomers
@@ -267294,7 +267263,7 @@ nkrumaists
 nkutu
 nkwen
 nkwobi
-nlaka'pamux
+nlakaʼpamux
 nnam
 no
 no-go
@@ -267602,6 +267571,7 @@ nogoodniks
 nogs
 noh
 nohes
+nohex
 nohkan
 nohow
 nohowish
@@ -278076,7 +278046,6 @@ nutty
 nutwood
 nutwoods
 nuu-chah-nulth
-nux
 nuxalk
 nuxalkmc
 nuxalks
@@ -278507,6 +278476,7 @@ oban
 obang
 obangs
 obas
+obatoclax
 obatzda
 obazda
 obb
@@ -295871,7 +295841,6 @@ paitrick
 paitricks
 paiute
 paiwari
-paix
 paixiao
 paized
 paizing
@@ -304164,7 +304133,6 @@ pencraft
 pencrafts
 pend
 penda
-pendaflex
 pendant
 pendanted
 pendanting
@@ -304759,6 +304727,7 @@ pentaphylacaceae
 pentaphylacaceous
 pentaphylax
 pentaphyllous
+pentaplex
 pentaploid
 pentaploidic
 pentaploidies
@@ -306068,7 +306037,6 @@ perigord
 perigordian
 perigraph
 perigraphic
-perigueux
 perigynial
 perigynies
 perigynium
@@ -315559,6 +315527,7 @@ planners
 planning
 plannings
 plano
+plano-convex
 planoblast
 planoblastic
 planoblasts
@@ -330429,6 +330398,7 @@ priding
 pridingly
 pridy
 prie
+prie-dieux
 pried
 priedieu
 priedieus
@@ -338621,7 +338591,6 @@ purenesses
 purer
 pures
 purest
-purex
 purey
 purfle
 purfled
@@ -353121,7 +353090,6 @@ relucting
 reluctivities
 reluctivity
 relucts
-relugolix
 relume
 relumed
 relumes
@@ -354099,7 +354067,6 @@ rentless
 rentrant
 rentrayeuse
 rentree
-rentrix
 rents
 renu
 renule
@@ -360525,7 +360492,6 @@ rier
 ries
 riesling
 rieslings
-rievaulx
 rievauxl
 rieve
 rieved
@@ -367432,6 +367398,7 @@ sambur
 samburs
 samburu
 same
+same-sex
 samech
 samechs
 samek
@@ -377610,7 +377577,6 @@ sempstrywork
 semsem
 semsems
 semsen
-semtex
 semuncia
 semunciae
 semuncial
@@ -378716,7 +378682,6 @@ seriema
 seriemas
 series
 serieswound
-serieux
 serif
 serifed
 seriffed
@@ -393921,6 +393886,7 @@ sowthed
 sowthing
 sowths
 sowwy
+SOX
 sox
 soxhlet
 soy
@@ -395606,7 +395572,6 @@ spewy
 spex
 spey
 speyanthra
-speyanthrix
 speyearn
 speyeria
 speyscvnlronlt
@@ -401589,6 +401554,7 @@ stereochroming
 stereochromy
 stereocomparagraph
 stereocomparator
+stereocomplex
 stereoed
 stereoelectric
 stereoelectroencephalographies
@@ -405828,6 +405794,7 @@ sub-gigahertz
 sub-grid
 sub-grids
 sub-i
+sub-index
 sub-internship
 sub-internships
 sub-is
@@ -409640,6 +409607,7 @@ sufis
 sufism
 sufistic
 sug
+sugammadex
 sugamo
 sugan
 sugann
@@ -412286,6 +412254,7 @@ supermassive
 supermaterial
 supermathematical
 supermathematically
+supermatrix
 supermax
 supermaxes
 supermaxilla
@@ -414449,6 +414418,7 @@ suvorexant
 suwandi
 suwarro
 suwe
+sux
 suyog
 suz
 suzan
@@ -415718,6 +415688,7 @@ syenogabbro
 syens
 syes
 syftn
+syilx
 syke
 syker
 sykerly
@@ -421737,7 +421708,6 @@ tektos
 tektosi
 tektosil
 tektosilicate
-tektronix
 tekwan
 tekya
 tekyehs
@@ -426243,7 +426213,6 @@ thermoelement
 thermoelements
 thermoesthesia
 thermoexcitory
-thermofax
 thermoform
 thermoformable
 thermoformed
@@ -426459,7 +426428,6 @@ theropodan
 theropodans
 theropodous
 theropods
-theroux
 thersitean
 thersites
 thersitical
@@ -428298,6 +428266,7 @@ thwartwise
 thwite
 thwittle
 thworl
+thx
 thy
 thyestean
 thyestes
@@ -429387,7 +429356,6 @@ timeworker
 timeworkers
 timeworks
 timeworn
-timex
 timezone
 timezones
 timias
@@ -470724,6 +470692,7 @@ venetianed
 venetians
 venetic
 veneto
+venetoclax
 veneur
 venewe
 venewes
@@ -471133,7 +471102,6 @@ verbascum
 verbascums
 verbate
 verbatim
-verbaux
 verbed
 verbena
 verbenaceae
@@ -472662,7 +472630,6 @@ vietnam
 vietnamese
 vietnamisation
 vietnamization
-vieux
 view
 viewability
 viewable
@@ -474599,7 +474566,6 @@ voivode
 voivodes
 voivodeship
 voivodeships
-voix
 vol
 vol-au-vent
 vol-au-vents
@@ -481529,7 +481495,6 @@ windermere
 windermost
 winders
 windesheimer
-windex
 windfall
 windfallen
 windfalls
@@ -486344,7 +486309,6 @@ yeukiest
 yeuking
 yeuks
 yeuky
-yeux
 yeve
 yeven
 yeves
@@ -489230,3 +489194,4 @@ zyzzyva
 zyzzyvas
 zzz
 zzzs
+соссух
